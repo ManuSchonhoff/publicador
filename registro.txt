@@ -1,0 +1,1 @@
+# Registro del publicador: una línea por publicación o error (lo escribe publicar.py).

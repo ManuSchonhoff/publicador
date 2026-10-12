@@ -1,0 +1,82 @@
+name: Publicar en Instagram
+
+on:
+  schedule:
+    # Cada 15 minutos (en los minutos 4, 19, 34 y 49: GitHub se atrasa menos que en punto).
+    - cron: "4,19,34,49 * * * *"
+  workflow_dispatch:
+    inputs:
+      solo_probar:
+        description: "Solo probar (no publica nada: revisa la cola, el token y los archivos)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write   # para guardar cola.json y registro.txt después de publicar
+
+concurrency:
+  group: publicar-instagram   # nunca dos corridas a la vez
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      TZ: America/Argentina/Buenos_Aires
+      SOLO_PROBAR: ${{ github.event_name == 'workflow_dispatch' && inputs.solo_probar && '1' || '0' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ¿Hay algo para publicar?
+        id: hay
+        run: python publicar.py --hay-algo
+
+      - name: Instalar requests y Pillow
+        if: steps.hay.outputs.toca == 'si' || env.SOLO_PROBAR == '1'
+        run: pip install -r requirements.txt
+
+      - name: Calendario (prueba en seco)
+        if: steps.hay.outputs.toca == 'si' || env.SOLO_PROBAR == '1'
+        run: python verificar.py --resumen
+
+      - name: Publicar
+        id: publicar
+        if: steps.hay.outputs.toca == 'si' || env.SOLO_PROBAR == '1'
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          # Instagram baja los archivos de este mismo commit del repo público.
+          MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/
+        run: |
+          if [ "$SOLO_PROBAR" = "1" ]; then
+            python publicar.py --solo-probar
+          else
+            python publicar.py
+          fi
+
+      - name: Guardar cola.json en el repo
+        if: always() && steps.publicar.conclusion != 'skipped' && env.SOLO_PROBAR != '1'
+        run: |
+          git config user.name "publicador-trackear"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cola.json registro.txt 2>/dev/null || git add cola.json
+          if git diff --cached --quiet; then
+            echo "cola.json no cambió."
+            exit 0
+          fi
+          git commit -m "Publicador: cola actualizada $(date '+%d/%m %H:%M')"
+          for intento in 1 2 3; do
+            if git pull --rebase && git push; then
+              echo "cola.json guardada."
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          echo "::error::No pude guardar cola.json (alguien la cambió al mismo tiempo). La próxima corrida no repite lo publicado: antes de publicar mira si ya está en la cuenta."
+          exit 1

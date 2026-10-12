@@ -1,0 +1,54 @@
+name: Renovar token de Instagram
+
+on:
+  schedule:
+    # Día 1 de cada mes a las 9:17 de Argentina (12:17 UTC). El token vale 60 días.
+    - cron: "17 12 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write   # para dejar un aviso (issue) si algo falla
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar requests
+        run: pip install requests
+
+      - name: Renovar el token
+        id: renovar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python renovar_token.py --salida "$RUNNER_TEMP/token_nuevo"
+
+      - name: Guardar el token nuevo en el secreto IG_TOKEN
+        if: steps.renovar.outputs.cambio == 'si'
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            rm -f "$RUNNER_TEMP/token_nuevo"
+            echo "::error::Instagram dio un token nuevo y no hay secreto GH_PAT para guardarlo solo. Hacé el paso 'Si falla la renovación' de GUIA.md."
+            exit 1
+          fi
+          gh secret set IG_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/token_nuevo"
+          rm -f "$RUNNER_TEMP/token_nuevo"
+          echo "Secreto IG_TOKEN actualizado."
+
+      - name: Avisar que falló
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Falló la renovación del token de Instagram ($(date -u '+%d/%m/%Y'))" \
+            --body "La renovación mensual del token no anduvo. Si no se arregla, el publicador deja de publicar cuando venza el token (60 días desde la última renovación). Qué hacer: GUIA.md, sección 'Si falla la renovación del token'. Detalle: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

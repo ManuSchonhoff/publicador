@@ -1,0 +1,149 @@
+[
+  {
+    "id": "2026-10-14",
+    "fecha_hora": "2026-10-14T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-14/p01.jpg",
+      "media/2026-10-14/p02.jpg",
+      "media/2026-10-14/p03.jpg",
+      "media/2026-10-14/p04.jpg",
+      "media/2026-10-14/p05.jpg",
+      "media/2026-10-14/p06.jpg",
+      "media/2026-10-14/p07.jpg",
+      "media/2026-10-14/p08.jpg"
+    ],
+    "pie": "Si en tu ganancia del día no entra lo que te deben, la cuenta está mal. Acá está entera, con un ejemplo.\n\nComprar a un precio y vender a otro no te da la ganancia del día: nunca operás el mismo monto de ida y de vuelta, y la cotización se mueve todo el día.\n\nLa cuenta que sirve tiene cuatro pasos:\n1. Pasás todas las cajas a dólares.\n2. Sumás lo que te deben y restás lo que debés.\n3. Eso es tu patrimonio neto.\n4. Lo comparás contra la foto de las 00:00, sin contar lo que pusieron o retiraron los socios.\n\nPara el mes, la misma cuenta contra la foto del 1° a las 00:00.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel que explica cómo calcular la ganancia del día de una financiera o casa de cambio, en dólares, con un ejemplo.",
+      "Comprar a un precio y vender a otro no te da la ganancia del día. Nunca operás el mismo monto de ida y de vuelta, y la cotización se mueve todo el día.",
+      "Paso 1: todo a dólares. Cada caja, en cada moneda, al promedio de compra y venta. La que fijás a mano, como el euro a 1,23, se respeta. Pesos 54.912.300 a 1.550 son 35.427,29 dólares. Dólares 104.920 son 104.920,00 dólares. Euros 8.450 fijado a 1,23 son 10.393,50 dólares. Cajas en dólares: 150.740,79 dólares. Datos de ejemplo.",
+      "Paso 2: sumá lo que te deben y restá lo que debés. Si el cliente se llevó los dólares y los pesos llegan mañana, eso es plata a cobrar, no una pérdida. Te deben 62.418,75 dólares. Debés 19.763,04 dólares. Datos de ejemplo.",
+      "Paso 3: ese es tu patrimonio neto. Patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. 150.740,79 más 62.418,75 menos 19.763,04 son 193.396,50 dólares. Datos de ejemplo.",
+      "Paso 4: la ganancia se mide contra una foto. Todos los días a las 00:00 se saca una foto fija del patrimonio. Ganancia igual a patrimonio ahora menos la foto de las 00:00, menos aportes, más retiros. Datos de ejemplo.",
+      "El ejemplo, entero. Foto de las 00:00: 186.554,02 dólares. Patrimonio ahora: 193.396,50 dólares. Lo que pusieron los socios hoy: menos 5.000,00 dólares, que no es ganancia. La ganancia de hoy es más 1.842,48 dólares. Datos de ejemplo.",
+      "Resumen: patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. Ganancia igual a patrimonio ahora menos la foto de las 00:00, menos aportes, más retiros."
+    ],
+    "estado": "borrador",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/carga/2026-10-14"
+  },
+  {
+    "id": "2026-10-15",
+    "fecha_hora": "2026-10-15T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-15/p01.jpg",
+      "media/2026-10-15/p02.jpg",
+      "media/2026-10-15/p03.jpg",
+      "media/2026-10-15/p04.jpg",
+      "media/2026-10-15/p05.jpg",
+      "media/2026-10-15/p06.jpg",
+      "media/2026-10-15/p07.jpg"
+    ],
+    "pie": "Un movimiento de caja registrado no lo puede borrar nadie. Tampoco vos.\n\nEn la planilla, un saldo que “se corrigió” no deja registro de quién fue ni cuándo. Y sin historial, un error y un fraude se ven igual.\n\nEn TrackeAR Pro cada alta, cambio y baja queda con quién la hizo, cuándo y el valor anterior. Si hay un error, se anula con un movimiento en contra y el error queda a la vista. Los meses cerrados no cambian.\n\nConfiás en el equipo sin estar encima. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio antes de la próxima reunión.\n\n#casasdecambio #controldecaja #financieras #trackearpro",
+    "alt": [
+      "Carrusel sobre el historial de caja de una casa de cambio o financiera: un movimiento registrado no lo puede borrar nadie.",
+      "En la planilla, alguien pisa una celda y el saldo “se corrigió”. No queda registro de quién fue ni cuándo. Sin historial, un error y un fraude se ven igual.",
+      "En TrackeAR Pro, cada cambio queda registrado con quién lo hizo, cuándo y el valor que tenía antes. Nadie puede editar ni borrar ese historial, tampoco el dueño.",
+      "Captura de TrackeAR Pro con una operación anulada, con fecha y motivo, y sus movimientos tachados. Datos de ejemplo.",
+      "Los meses cerrados no cambian. El cierre de septiembre dice lo mismo hoy que dentro de un año.",
+      "Captura de la pantalla Auditoría de TrackeAR Pro: un cambio con quién lo hizo, cuándo y el valor anterior. Datos de ejemplo.",
+      "El historial, en tres renglones: 1. Cada cambio queda con nombre, hora y valor anterior. 2. Un error se anula y queda a la vista. 3. Un mes cerrado no se toca. Mandáselo a tu socio antes de la próxima reunión."
+    ],
+    "estado": "borrador",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/carga/2026-10-15"
+  },
+  {
+    "id": "2026-10-16",
+    "fecha_hora": "2026-10-16T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-16/p01.jpg",
+      "media/2026-10-16/p02.jpg",
+      "media/2026-10-16/p03.jpg",
+      "media/2026-10-16/p04.jpg",
+      "media/2026-10-16/p05.jpg",
+      "media/2026-10-16/p06.jpg",
+      "media/2026-10-16/p07.jpg"
+    ],
+    "pie": "Desde $125.000 por mes y con 7 días gratis para probarlo. Acá está el precio entero, sin pedir una reunión.\n\nPago mensual: $125.000 por mes los 3 primeros meses, después $250.000. Sin permanencia.\nPago anual: un solo pago de $2.374.800, que da $197.900 por mes.\n\nAntes del día 7 elegís el plan y seguís con lo que cargaste. Tu planilla sigue siendo tuya: si querés, la usás en paralelo.\n\nSi pagás y después dejás de pagar, te avisamos 5 días antes y tenés 5 de gracia. Tus datos no se tocan: los descargás en PDF, Excel o JSON.\n\nSe paga por transferencia. Precios en pesos argentinos, vigentes al 16/10/2026. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": [
+      "Carrusel con el precio de TrackeAR Pro y cómo es la prueba gratis de 7 días.",
+      "7 días. Los primeros 7 días son gratis, con todas las funciones. Creás la cuenta, cargás tus saldos y operás de verdad.",
+      "Pago mensual. $125.000 por mes los 3 primeros meses. Después, $250.000 por mes. Sin permanencia. Promedio del primer año: $218.750 por mes.",
+      "Pago anual. $197.900 por mes. Un solo pago de $2.374.800 por 12 meses. Es el mejor precio promedio. Los dos planes traen todas las funciones.",
+      "Cuando terminan los 7 días. Antes del día 7 elegís pago mensual o anual y seguís con todo lo que cargaste. Tu planilla sigue siendo tuya: si querés, la usás en paralelo.",
+      "Si pagás y después dejás de pagar, te avisamos 5 días antes del vencimiento y tenés 5 días de gracia. Después el acceso se pausa, pero tus datos no se tocan: los descargás en PDF, Excel o JSON.",
+      "Se paga por transferencia, con alias y CVU. Precios en pesos argentinos, vigentes al 16/10/2026. Si querés, te acompañamos en la puesta en marcha. Probalo 7 días gratis. El link está en el perfil."
+    ],
+    "estado": "borrador",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/carga/2026-10-16"
+  },
+  {
+    "id": "2026-10-20",
+    "fecha_hora": "2026-10-20T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-20/p01.jpg",
+      "media/2026-10-20/p02.jpg",
+      "media/2026-10-20/p03.jpg",
+      "media/2026-10-20/p04.jpg",
+      "media/2026-10-20/p05.jpg",
+      "media/2026-10-20/p06.jpg",
+      "media/2026-10-20/p07.jpg"
+    ],
+    "pie": "El cliente se llevó los dólares y los pesos llegan mañana. Hoy tu planilla anota una pérdida que no existe.\n\nEn la caja no está ni una cosa ni la otra. Si mirás solo la caja, el día te da en rojo aunque la operación dejó plata.\n\nEsos pesos son plata a cobrar: entran en lo que te deben, y la caja de pesos se mueve recién cuando llegan.\n\nEn las placas, una venta de 1.000 dólares a 1.560 con la referencia en 1.550. Datos de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para la próxima reunión de socios.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel sobre por qué la planilla anota como pérdida una venta de dólares que el cliente paga al día siguiente, con un ejemplo.",
+      "Vendiste 1.000 dólares a 1.560. Los dólares los entregaste hoy y el cliente te paga 1.560.000 pesos mañana. Hoy salen: 1.000 USD. Mañana entran: 1.560.000 ARS. Datos de ejemplo.",
+      "En la caja no está ni una cosa ni la otra. Si mirás solo la caja, el día te da 1.000 dólares abajo. Lo que dice la planilla: −US$ 1.000. Datos de ejemplo.",
+      "Esos pesos son plata a cobrar. Lo pendiente de cada operación entra en lo que te deben. A la referencia de 1.550, los 1.560.000 pesos valen US$ 1.006,45. Datos de ejemplo.",
+      "En el patrimonio, la operación queda así: Caja: −US$ 1.000,00. Te deben: +US$ 1.006,45. Patrimonio, contra la referencia de 1.550: +US$ 6,45. La operación dejó plata. La planilla decía que perdiste mil. Datos de ejemplo.",
+      "En la app, lo que falta cobrar queda en Pendientes con su vencimiento. La caja de pesos se mueve recién cuando entra la plata. Captura de TrackeAR Pro, pantalla Pendientes: Venta de divisa (cobra ARS), Parcial, total $ 1.560.000,00, Vence el 21/10/2026, #325, Diego Aranda, +$ 1.560.000,00. Datos de ejemplo.",
+      "La cuenta bien hecha, en una línea: lo pendiente cuenta como a cobrar o a pagar. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Guardalo para la próxima reunión de socios."
+    ],
+    "estado": "borrador",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/carga/2026-10-20"
+  },
+  {
+    "id": "2026-10-27",
+    "fecha_hora": "2026-10-27T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-27/p01.jpg",
+      "media/2026-10-27/p02.jpg",
+      "media/2026-10-27/p03.jpg",
+      "media/2026-10-27/p04.jpg",
+      "media/2026-10-27/p05.jpg",
+      "media/2026-10-27/p06.jpg",
+      "media/2026-10-27/p07.jpg"
+    ],
+    "pie": "Comprar a 1.540 y vender a 1.560 no te dice cuánto ganaste hoy.\n\nEsos 20 pesos por dólar son ganancia solo si comprás y vendés el mismo monto en el mismo momento. En el mostrador eso no pasa: comprás 3.150, vendés 1.870, te quedan 1.280 dólares y la cotización sigue moviéndose.\n\nPor eso el margen promedio engaña. La ganancia del día sale de comparar tu patrimonio en dólares contra una foto fija de las 00:00, con lo que te deben y lo que debés adentro.\n\nEn las placas, la misma cuenta con números de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel que explica por qué la diferencia entre el precio de compra y el de venta no es la ganancia del día de una casa de cambio, con un ejemplo.",
+      "Esos 20 pesos por dólar son ganancia solo si comprás y vendés el mismo monto en el mismo momento. En el mostrador eso no pasa: nunca operás el mismo monto de ida y de vuelta.",
+      "Hoy compraste 3.150 dólares a 1.540 y vendiste 1.870 a 1.560. Compra, 3.150 a 1.540: más 3.150 dólares y menos 4.851.000 pesos. Venta, 1.870 a 1.560: menos 1.870 dólares y más 2.917.200 pesos. Al cierre: más 1.280 dólares y menos 1.933.800 pesos. Datos de ejemplo.",
+      "Lo que anota la planilla: 20 pesos de diferencia por 1.870 dólares vendidos, 37.400 pesos. Y los 1.280 dólares que te quedaron no entran en esa cuenta. Datos de ejemplo.",
+      "Con todo pasado a dólares, a la referencia de 1.550: dólares que quedaron, más 1.280,00 dólares. Pesos que salieron, 1.933.800 dividido 1.550, menos 1.247,61 dólares. Lo que dejaron estas operaciones: más 32,39 dólares. La planilla decía 37.400 pesos, unos 24,13 dólares. Datos de ejemplo.",
+      "Y la cotización se mueve todo el día. Si cambia la referencia, cambia el valor en dólares de todos tus pesos, también el de los que no tocaste hoy. Por eso la ganancia se mide con el patrimonio entero. Ganancia = patrimonio ahora − foto de las 00:00 − aportes + retiros.",
+      "La cuenta bien hecha, en una línea: la ganancia del día sale de comparar tu patrimonio contra la foto de las 00:00. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Comentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app."
+    ],
+    "estado": "borrador",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/carga/2026-10-27"
+  }
+]
