@@ -24,7 +24,7 @@
       "El ejemplo, entero. Foto de las 00:00: 186.554,02 dólares. Patrimonio ahora: 193.396,50 dólares. Lo que pusieron los socios hoy: menos 5.000,00 dólares, que no es ganancia. La ganancia de hoy es más 1.842,48 dólares. Datos de ejemplo.",
       "Resumen: patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. Ganancia igual a patrimonio ahora menos la foto de las 00:00, menos aportes, más retiros."
     ],
-    "estado": "borrador",
+    "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
@@ -53,7 +53,7 @@
       "Captura de la pantalla Auditoría de TrackeAR Pro: un cambio con quién lo hizo, cuándo y el valor anterior. Datos de ejemplo.",
       "El historial, en tres renglones: 1. Cada cambio queda con nombre, hora y valor anterior. 2. Un error se anula y queda a la vista. 3. Un mes cerrado no se toca. Mandáselo a tu socio antes de la próxima reunión."
     ],
-    "estado": "borrador",
+    "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
@@ -82,7 +82,7 @@
       "Si pagás y después dejás de pagar, te avisamos 5 días antes del vencimiento y tenés 5 días de gracia. Después el acceso se pausa, pero tus datos no se tocan: los descargás en PDF, Excel o JSON.",
       "Se paga por transferencia, con alias y CVU. Precios en pesos argentinos, vigentes al 16/10/2026. Si querés, te acompañamos en la puesta en marcha. Probalo 7 días gratis. El link está en el perfil."
     ],
-    "estado": "borrador",
+    "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
