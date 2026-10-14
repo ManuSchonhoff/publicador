@@ -24,8 +24,13 @@
       "El ejemplo, entero. Foto de las 00:00: 186.554,02 dólares. Patrimonio ahora: 193.396,50 dólares. Lo que pusieron los socios hoy: menos 5.000,00 dólares, que no es ganancia. La ganancia de hoy es más 1.842,48 dólares. Datos de ejemplo.",
       "Resumen: patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. Ganancia igual a patrimonio ahora menos la foto de las 00:00, menos aportes, más retiros."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18087764120285706",
+      "permalink": "https://www.instagram.com/p/Defl3jfEaC2/",
+      "publicado_en": "2026-10-14T20:44:06-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/carga/2026-10-14"
