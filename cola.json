@@ -111,7 +111,7 @@
       "En la app, lo que falta cobrar queda en Pendientes con su vencimiento. La caja de pesos se mueve recién cuando entra la plata. Captura de TrackeAR Pro, pantalla Pendientes: Venta de divisa (cobra ARS), Parcial, total $ 1.560.000,00, Vence el 21/10/2026, #325, Diego Aranda, +$ 1.560.000,00. Datos de ejemplo.",
       "La cuenta bien hecha, en una línea: lo pendiente cuenta como a cobrar o a pagar. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Guardalo para la próxima reunión de socios."
     ],
-    "estado": "borrador",
+    "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
@@ -140,7 +140,7 @@
       "Y la cotización se mueve todo el día. Si cambia la referencia, cambia el valor en dólares de todos tus pesos, también el de los que no tocaste hoy. Por eso la ganancia se mide con el patrimonio entero. Ganancia = patrimonio ahora − foto de las 00:00 − aportes + retiros.",
       "La cuenta bien hecha, en una línea: la ganancia del día sale de comparar tu patrimonio contra la foto de las 00:00. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Comentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app."
     ],
-    "estado": "borrador",
+    "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
