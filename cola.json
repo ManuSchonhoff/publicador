@@ -36,21 +36,6 @@
     "origen": "2026-10-07/carga/2026-10-14"
   },
   {
-    "id": "2026-10-15_video5",
-    "fecha_hora": "2026-10-15T12:00:00-03:00",
-    "tipo": "reel",
-    "archivos": [
-      "media/2026-10-15_video5/reel.mp4"
-    ],
-    "pie": "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, no cuánto había ganado.\n\nEsa cuenta, todo a dólares contra la foto de las 00:00, la hace TrackeAR Pro. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nSeguinos: los martes, una cuenta bien hecha.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
-    "alt": "Animación: a la noche llegan mensajes del equipo y nadie sabe cuánto ganó la financiera; la tarjeta de TrackeAR Pro muestra el patrimonio y la ganancia del día en dólares. Datos de ejemplo.",
-    "estado": "borrador",
-    "resultado": null,
-    "portada": "media/2026-10-15_video5/portada.jpg",
-    "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-15_video5"
-  },
-  {
     "id": "2026-10-15",
     "fecha_hora": "2026-10-15T20:30:00-03:00",
     "tipo": "carrusel",
@@ -78,21 +63,6 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/carga/2026-10-15"
-  },
-  {
-    "id": "2026-10-16_video6",
-    "fecha_hora": "2026-10-16T12:00:00-03:00",
-    "tipo": "reel",
-    "archivos": [
-      "media/2026-10-16_video6/reel.mp4"
-    ],
-    "pie": "El resumen del día te llega solo, por email: patrimonio, ganancia del día en dólares y lo que hay que revisar.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #cierredecaja #trackearpro",
-    "alt": "Animación: a las 19:59 todavía hay que sumar las cajas; a las 20:00 llega por email el resumen del día de TrackeAR Pro con el patrimonio y la ganancia en dólares. Datos de ejemplo.",
-    "estado": "borrador",
-    "resultado": null,
-    "portada": "media/2026-10-16_video6/portada.jpg",
-    "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-16_video6"
   },
   {
     "id": "2026-10-16",
