@@ -101,7 +101,7 @@ Para frenar una pieza aprobada: `python aprobar.py --volver 2026-10-14` y despu�
 
 **Reels:** cuando el video editado pasa la revisión, se copia a la carpeta del día como `video.mp4` (lo dice el `ESPERA-VIDEO.txt` de cada día). Después, pasos 2 a 5 con esa fecha.
 
-**Cómo sale:** GitHub corre en los minutos 4, 19, 34 y 49 de cada hora, y a veces se atrasa unos minutos. Una pieza de las 20:30 sale entre las 20:34 y las 20:50. Si por algo no salió en 3 horas (o pasó el día), **no sale**: queda en `error` para que no aparezca un precio "vigente al 16/10" el 17. Nunca se publica dos veces: cada pieza queda marcada como `publicado` con su link, y antes de publicar se fija si ese pie ya está en la cuenta.
+**Cómo sale:** el cron de GitHub dice "cada 15 minutos", pero en la práctica corre cada 3 a 5 horas (así salió tarde el 15/10). Por eso: (1) cada Push que cambia `cola.json` (una aprobación) arranca una corrida en el momento, y (2) cada corrida que encuentra algo aprobado para las próximas 5 h 30 min espera hasta esa hora y lo publica. Una pieza de las 20:30 sale entre las 20:30 y las 20:32, siempre que haya habido una corrida o una aprobación en las 5 h 30 min anteriores. Si por algo no salió en 3 horas (o pasó el día), **no sale**: queda en `error` para que no aparezca un precio "vigente al 16/10" el 17. Nunca se publica dos veces: cada pieza queda marcada como `publicado` con su link, y antes de publicar se fija si ese pie ya está en la cuenta.
 
 **Dónde mirar:** `registro.txt` en el repo (una línea por publicación o error) y la pestaña **Actions**. Si una pieza quedó en `error`: arreglá lo que diga, `python aprobar.py <fecha>` y Commit + Push.
 
