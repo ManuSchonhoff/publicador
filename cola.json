@@ -58,8 +58,13 @@
       "Captura de la pantalla Auditoría de TrackeAR Pro: un cambio con quién lo hizo, cuándo y el valor anterior. Datos de ejemplo.",
       "El historial, en tres renglones: 1. Cada cambio queda con nombre, hora y valor anterior. 2. Un error se anula y queda a la vista. 3. Un mes cerrado no se toca. Mandáselo a tu socio antes de la próxima reunión."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18066775841789047",
+      "permalink": "https://www.instagram.com/p/DeiNFbaDgvM/",
+      "publicado_en": "2026-10-15T21:05:15-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/carga/2026-10-15",
