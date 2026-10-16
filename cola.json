@@ -93,8 +93,13 @@
       "Si pagás y después dejás de pagar, te avisamos 5 días antes del vencimiento y tenés 5 días de gracia. Después el acceso se pausa, pero tus datos no se tocan: los descargás en PDF, Excel o JSON.",
       "Se paga por transferencia, con alias y CVU. Precios en pesos argentinos, vigentes al 16/10/2026. Si querés, te acompañamos en la puesta en marcha. Probalo 7 días gratis. El link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17964035547247092",
+      "permalink": "https://www.instagram.com/p/Dekt-jamSzm/",
+      "publicado_en": "2026-10-16T20:31:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/carga/2026-10-16"
