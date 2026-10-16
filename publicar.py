@@ -15,6 +15,8 @@ Uso:
   python publicar.py --solo-probar  no publica nada: revisa la cola, el token y que los
                                     archivos se puedan bajar, y dice qué publicaría
   python publicar.py --hay-algo     sin internet: dice si hay algo para publicar ahora
+  python publicar.py --esperar 330  si hay algo aprobado en los próximos 330 min (y nada vencido),
+                                    espera hasta su hora (GitHub no corre el cron cada 15 min de verdad)
 """
 
 import argparse
@@ -346,20 +348,56 @@ def solo_probar(piezas, token, user, base, momento):
     return 1 if problemas else 0
 
 
+def esperar_proxima(piezas, momento, max_min, simulado=False):
+    """GitHub atrasa el cron horas (corre cada 3 a 5 h, no cada 15 min). Si hay algo aprobado que sale
+    dentro de max_min minutos, esta corrida espera hasta esa hora y después publica. Si ya hay algo
+    vencido, no espera: se publica ahora."""
+    if [p for p in pendientes_que_tocan(piezas, momento) if not vencida(p, momento)]:
+        log("Hay algo para publicar ya: no espero.")
+        return 0
+    futuras = []
+    for p in piezas:
+        if p.get("estado") != "aprobado":
+            continue
+        try:
+            cuando = leer_fecha(p["fecha_hora"])
+        except Exception:
+            continue
+        if cuando > momento:
+            futuras.append((cuando, p["id"]))
+    if not futuras:
+        log("No hay nada aprobado más adelante: no espero.")
+        return 0
+    cuando, id_ = min(futuras)
+    falta = (cuando - momento).total_seconds()
+    if falta > max_min * 60:
+        log(f"Lo próximo ({id_}, {fmt(cuando)}) está a más de {max_min} min: no espero.")
+        return 0
+    log(f"Espero {round(falta / 60)} min hasta {fmt(cuando)} para publicar {id_}.")
+    if not simulado:
+        time.sleep(falta + 20)
+    return 0
+
+
 def main():
     preparar_consola()
     ap = argparse.ArgumentParser(description="Publica en Instagram lo aprobado cuya hora ya pasó.")
     ap.add_argument("--solo-probar", action="store_true", help="no publica nada")
     ap.add_argument("--hay-algo", action="store_true", help="sin internet: ¿hay algo para publicar ahora?")
-    ap.add_argument("--ahora", help="(solo con --solo-probar o --hay-algo) simular otra hora")
+    ap.add_argument("--esperar", type=int, metavar="MIN",
+                    help="si hay algo aprobado en los próximos MIN minutos y nada vencido, espera hasta su hora")
+    ap.add_argument("--ahora", help="(solo con --solo-probar, --hay-algo o --esperar) simular otra hora")
     args = ap.parse_args()
-    if args.ahora and not (args.solo_probar or args.hay_algo):
-        ap.error("--ahora solo se puede usar con --solo-probar o --hay-algo")
+    if args.ahora and not (args.solo_probar or args.hay_algo or args.esperar):
+        ap.error("--ahora solo se puede usar con --solo-probar, --hay-algo o --esperar")
 
     momento = leer_fecha(args.ahora) if args.ahora else ahora()
     token = os.environ.get("IG_TOKEN", "").strip()
     user = os.environ.get("IG_USER_ID", "").strip()
     base = os.environ.get("MEDIA_BASE_URL", "").strip()
+
+    if args.esperar:
+        return esperar_proxima(cargar_cola(), momento, args.esperar, simulado=bool(args.ahora))
 
     if args.hay_algo:
         toca = pendientes_que_tocan(cargar_cola(), momento)

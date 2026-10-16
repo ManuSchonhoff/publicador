@@ -62,7 +62,8 @@
     "resultado": null,
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/carga/2026-10-15"
+    "origen": "2026-10-07/carga/2026-10-15",
+    "nota_atraso": "15/10 21:05: el cron de GitHub no corrió a tiempo; este cambio dispara la corrida por push."
   },
   {
     "id": "2026-10-16",

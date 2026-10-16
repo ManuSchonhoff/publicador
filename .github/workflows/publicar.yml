@@ -2,8 +2,13 @@ name: Publicar en Instagram
 
 on:
   schedule:
-    # Cada 15 minutos (en los minutos 4, 19, 34 y 49: GitHub se atrasa menos que en punto).
+    # Cada 15 minutos (en los minutos 4, 19, 34 y 49). En la práctica GitHub lo corre cada 3 a 5 horas:
+    # por eso cada corrida espera hasta la hora de lo próximo aprobado (paso "Esperar", hasta 5 h 30 min).
     - cron: "4,19,34,49 * * * *"
+  push:
+    # Cada aprobación (cambio en cola.json) arranca una corrida en el momento.
+    branches: [main]
+    paths: [cola.json]
   workflow_dispatch:
     inputs:
       solo_probar:
@@ -21,7 +26,7 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 358   # la espera puede ser de hasta 5 h 30 min
     env:
       TZ: America/Argentina/Buenos_Aires
       SOLO_PROBAR: ${{ github.event_name == 'workflow_dispatch' && inputs.solo_probar && '1' || '0' }}
@@ -31,6 +36,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Esperar hasta la hora de lo próximo aprobado
+        if: env.SOLO_PROBAR != '1'
+        run: python publicar.py --esperar 330
+
+      - name: Traer la cola más nueva (pudo cambiar durante la espera)
+        run: |
+          git fetch --depth 1 origin main
+          git reset --hard origin/main
+          echo "MEDIA_BASE_URL=https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/$(git rev-parse HEAD)/" >> "$GITHUB_ENV"
 
       - name: ¿Hay algo para publicar?
         id: hay
@@ -50,8 +65,7 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          # Instagram baja los archivos de este mismo commit del repo público.
-          MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/
+          # MEDIA_BASE_URL lo fija el paso anterior: Instagram baja los archivos del commit más nuevo del repo público.
         run: |
           if [ "$SOLO_PROBAR" = "1" ]; then
             python publicar.py --solo-probar
