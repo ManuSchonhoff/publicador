@@ -29,10 +29,29 @@ MAX_ARCHIVO_MB_GITHUB = 95       # GitHub rechaza archivos de 100 MB o más
 MAX_ARCHIVO_MB_WEB = 25          # la subida por la web de GitHub no acepta más
 RATIOS = {"4:5": 4 / 5, "1:1": 1.0, "9:16": 9 / 16}
 
+# Nombres que nunca van en lo publicable (la casa y el equipo). El repo es público: no se escriben acá,
+# se comparan por su huella (sha256 de la palabra o del par de palabras, en minúsculas y sin tildes).
+NOMBRES_PRIVADOS = {
+    "26409c76a229a54a0ae9", "16814e8cd706b29de1ba", "cca457407f24b80c72d8",
+    "dbde6e431edd7f4672f0", "d2caa82cdb5a0a33f42b", "8ec98ed17b2fba4b6065",
+}
+
+
+def nombre_privado(texto):
+    """Devuelve la palabra (o el par de palabras) de la lista privada que aparece en el texto, o None."""
+    import hashlib
+    import unicodedata
+    plano = unicodedata.normalize("NFKD", texto.lower())
+    plano = "".join(c for c in plano if not unicodedata.combining(c))
+    palabras = re.findall(r"[a-zñ]+", plano)
+    for c in palabras + [f"{x} {y}" for x, y in zip(palabras, palabras[1:])]:
+        if hashlib.sha256(c.encode()).hexdigest()[:20] in NOMBRES_PRIVADOS:
+            return c
+    return None
+
+
 # Lo prohibido en lo publicable (error) y lo dudoso (aviso). Se busca en el pie y en el alt.
 PROHIBIDO = [
-    (r"cambio\s+general", "nombra a Cambio General"),
-    (r"\b(dante|manuel|manu|francisco|fran)\b", "nombre real del equipo"),
     (r"whats\s*app|wa\.me", "WhatsApp todavía no es un canal activo"),
     (r"cada\s+(4|cuatro)\s+horas", "dice 'cada 4 horas' (son tres copias por día)"),
 ]
@@ -326,6 +345,8 @@ def validar_pieza(p, momento=None, chequear_hora=True):
 
     # reglas de la marca
     texto = pie + "\n" + "\n".join(a or "" for a in alts)
+    if nombre_privado(texto):
+        errores.append("prohibido: nombra a la casa o a alguien del equipo (lista privada)")
     for patron, motivo in PROHIBIDO:
         m = re.search(patron, texto, re.I)
         if m:
