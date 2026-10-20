@@ -157,10 +157,13 @@
       "En la app, lo que falta cobrar queda en Pendientes con su vencimiento. La caja de pesos se mueve recién cuando entra la plata. Captura de TrackeAR Pro, pantalla Pendientes: Venta de divisa (cobra ARS), Parcial, total $ 1.560.000,00, Vence el 21/10/2026, #325, Diego Aranda, +$ 1.560.000,00. Datos de ejemplo.",
       "La cuenta bien hecha, en una línea: lo pendiente cuenta como a cobrar o a pagar. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Guardalo para la próxima reunión de socios."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The Instagram account is restricted. (código 25/2207050)",
+      "cuando": "2026-10-20T08:30:26-03:00"
+    },
     "portada": null,
-    "intentos": 0,
+    "intentos": 1,
     "origen": "2026-10-07/carga/2026-10-20"
   },
   {
