@@ -484,8 +484,11 @@ def _herramienta_nuevo():
 
 
 def posteo_del_dia(piezas, carpeta, fecha):
-    """La pieza del feed de ese paquete que está en la cola (id = nombre de la carpeta), o None."""
-    feed = [p for p in piezas if p.get("tipo") != "historia"]
+    """La pieza del feed de ese paquete que está en la cola (id = nombre de la carpeta), o None.
+    Tiene que haber salido de este paquete (campo origen): la tapa y el título de "Nuevo en el perfil"
+    salen del paquete, y anunciar otro posteo del mismo día mostraría algo que no está en el perfil."""
+    origen = origen_relativo(carpeta)
+    feed = [p for p in piezas if p.get("tipo") != "historia" and p.get("origen", origen) == origen]
     for p in feed:
         if str(p.get("id")) == carpeta.name:
             return p
@@ -507,26 +510,30 @@ def _tapa_de_cola(pieza):
 
 
 def armar_historia(destino, *, archivo=None, render=None):
-    """Copia (o renderiza) el archivo de la historia a media/<id>/ y devuelve su ruta relativa al repo."""
-    if destino.exists():
-        shutil.rmtree(destino)
-    destino.mkdir(parents=True)
-    if render:
-        tmp = destino / "_render.png"
-        render(tmp)
-        archivo = tmp
-    archivo = Path(archivo)
-    ext = archivo.suffix.lower()
-    if ext in VIDEOS:
-        final = destino / ("historia" + ext)
-        shutil.copy2(archivo, final)
-    elif ext in IMAGENES:
-        final = destino / "historia.jpg"
-        a_jpeg(archivo, final)
-    else:
-        raise ErrorPaquete(f"{archivo.name}: una historia es una imagen (PNG/JPG) o un video (.mp4/.mov)")
-    if render:
-        archivo.unlink(missing_ok=True)
+    """Copia (o renderiza) el archivo de la historia a media/<id>/ y devuelve su ruta relativa al repo.
+    Si hay que renderizar, se renderiza antes de borrar lo que había (si falla, media/<id>/ queda igual)."""
+    tmp = None
+    try:
+        if render:
+            tmp = destino.with_name(destino.name + "__render.png")
+            render(tmp)
+            archivo = tmp
+        archivo = Path(archivo)
+        ext = archivo.suffix.lower()
+        if ext not in VIDEOS + IMAGENES:
+            raise ErrorPaquete(f"{archivo.name}: una historia es una imagen (PNG/JPG) o un video (.mp4/.mov)")
+        if destino.exists():
+            shutil.rmtree(destino)
+        destino.mkdir(parents=True)
+        if ext in VIDEOS:
+            final = destino / ("historia" + ext)
+            shutil.copy2(archivo, final)
+        else:
+            final = destino / "historia.jpg"
+            a_jpeg(archivo, final)
+    finally:
+        if tmp:
+            tmp.unlink(missing_ok=True)
     return final.relative_to(RAIZ).as_posix()
 
 
@@ -579,8 +586,8 @@ def preparar_historias(carpeta, piezas, momento, saltar_aprobadas=False):
             if h["compartir"]:
                 posteo = posteo_del_dia(piezas, carpeta, fecha)
                 if not posteo:
-                    raise SinHistoria("es 'Compartir la publicación del día' y el posteo de ese día no está en la "
-                                      "cola (todavía). Cuando esté, volvé a correr esto")
+                    raise SinHistoria("es 'Compartir la publicación del día' y el posteo de este paquete no está en "
+                                      "la cola (todavía). Cuando esté, volvé a correr esto")
                 if leer_fecha(posteo["fecha_hora"]) > fecha_hora:
                     fecha_hora = leer_fecha(posteo["fecha_hora"])
                 if fecha_hora <= momento:
@@ -597,6 +604,10 @@ def preparar_historias(carpeta, piezas, momento, saltar_aprobadas=False):
                         datos.update(herr.renderizar(tapa, titulo, salida))
                     except ImportError as e:
                         raise SinHistoria(f"para armar 'Nuevo en el perfil' hace falta Playwright ({e})")
+                    except OSError:
+                        raise
+                    except Exception as e:  # sin internet (sin la letra Inter), tapa que no carga, Playwright…
+                        raise SinHistoria(f"no se pudo armar 'Nuevo en el perfil': {e}. Volvé a correr esto con internet")
 
                 rel = armar_historia(MEDIA / id_, render=render)
                 texto = datos.get("texto") or herr.texto_de(titulo)

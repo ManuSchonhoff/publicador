@@ -98,5 +98,5 @@ jobs:
             git rebase --abort 2>/dev/null || true
             sleep 10
           done
-          echo "::error::No pude guardar cola.json (alguien la cambió al mismo tiempo). La próxima corrida no repite lo publicado: antes de publicar mira si ya está en la cuenta."
+          echo "::error::No pude guardar cola.json (alguien la cambió al mismo tiempo). El feed no se repite (antes de publicar mira si el pie ya está en la cuenta), pero una HISTORIA de esta corrida sí podría repetirse: mirá el log, y en cola.json pasá a publicado (o a borrador) las historias que ya salieron, y Commit + Push."
           exit 1

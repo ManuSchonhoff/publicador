@@ -139,10 +139,10 @@ Opcional: `--orden 2` (su lugar entre las de esa hora), `--texto "lo que dice la
 **"Nuevo en el perfil" para cualquier posteo, a mano** (por ejemplo para mirarla antes):
 
 ```
-python "C:\Users\manus\Documents\TrackeAR Marketing\_herramientas\historia_nuevo_en_perfil.py" --paquete 2026-10-27
+python ..\_herramientas\historia_nuevo_en_perfil.py --paquete 2026-10-27
 ```
 
-Toma la tapa (`01.png` o `portada.png`) y el título: el texto que el plan mandaba escribir arriba del posteo compartido; si no hay, la primera oración del pie. Para poner otro título, dejá un `titulo-historia.txt` en la carpeta del día con el texto, y volvé a correr `python preparar.py <fecha>`. Necesita internet la primera vez (la tipografía Inter).
+Toma la tapa (`01.png` o `portada.png`) y el título: el texto que el plan mandaba escribir arriba del posteo compartido; si no hay, la primera oración del pie. Para poner otro título, dejá un `titulo-historia.txt` en la carpeta del día con el texto, y volvé a correr `python preparar.py <fecha>`. Necesita internet (la tipografía Inter): sin internet no la arma y `preparar.py` te avisa que la dejó para después.
 
 **Las historias duran 24 horas.** Las **destacadas** se siguen armando a mano.
 

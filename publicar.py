@@ -116,14 +116,19 @@ class Instagram:
                 raise ErrorAPI(f"Instagram sigue procesando después de {maximo_seg // 60} min ({codigo})", True)
             time.sleep(cada_seg)
 
-    def contenedor_publicado(self, contenedor):
+    def contenedor_publicado(self, contenedor, estricto=False):
         """Si ese contenedor ya figura PUBLISHED (salió aunque no nos llegó la respuesta), lo dice.
-        Sirve para todo, y es lo único que evita duplicar una historia (no tienen pie para comparar)."""
+        Sirve para todo, y es lo único que evita duplicar una historia (no tienen pie para comparar).
+        estricto (antes de crear un contenedor nuevo): si Instagram no contesta, no se sabe si salió;
+        en vez de arriesgar una historia repetida, falla como pasajero y se reintenta en la próxima corrida."""
         if not contenedor:
             return None
         try:
-            est = self.llamar("GET", contenedor, {"fields": "status_code"}, reintentar=False)
-        except ErrorAPI:
+            est = self.llamar("GET", contenedor, {"fields": "status_code"}, reintentar=estricto)
+        except ErrorAPI as e:
+            if estricto and e.transitorio:
+                raise ErrorAPI(f"no pude mirar si el contenedor guardado ya salió ({e}); "
+                               "no armo otro para no repetirla", True)
             return None
         if est.get("status_code") == "PUBLISHED":
             return {"id": None, "permalink": None, "por_contenedor": True}
@@ -376,7 +381,7 @@ def procesar(piezas, ig, base, momento, ruta=COLA):
             continue
 
         try:
-            ya = ig.contenedor_publicado(pieza.get("contenedor"))
+            ya = ig.contenedor_publicado(pieza.get("contenedor"), estricto=True)
             if ya:
                 marcar_publicada(pieza, None, None, "ya había salido en una corrida anterior (el contenedor "
                                  "figura publicado); no se repitió")

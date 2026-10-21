@@ -63,7 +63,7 @@ PROHIBIDO = [
     (r"cada\s+(4|cuatro)\s+horas", "dice 'cada 4 horas' (son tres copias por día)"),
     (r"@\s*trackear\.pro\b", "la cuenta es @trackearpro, sin punto"),
     (r"\b(cepo|arca|uif|cuevas?)\b", "no se habla de cepo, ARCA, UIF ni cuevas"),
-    (r"cambio\s+norte", "'Cambio Norte' es el nombre de la grabación: va tapado"),
+    (r"cambios?\s+norte", "'Cambio Norte' (existe 'Cambios Norte S A') va tapado"),
     (r"(?<!no )(?<!ni )\b(compramos|vendemos)\b(?:\s+\S+){0,3}?\s+(divisas|d[oó]lares|monedas?|euros|reales)\b",
      "dice que compramos o vendemos divisas (somos un sistema de gestión)"),
 ]
