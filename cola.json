@@ -145,10 +145,13 @@
     ],
     "pie": "Si en tu ganancia del día no entra lo que te deben, la cuenta está mal. Acá está entera, en 4 pasos y con un ejemplo.\n\n1. Pasás todas las cajas a dólares.\n2. Sumás lo que te deben y restás lo que debés.\n3. Eso es tu patrimonio neto.\n4. Lo comparás contra la foto de las 00:00, sin contar lo que pusieron o retiraron los socios.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
     "alt": "Reel animado que explica en 4 pasos cómo calcular la ganancia del día de una financiera o casa de cambio, en dólares, con datos de ejemplo. Paso 1: todo a dólares. Pesos 54.912.300 a 1.550, dólares 104.920 y euros 8.450 fijado a 1,23 dan 150.740,79 dólares en cajas. Paso 2: te deben 62.418,75 dólares y debés 19.763,04 dólares. Paso 3: el patrimonio neto es 193.396,50 dólares. Paso 4: la ganancia se mide contra una foto; ganancia igual a patrimonio ahora menos la foto de las 00:00, menos aportes, más retiros. El ejemplo, entero: foto de las 00:00, 186.554,02 dólares; patrimonio ahora, 193.396,50 dólares; lo que pusieron los socios hoy, 5.000,00 dólares, no es ganancia. La ganancia de hoy es más 1.842,48 dólares. Cierra con la placa de TrackeAR Pro: Sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas. Mandáselo a tu socio. @trackearpro.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The Instagram account is restricted. (código 25/2207050)",
+      "cuando": "2026-10-21T12:40:26-03:00"
+    },
     "portada": "media/2026-10-17_reel/portada.jpg",
-    "intentos": 0,
+    "intentos": 1,
     "origen": "2026-10-07/reels/extra/2026-10-17_reel"
   },
   {
