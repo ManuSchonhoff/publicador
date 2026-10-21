@@ -148,7 +148,8 @@
     "estado": "aprobado",
     "portada": "media/2026-10-17_reel/portada.jpg",
     "intentos": 1,
-    "origen": "2026-10-07/reels/extra/2026-10-17_reel"
+    "origen": "2026-10-07/reels/extra/2026-10-17_reel",
+    "resultado": {}
   },
   {
     "id": "2026-10-18_reel",
@@ -162,7 +163,8 @@
     "estado": "aprobado",
     "portada": "media/2026-10-18_reel/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-18_reel"
+    "origen": "2026-10-07/reels/extra/2026-10-18_reel",
+    "resultado": {}
   },
   {
     "id": "2026-10-27",
