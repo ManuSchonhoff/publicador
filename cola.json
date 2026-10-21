@@ -444,6 +444,102 @@
     "depende_de": "2026-10-23_video4"
   },
   {
+    "id": "2026-10-23_que-es",
+    "fecha_hora": "2026-10-23T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-23_que-es/p01.jpg",
+      "media/2026-10-23_que-es/p02.jpg",
+      "media/2026-10-23_que-es/p03.jpg",
+      "media/2026-10-23_que-es/p04.jpg",
+      "media/2026-10-23_que-es/p05.jpg",
+      "media/2026-10-23_que-es/p06.jpg",
+      "media/2026-10-23_que-es/p07.jpg"
+    ],
+    "pie": "La planilla te dice cuánta plata hay. TrackeAR Pro te dice cuánto ganaste hoy, en dólares.\n\nEs un software de gestión para financieras y casas de cambio. Pasa todo a dólares, suma lo que te deben, resta lo que debés y te muestra la ganancia del día contra una foto del patrimonio a las 00:00.\n\nPesos, dólares, cripto, cheques y préstamos en un solo lugar. En el celular y en la computadora, con los mismos datos.\n\nLo hizo un dueño de financiera para la suya. Tenés 7 días gratis para usarlo con tu operatoria, y te acompañamos en la puesta en marcha.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel que explica qué es TrackeAR Pro. Sabé cuánto ganaste hoy. De verdad. Qué es TrackeAR Pro y para quién es.",
+      "TrackeAR Pro es un software de gestión para financieras y casas de cambio. Te dice cuánto ganaste hoy, en dólares.",
+      "Patrimonio, ganancia del día y lo que requiere atención, en la primera pantalla. Captura de TrackeAR Pro, pantalla Hoy: patrimonio neto US$ 238.904,36 y +US$ 912,47 de ganancia hoy. Caja, lo que nos deben y lo que debemos (con las operaciones pendientes), en dólares a la cotización de referencia. La ganancia se mide contra la foto de las 00:00, sin contar aportes ni retiros. Datos de ejemplo.",
+      "Pesos, dólares, cripto, cheques y préstamos en un solo lugar. En el celular y en la computadora, con los mismos datos.",
+      "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, pero no cuánto había ganado en el día.",
+      "TrackeAR Pro es solo el sistema. Por esta cuenta no se compran ni venden divisas ni se pasan cotizaciones.",
+      "Probalo 7 días con tu operatoria. Te acompañamos en la puesta en marcha. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-23_que-es"
+  },
+  {
+    "id": "2026-10-23_h4",
+    "fecha_hora": "2026-10-23T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-23_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-23_que-es"
+  },
+  {
+    "id": "2026-10-24_cheques-en-cartera",
+    "fecha_hora": "2026-10-24T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-24_cheques-en-cartera/p01.jpg",
+      "media/2026-10-24_cheques-en-cartera/p02.jpg",
+      "media/2026-10-24_cheques-en-cartera/p03.jpg",
+      "media/2026-10-24_cheques-en-cartera/p04.jpg",
+      "media/2026-10-24_cheques-en-cartera/p05.jpg",
+      "media/2026-10-24_cheques-en-cartera/p06.jpg",
+      "media/2026-10-24_cheques-en-cartera/p07.jpg",
+      "media/2026-10-24_cheques-en-cartera/p08.jpg"
+    ],
+    "pie": "La planilla decía que alcanzaba y en la caja no alcanzaba. La diferencia estaba en los cheques.\n\nUn cheque en cartera no es plata disponible hasta que se acredita. En la planilla suma igual, y con ese total decidís cuánto entregar.\n\nEn TrackeAR Pro la cartera nunca se mezcla con la caja. Cada cheque queda con su vencimiento y se sigue de punta a punta: cobro, endoso o rechazo. Si te lo rechazan, pasa solo a deuda del cliente. Los montos de las placas son de ejemplo.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo al que maneja los cheques.\n\n#financieras #cheques #cierredecaja #trackearpro",
+    "alt": [
+      "Tapa con fondo claro, serie La cuenta bien hecha N° 5. Dice: La planilla decía que alcanzaba. El cliente vino a buscar sus pesos y en la caja no alcanzaba. La diferencia estaba en los cheques.",
+      "Texto: Un cheque en cartera no es plata disponible hasta que se acredita. En la planilla suma igual, en la misma celda que el efectivo, y con ese total decidís cuánto podés entregar.",
+      "Tabla con lo que dice la planilla: efectivo y banco en pesos $ 18.437.200, cheques en cartera (3) $ 6.912.450 y caja $ 25.349.650. Datos de ejemplo.",
+      "Tabla con lo que de verdad podés entregar hoy: disponible $ 18.437.200 y el cliente viene a buscar $ 21.364.500. Faltan $ 2.927.300, en rojo. Sumar a la caja un cheque sin acreditar es la forma más rápida de quedarte corto. Datos de ejemplo.",
+      "Texto: En TrackeAR Pro, la cartera nunca se mezcla con la caja. Cada cheque queda en la cartera con su vencimiento, y el disponible se muestra sin contar los cheques en cartera.",
+      "Lista numerada, cada cheque de punta a punta: 1 compra con descuento, 2 en cartera con su vencimiento, 3 cobro: entra a la caja cuando se acredita, 4 endoso: sale de la cartera, 5 rechazo: pasa a deuda del cliente.",
+      "Dos tarjetas unidas por una flecha: cheque rechazado $ 2.184.700 y Tomás Ibarra te debe $ 2.184.700. Si te lo rechazan, se convierte solo en deuda del cliente y no lo tenés que pasar a mano a su cuenta. Datos de ejemplo.",
+      "Cierre: La cuenta bien hecha, en una línea: el cheque suma al disponible recién cuando se acredita. Mandáselo al que maneja los cheques. @trackearpro."
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-24_cheques-en-cartera"
+  },
+  {
+    "id": "2026-10-24_h3",
+    "fecha_hora": "2026-10-24T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-24_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-24_cheques-en-cartera"
+  },
+  {
     "id": "2026-10-24_h2",
     "fecha_hora": "2026-10-24T10:00:00-03:00",
     "tipo": "historia",
@@ -493,6 +589,104 @@
     "orden": 1,
     "texto": "",
     "depende_de": "2026-10-25_app3"
+  },
+  {
+    "id": "2026-10-24_errores-del-cierre",
+    "fecha_hora": "2026-10-24T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-24_errores-del-cierre/p01.jpg",
+      "media/2026-10-24_errores-del-cierre/p02.jpg",
+      "media/2026-10-24_errores-del-cierre/p03.jpg",
+      "media/2026-10-24_errores-del-cierre/p04.jpg",
+      "media/2026-10-24_errores-del-cierre/p05.jpg",
+      "media/2026-10-24_errores-del-cierre/p06.jpg",
+      "media/2026-10-24_errores-del-cierre/p07.jpg",
+      "media/2026-10-24_errores-del-cierre/p08.jpg"
+    ],
+    "pie": "La planilla cerró. Que cierre no quiere decir que esté bien: hay 6 errores que ninguna celda te marca.\n\nSumar los cheques en cartera a la caja, contar un pendiente como pérdida, tomar como ganancia lo que puso un socio, pasar cada caja a dólares con otra cotización, corregir un saldo pisando la celda y depender de una sola persona para cerrar.\n\nUno por placa y, al final, la lista para revisar antes de dar el número del día.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para el cierre.\n\n#casasdecambio #cierredecaja #controldecaja #trackearpro",
+    "alt": [
+      "Carrusel de 8 placas con fondo negro: 6 errores del cierre que la planilla no marca, uno por placa, y una lista final para revisar antes de dar el número del día. Placa 1: La planilla cerró. ¿Cerró bien? 6 errores que ninguna celda te marca. Para revisar antes de dar el número del día.",
+      "1 de 6. Sumaste a la caja los cheques en cartera. Un cheque no es plata disponible hasta que se acredita.",
+      "2 de 6. Contaste un pendiente como pérdida. Si el cliente se llevó los dólares y los pesos llegan mañana, eso es plata a cobrar.",
+      "3 de 6. Tomaste como ganancia lo que puso un socio. Lo que pusieron los socios no es ganancia. Lo que retiraron no es pérdida.",
+      "4 de 6. Cada socio pasó las cajas a dólares con su cotización. Así, cada uno llega con su número. Todo a dólares, con la misma referencia.",
+      "5 de 6. Alguien corrigió un saldo pisando la celda. No queda rastro de quién fue, ni cuándo, ni del saldo de antes.",
+      "6 de 6. El cierre lo sabe hacer una sola persona. Si el que arma la planilla falta, no hay cierre.",
+      "Antes de dar el número del día: 1. Cheques, afuera de la caja hasta que se acreditan. 2. Pendientes, como a cobrar o a pagar. 3. Aportes y retiros, afuera de la ganancia. 4. Todas las cajas, con la misma referencia. 5. Correcciones con nombre y hora, sin pisar la celda. 6. Un cierre que no dependa de una persona. Guardalo para el cierre. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-24_errores-del-cierre"
+  },
+  {
+    "id": "2026-10-24_h4",
+    "fecha_hora": "2026-10-24T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-24_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-24_errores-del-cierre"
+  },
+  {
+    "id": "2026-10-25_como-se-arranca-la-prueba",
+    "fecha_hora": "2026-10-25T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-25_como-se-arranca-la-prueba/p01.jpg",
+      "media/2026-10-25_como-se-arranca-la-prueba/p02.jpg",
+      "media/2026-10-25_como-se-arranca-la-prueba/p03.jpg",
+      "media/2026-10-25_como-se-arranca-la-prueba/p04.jpg",
+      "media/2026-10-25_como-se-arranca-la-prueba/p05.jpg",
+      "media/2026-10-25_como-se-arranca-la-prueba/p06.jpg",
+      "media/2026-10-25_como-se-arranca-la-prueba/p07.jpg",
+      "media/2026-10-25_como-se-arranca-la-prueba/p08.jpg"
+    ],
+    "pie": "7 días gratis con tu operatoria. Esto es lo que conviene tener a mano antes de crear la cuenta.\n\nLos 7 días corren desde que creás la cuenta, y en esos días operás de verdad. Tené listos los saldos de cada caja en cada moneda, tu lista de clientes, lo que te deben y lo que debés, y los emails de tu equipo.\n\nDespués creás la cuenta con tu email, el asistente te pregunta cómo trabajás y los saldos entran desde plantillas de Excel: ves cada fila antes de importar y las que tienen errores no entran.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": [
+      "Carrusel de 8 placas sobre cómo se arranca la prueba de 7 días de TrackeAR Pro. 7 días gratis con tu operatoria. Esto es lo que conviene tener a mano antes de crear la cuenta. Y cómo se arranca, paso a paso.",
+      "Los 7 días corren desde que creás la cuenta. Creala el día que tengas un rato y tus saldos a mano.",
+      "En esos 7 días operás de verdad. Cargás tus saldos y operás con tus clientes, con todas las funciones y sin pagar.",
+      "Antes de crear la cuenta, tené a mano: los saldos de cada caja, en cada moneda; tu lista de clientes; lo que te deben y lo que debés, cliente por cliente; los emails de tu equipo.",
+      "Paso 1 · Creás la cuenta y la organización. Con tu email. Aceptás los Términos y la Política de privacidad. Al terminar de crearla ves cómo pagar: podés cerrar esa pantalla y seguir probando.",
+      "Paso 2 · El asistente te pregunta cómo trabajás: qué operás, monedas, cotización de referencia, cajas, sucursales, equipo y seguridad.",
+      "Paso 3 · Traés tu planilla. Antes de importar ves cada fila. Las que tienen errores no entran. Vista previa de la plantilla de saldos de cajas: fila 2, Dólares efectivo, US$ 41.270,00, entra; fila 3, Pesos banco, $ 12.846.300, entra; fila 4, con error, no entra. Datos de ejemplo.",
+      "Si preferís, te acompañamos en la puesta en marcha. Entendemos tu operatoria. Configuramos con vos. Capacitamos al equipo. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-25_como-se-arranca-la-prueba"
+  },
+  {
+    "id": "2026-10-25_h3",
+    "fecha_hora": "2026-10-25T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-25_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-25_como-se-arranca-la-prueba"
   },
   {
     "id": "2026-10-25_h2",
@@ -546,6 +740,104 @@
     "depende_de": "2026-10-26_video1"
   },
   {
+    "id": "2026-10-25_seguridad",
+    "fecha_hora": "2026-10-25T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-25_seguridad/p01.jpg",
+      "media/2026-10-25_seguridad/p02.jpg",
+      "media/2026-10-25_seguridad/p03.jpg",
+      "media/2026-10-25_seguridad/p04.jpg",
+      "media/2026-10-25_seguridad/p05.jpg",
+      "media/2026-10-25_seguridad/p06.jpg",
+      "media/2026-10-25_seguridad/p07.jpg",
+      "media/2026-10-25_seguridad/p08.jpg",
+      "media/2026-10-25_seguridad/p09.jpg"
+    ],
+    "pie": "No hace falta creernos. Se puede comprobar.\n\nTus datos están separados de cualquier otra financiera por la base de datos misma. Cada alta, cambio y baja queda con quién la hizo, cuándo y el valor anterior, en un historial que nadie puede editar ni borrar, tampoco el dueño.\n\nUn error no se borra: se anula con un movimiento en contra y queda en el historial. Arriba del monto que elijas, anular o editar una operación necesita tu aprobación.\n\nSi se pierde un celular, cerrás las otras sesiones desde el tuyo. Hay copias de tu organización a las 21:40, 00:40 y 06:40, si hubo cambios. Y más de 2.000 pruebas automáticas corren en cada cambio del sistema.\n\nEn la placa 4, una venta de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casadecambio #financieras #pymesargentinas #trackearpro",
+    "alt": [
+      "Carrusel de TrackeAR Pro sobre seguridad. No hace falta creernos. Se puede comprobar. ¿Tus datos están seguros? ¿Alguien de tu equipo puede borrar lo que ya se cargó? Siete respuestas.",
+      "1 de 7. Tus datos, separados de cualquier otra financiera por la base de datos misma. No por una pantalla: un usuario de otra financiera no puede leer, cargar ni modificar nada tuyo.",
+      "2 de 7. Cada alta, cambio y baja queda con quién la hizo, cuándo y el valor anterior. Ese historial nadie lo puede editar ni borrar, tampoco el dueño.",
+      "3 de 7. Un error se anula: la caja vuelve a como estaba con un movimiento en contra y el error queda en el historial. Venta cargada por error: menos 1.870 USD. Anulación: más 1.870 USD. Caja de dólares: como estaba. Datos de ejemplo.",
+      "4 de 7. Arriba del monto que elijas, anular o editar una operación necesita tu aprobación. Cada uno opera con su rol y todo queda con su nombre.",
+      "5 de 7. Si se pierde un celular, cerrás las otras sesiones desde el tuyo. Y queda registrado quién entró, cuándo y desde qué dispositivo.",
+      "6 de 7. 21:40, 00:40 y 06:40. Copias de tu organización a las 21:40, 00:40 y 06:40, si hubo cambios. Las descargás en Excel o JSON.",
+      "7 de 7. Más de 2.000. Más de 2.000 pruebas automáticas corren en cada cambio del sistema. Entre ellas, las que verifican que otra financiera no pueda leer ni tocar nada tuyo.",
+      "Lo que decimos de seguridad está armado en la base de datos y se prueba solo cada vez que cambia el sistema. Mandáselo a tu socio. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-25_seguridad"
+  },
+  {
+    "id": "2026-10-25_h4",
+    "fecha_hora": "2026-10-25T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-25_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-25_seguridad"
+  },
+  {
+    "id": "2026-10-26_socios-un-solo-numero",
+    "fecha_hora": "2026-10-26T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-26_socios-un-solo-numero/p01.jpg",
+      "media/2026-10-26_socios-un-solo-numero/p02.jpg",
+      "media/2026-10-26_socios-un-solo-numero/p03.jpg",
+      "media/2026-10-26_socios-un-solo-numero/p04.jpg",
+      "media/2026-10-26_socios-un-solo-numero/p05.jpg",
+      "media/2026-10-26_socios-un-solo-numero/p06.jpg",
+      "media/2026-10-26_socios-un-solo-numero/p07.jpg"
+    ],
+    "pie": "Uno mira la caja, otro lo que les deben, otro convierte a otra cotización. Tres números para el mismo día, y la reunión termina en discusión.\n\nEl número que vale para todos es el patrimonio neto: las cajas en dólares, a la misma referencia, más lo que te deben, menos lo que debés. En TrackeAR Pro todos miran ese mismo número.\n\nLos aportes, retiros y dividendos quedan por socio, aparte de la ganancia. Y cada mes cerrado queda guardado y no cambia después. Los montos de las placas son de ejemplo.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tus socios antes de la reunión.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": [
+      "Fondo negro. Texto: Uno mira la caja, otro lo que les deben, otro convierte a otra cotización. Tres números para el mismo día.",
+      "El mismo día, tres números. Uno mira la caja: US$ 150.740,79. Otro le suma lo que les deben: US$ 213.159,54. El tercero pasa los pesos a 1.600: US$ 149.633,69. Datos de ejemplo.",
+      "Ninguno sumó mal. Cada uno hizo otra cuenta. Sin un único número, cada reunión termina en discusión.",
+      "El número que vale para los tres: el patrimonio neto. Patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. 150.740,79 más 62.418,75 menos 19.763,04 da US$ 193.396,50. Los pesos, a la misma referencia: 1.550. Datos de ejemplo.",
+      "Lo que pone o se lleva cada socio no se mezcla. Aporte de un socio: US$ 4.850,00. Retiro de otro socio: US$ 2.315,00. Aportes, retiros y dividendos quedan por socio, aparte de la ganancia. Datos de ejemplo.",
+      "Ícono de un candado. Los resultados, mes por mes. Cada mes cerrado queda guardado y no cambia después.",
+      "Socios, en tres renglones: 1. Un solo patrimonio neto, a la misma referencia. 2. Aportes y retiros, aparte de la ganancia. 3. Cada mes cerrado, guardado como quedó. Mandáselo a tus socios antes de la reunión. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-26_socios-un-solo-numero"
+  },
+  {
+    "id": "2026-10-26_h3",
+    "fecha_hora": "2026-10-26T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-26_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-26_socios-un-solo-numero"
+  },
+  {
     "id": "2026-10-26_h2",
     "fecha_hora": "2026-10-26T10:00:00-03:00",
     "tipo": "historia",
@@ -595,6 +887,102 @@
     "orden": 1,
     "texto": "",
     "depende_de": "2026-10-27_app1"
+  },
+  {
+    "id": "2026-10-26_cajas-y-monedas",
+    "fecha_hora": "2026-10-26T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-26_cajas-y-monedas/p01.jpg",
+      "media/2026-10-26_cajas-y-monedas/p02.jpg",
+      "media/2026-10-26_cajas-y-monedas/p03.jpg",
+      "media/2026-10-26_cajas-y-monedas/p04.jpg",
+      "media/2026-10-26_cajas-y-monedas/p05.jpg",
+      "media/2026-10-26_cajas-y-monedas/p06.jpg",
+      "media/2026-10-26_cajas-y-monedas/p07.jpg",
+      "media/2026-10-26_cajas-y-monedas/p08.jpg"
+    ],
+    "pie": "Pesos en el banco y en efectivo, dólares en el local y en el banco, euros aparte. Para sumar todo, va a una sola moneda.\n\nSe usa el promedio de compra y venta: con compra a 1.540 y venta a 1.560, los pesos van a 1.550. El euro que fijaste a mano en 1,23 se respeta hasta que lo cambies. Si cada uno usa su cotización, los mismos 22.328.450 pesos dan US$ 213,91 de diferencia entre 1.538 y 1.561, sin operar nada.\n\nEn TrackeAR Pro cada caja tiene su saldo y su mínimo, y la cotización la elegís por moneda. Los montos de las placas son de ejemplo.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app.\n\n#casadecambio #controldecaja #cierredecaja #trackearpro",
+    "alt": [
+      "Fondo claro. La cuenta bien hecha, N° 7. Pesos, dólares y euros en cinco cajas. ¿Cuánto tenés, en un solo número? La cuenta bien hecha empieza por las cajas.",
+      "Tus cajas, cada una con su saldo. Banco en pesos: $ 12.846.300. Efectivo en pesos: $ 9.482.150. Efectivo en dólares: US$ 41.270,00. Banco en dólares: US$ 18.635,40. Efectivo en euros: € 6.380,00. Datos de ejemplo.",
+      "Todo a dólares, con la misma referencia. Se usa el promedio de compra y venta: si la compra está a 1.540 y la venta a 1.560, se usa 1.550. El euro que fijaste a mano en 1,23 se respeta hasta que lo cambies. Datos de ejemplo.",
+      "Tus cajas, en dólares. Pesos: 22.328.450 a 1.550, US$ 14.405,45. Dólares: 41.270,00 más 18.635,40, US$ 59.905,40. Euros: 6.380 fijado a 1,23, US$ 7.847,40. Cajas en dólares: US$ 82.158,25. Datos de ejemplo.",
+      "Si cada uno usa su cotización, el número cambia sin operar nada. Los mismos 22.328.450 pesos: a 1.538, US$ 14.517,85; a 1.561, US$ 14.303,94. US$ 213,91 de diferencia con la misma plata. Datos de ejemplo.",
+      "Ícono de dos flechas en círculo. La cotización, por moneda: automática o fijada a mano. La automática se actualiza cada hora. Si una quedó vieja, te avisa.",
+      "Y cada caja con su mínimo. Tarjeta de la caja Efectivo en dólares con US$ 41.270,00 y el mínimo que elegiste, US$ 35.000,00. Si baja de ahí, te avisa. Cada transferencia entre cajas queda registrada con su motivo. Datos de ejemplo.",
+      "La cuenta bien hecha, en una línea: patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. Todas las cajas a dólares, con la misma referencia para todos. Comentá GANANCIA y te mostramos la app. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-26_cajas-y-monedas"
+  },
+  {
+    "id": "2026-10-26_h4",
+    "fecha_hora": "2026-10-26T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-26_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-26_cajas-y-monedas"
+  },
+  {
+    "id": "2026-10-27_arqueo-con-faltante",
+    "fecha_hora": "2026-10-27T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-27_arqueo-con-faltante/p01.jpg",
+      "media/2026-10-27_arqueo-con-faltante/p02.jpg",
+      "media/2026-10-27_arqueo-con-faltante/p03.jpg",
+      "media/2026-10-27_arqueo-con-faltante/p04.jpg",
+      "media/2026-10-27_arqueo-con-faltante/p05.jpg",
+      "media/2026-10-27_arqueo-con-faltante/p06.jpg",
+      "media/2026-10-27_arqueo-con-faltante/p07.jpg"
+    ],
+    "pie": "En el arqueo faltan $ 18.400 y nadie sabe quién contó, a qué hora ni contra qué saldo. Un faltante sin explicación te deja desconfiando de todo el equipo.\n\nEn TrackeAR Pro el arqueo se cuenta por billete o por total, queda firmado y la caja sigue operando. El faltante o el sobrante queda registrado y aparece en Resultados.\n\nAl final del día cerrás todas las cajas en una pantalla, con una sola firma, y el cierre diario sale en PDF con los arqueos y lo de cada operador. Los montos de las placas son de ejemplo.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para el cierre.\n\n#casadecambio #arqueodecaja #cierredecaja #trackearpro",
+    "alt": [
+      "Tapa con fondo claro, serie Arqueo. Dice: En el arqueo faltan $ 18.400 (el monto en rojo). ¿Quién contó, a qué hora y contra qué saldo? Si quedó anotado en un papel, mañana nadie lo encuentra. Datos de ejemplo.",
+      "Texto: Un faltante sin explicación te deja desconfiando de todo el equipo. Con la firma y la hora, sabés quién contó y cuándo.",
+      "Ícono de un billete. Texto: En TrackeAR Pro el arqueo se cuenta por billete o por total. Y la caja sigue operando mientras contás.",
+      "Tabla del arqueo de la caja de pesos en efectivo: saldo en el sistema $ 9.215.750, contado $ 9.197.350 y faltante −$ 18.400, en rojo. Contó y firmó: Lucía Benítez, cajera, a las 16:05. Datos de ejemplo.",
+      "Texto: El faltante o el sobrante queda registrado. Y entra en Resultados, donde ves de dónde sale la ganancia. Caja con Resultados: comisiones, intereses, gastos, faltantes y sobrantes.",
+      "Ícono de una impresora. Texto: Al final del día, todas las cajas en una pantalla y una sola firma. El cierre diario sale con los arqueos y lo de cada operador, en PDF, listo para imprimir.",
+      "Cierre: Arqueo, en tres renglones. 1 se cuenta por billete o por total, sin frenar la caja. 2 el faltante queda con firma y hora. 3 el cierre sale con los arqueos, listo para imprimir. Guardalo para el cierre. @trackearpro."
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-27_arqueo-con-faltante"
+  },
+  {
+    "id": "2026-10-27_h3",
+    "fecha_hora": "2026-10-27T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-27_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-27_arqueo-con-faltante"
   },
   {
     "id": "2026-10-27_h2",
@@ -648,6 +1036,108 @@
     "depende_de": "2026-10-28_video2"
   },
   {
+    "id": "2026-10-27_preguntas",
+    "fecha_hora": "2026-10-27T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-27_preguntas/p01.jpg",
+      "media/2026-10-27_preguntas/p02.jpg",
+      "media/2026-10-27_preguntas/p03.jpg",
+      "media/2026-10-27_preguntas/p04.jpg",
+      "media/2026-10-27_preguntas/p05.jpg",
+      "media/2026-10-27_preguntas/p06.jpg",
+      "media/2026-10-27_preguntas/p07.jpg",
+      "media/2026-10-27_preguntas/p08.jpg",
+      "media/2026-10-27_preguntas/p09.jpg",
+      "media/2026-10-27_preguntas/p10.jpg"
+    ],
+    "pie": "¿Otra financiera puede ver tus datos? ¿Qué pasa si se corta internet? ¿Y si después dejás de pagar?\n\nAntes de probar TrackeAR Pro, 9 preguntas con su respuesta.\n\nCada financiera está separada de las demás por la base de datos misma. Y si se corta internet, el cajero sigue cargando: las operaciones se suben solas cuando vuelve la conexión, en orden y sin duplicados.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": [
+      "Carrusel de TrackeAR Pro con 9 preguntas antes de probarlo. ¿Otra financiera puede ver mis datos? ¿Y si se corta internet? Y 7 preguntas más, antes de probar TrackeAR Pro.",
+      "¿Otra financiera puede ver mis datos? No. Cada organización está separada por la base de datos misma: un usuario de otra financiera no puede leer, cargar ni modificar nada tuyo.",
+      "¿Qué pasa si se corta internet? El cajero sigue cargando operaciones y clientes nuevos. Se suben solos cuando vuelve la conexión, en orden y sin duplicados. Sin internet no se puede anular, editar ni mover plata entre cajas.",
+      "¿Tengo que cargar todo a mano? No. Hay plantillas en Excel para clientes, saldos de cajas, cuentas corrientes y operaciones. Antes de importar ves cada fila, y las que tienen errores no entran.",
+      "¿Puedo seguir con mi planilla? Sí. Las operaciones se exportan en el mismo formato de planilla, que se vuelve a importar. Si querés, seguís con la planilla en paralelo.",
+      "¿Me ayudan a ponerla en marcha? Sí. Entendemos tu operatoria, dejamos configuradas con vos las cajas, monedas, cotizaciones y roles, y capacitamos al equipo. Los primeros días estamos al lado.",
+      "¿Cómo se paga? Por transferencia, desde cualquier banco o billetera. Al crear la organización, la app te muestra el importe exacto y los datos para transferir (alias y CVU).",
+      "¿Y si pago y después dejo de pagar? Te avisamos 5 días antes del vencimiento y tenés 5 días de gracia. Después el acceso se pausa, pero tus datos no se tocan: el propietario los descarga en PDF, Excel o JSON desde la pantalla de pausa. Cuando se acredita el pago, se habilita sola con todo lo que tenías.",
+      "¿Qué no hace? No hace factura electrónica, no está en las tiendas de apps (se agrega a la pantalla de inicio desde el navegador), no se conecta con bancos ni lee extractos, y Binance se concilia con un archivo CSV.",
+      "¿Por esta cuenta se compran o venden dólares? No. TrackeAR Pro es un software de gestión para financieras y casas de cambio. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-27_preguntas"
+  },
+  {
+    "id": "2026-10-27_h4",
+    "fecha_hora": "2026-10-27T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-27_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-27_preguntas"
+  },
+  {
+    "id": "2026-10-28_cuenta-corriente-cobros-parciales",
+    "fecha_hora": "2026-10-28T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p01.jpg",
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p02.jpg",
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p03.jpg",
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p04.jpg",
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p05.jpg",
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p06.jpg",
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p07.jpg",
+      "media/2026-10-28_cuenta-corriente-cobros-parciales/p08.jpg"
+    ],
+    "pie": "Un cliente dice que ya te pagó una parte y en tu planilla no figura. Sin nombre ni hora, es tu palabra contra la suya.\n\nEn TrackeAR Pro cada cliente tiene su ficha y su estado de cuenta, con lo que te debe y lo que le debés, y cada cobro o pago parcial queda en el historial con quién lo cargó y cuándo. Si entregás en partes, lo que falta se puede pasar a cuenta corriente o cerrar como diferencia. Y si un cliente debe más de lo permitido, te avisa.\n\nLos nombres y montos de las placas son de ejemplo.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo al que arma la planilla.\n\n#casadecambio #financieras #pymesargentinas #controldecaja #trackearpro",
+    "alt": [
+      "Tapa con fondo claro, serie Cuentas corrientes. Dice: Un cliente dice que ya te pagó una parte. En tu planilla no figura. Cada cobro, con nombre y hora.",
+      "Texto: En la planilla, un cobro parcial es una celda más. Sin nombre y sin hora. Cuando el cliente reclama, es tu palabra contra la suya.",
+      "Ícono de una ficha de cliente y el texto: En TrackeAR Pro, cada cliente tiene su ficha y su estado de cuenta. Lo que te debe y lo que le debés, con cobros y pagos parciales.",
+      "Estado de cuenta de Martín Ríos en una tabla: te debe US$ 4.870,00, cobro parcial a las 11:42 por −US$ 2.340,00 y saldo: te debe US$ 2.530,00. Debajo: en el historial, lo cargó Lucía Benítez, cajera. Datos de ejemplo.",
+      "Ícono de tres partes, dos completas y una pendiente, y el texto: Si entregás en partes, lo que falta no se pierde. Lo que falta entregar se puede pasar a cuenta corriente o cerrar como diferencia.",
+      "Texto: Y lo que te deben entra en tu patrimonio. Las cuentas corrientes suman en lo que te deben y lo que debés. Fórmula en una caja: patrimonio neto = cajas en dólares + lo que te deben − lo que debés.",
+      "Ícono de una campana y el texto: Un aviso cuando un cliente debe de más. Cada cliente puede tener un límite de cuenta corriente. Si lo pasa, te avisa.",
+      "Cierre: Cuentas corrientes, en tres renglones: 1 cada cobro y cada pago, con nombre y hora; 2 lo que falta entregar, a cuenta corriente o como diferencia; 3 un aviso cuando un cliente debe más de lo permitido. Mandáselo al que arma la planilla. @trackearpro."
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-28_cuenta-corriente-cobros-parciales"
+  },
+  {
+    "id": "2026-10-28_h3",
+    "fecha_hora": "2026-10-28T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-28_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-28_cuenta-corriente-cobros-parciales"
+  },
+  {
     "id": "2026-10-28_h2",
     "fecha_hora": "2026-10-28T10:00:00-03:00",
     "tipo": "historia",
@@ -697,6 +1187,98 @@
     "orden": 1,
     "texto": "",
     "depende_de": "2026-10-29_app2"
+  },
+  {
+    "id": "2026-10-28_celular-perdido",
+    "fecha_hora": "2026-10-28T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-28_celular-perdido/p01.jpg",
+      "media/2026-10-28_celular-perdido/p02.jpg",
+      "media/2026-10-28_celular-perdido/p03.jpg",
+      "media/2026-10-28_celular-perdido/p04.jpg",
+      "media/2026-10-28_celular-perdido/p05.jpg",
+      "media/2026-10-28_celular-perdido/p06.jpg"
+    ],
+    "pie": "Se perdió el celular del cajero y tenía la app abierta. Esto es lo que hacés desde el tuyo.\n\nCerrás sus sesiones: el propietario cierra las de un miembro del equipo. Después mirás el registro de accesos, con quién entró, cuándo y desde qué dispositivo. Y lo que cargó antes de perderlo queda con su nombre y su hora en el historial.\n\nAdemás, la sesión del mostrador se cierra sola después del tiempo que elijas.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #trackearpro",
+    "alt": [
+      "Placa negra con el título \"Se perdió el celular del cajero. Tenía la app abierta.\" y debajo \"Lo que hacés desde el tuyo, en orden.\", serie Seguridad de TrackeAR Pro.",
+      "Paso 1, \"Cerrás sus sesiones desde tu usuario.\" Cada uno ve sus dispositivos y cierra los otros; el propietario cierra las de un miembro del equipo.",
+      "Paso 2, \"Mirás quién entró, cuándo y desde qué dispositivo.\" Tarjeta del registro de accesos con tres ingresos de ejemplo, del más nuevo al más viejo: Kevin Salas, cajero, computadora del local, 14:26; Paula Ferrari, administradora, celular, 11:48; Kevin Salas, cajero, celular, 09:04. Datos de ejemplo.",
+      "Paso 3, \"Revisás sus cargas.\" Lo que cargó antes de perderlo queda con su nombre y su hora en el historial.",
+      "\"Para que no dependa de que alguien se acuerde de salir: la sesión del mostrador se cierra sola después del tiempo que elijas.\"",
+      "Resumen en tres renglones: cerrás sus sesiones desde el tuyo, revisás el registro de accesos y lo cargado sigue con nombre y hora. Cierra con \"Mandáselo a tu socio.\" y @trackearpro."
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-28_celular-perdido"
+  },
+  {
+    "id": "2026-10-28_h4",
+    "fecha_hora": "2026-10-28T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-28_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-28_celular-perdido"
+  },
+  {
+    "id": "2026-10-29_un-prestamo-no-es-perdida",
+    "fecha_hora": "2026-10-29T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-29_un-prestamo-no-es-perdida/p01.jpg",
+      "media/2026-10-29_un-prestamo-no-es-perdida/p02.jpg",
+      "media/2026-10-29_un-prestamo-no-es-perdida/p03.jpg",
+      "media/2026-10-29_un-prestamo-no-es-perdida/p04.jpg",
+      "media/2026-10-29_un-prestamo-no-es-perdida/p05.jpg",
+      "media/2026-10-29_un-prestamo-no-es-perdida/p06.jpg",
+      "media/2026-10-29_un-prestamo-no-es-perdida/p07.jpg"
+    ],
+    "pie": "Prestaste US$ 11.740 a la mañana y a la noche la planilla dice que el día dio pérdida. La plata no se perdió: te la deben.\n\nEl préstamo sale de la caja y entra en lo que te deben. Con la cuenta entera, el patrimonio queda igual. La ganancia está en los intereses, no en el día en que prestás.\n\nEn TrackeAR Pro cada préstamo lleva sus cuotas, en sistema francés, alemán o al vencimiento, con mora automática, refinanciación con solo el interés devengado y el saldo del préstamo dentro de lo que te deben. Los montos de las placas son de ejemplo.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casadecambio #financieras #controldecaja #trackearpro",
+    "alt": [
+      "Carrusel sobre préstamos en TrackeAR Pro, serie La cuenta bien hecha N° 6. Prestaste US$ 11.740 a la mañana. A la noche, la planilla dice que el día dio pérdida. Un préstamo no es una pérdida. La cuenta, entera. Datos de ejemplo.",
+      "La plata salió de la caja, pero te la deben. Tabla: caja −US$ 11.740,00; te deben +US$ 11.740,00; patrimonio neto: igual. Datos de ejemplo.",
+      "La ganancia del préstamo está en los intereses, no en el día en que prestás. En Resultados ves de dónde sale la ganancia: comisiones, intereses, gastos, faltantes y sobrantes.",
+      "Cada préstamo, con sus cuotas. Tarjeta de ejemplo: Tomás Ibarra, US$ 11.740,00, 6 cuotas, sistema francés, 2,4 % mensual. Cuota 1: US$ 2.124,27, capital 1.842,51, interés 281,76. Cuota 2: US$ 2.124,27, capital 1.886,73, interés 237,54. También en sistema alemán o al vencimiento. Datos de ejemplo.",
+      "Si una cuota se atrasa, la mora se calcula sola. Mora automática: no la tenés que sacar a mano.",
+      "Si lo refinanciás, entra solo el interés que ya corrió. El interés de las cuotas que todavía no corrieron no se suma al préstamo nuevo.",
+      "La cuenta bien hecha, en una línea: un préstamo sale de la caja y entra en lo que te deben. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-29_un-prestamo-no-es-perdida"
+  },
+  {
+    "id": "2026-10-29_h3",
+    "fecha_hora": "2026-10-29T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-29_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-29_un-prestamo-no-es-perdida"
   },
   {
     "id": "2026-10-29_h2",
@@ -750,6 +1332,100 @@
     "depende_de": "2026-10-30_video3"
   },
   {
+    "id": "2026-10-29_la-cuenta",
+    "fecha_hora": "2026-10-29T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-29_la-cuenta/p01.jpg",
+      "media/2026-10-29_la-cuenta/p02.jpg",
+      "media/2026-10-29_la-cuenta/p03.jpg",
+      "media/2026-10-29_la-cuenta/p04.jpg",
+      "media/2026-10-29_la-cuenta/p05.jpg",
+      "media/2026-10-29_la-cuenta/p06.jpg",
+      "media/2026-10-29_la-cuenta/p07.jpg"
+    ],
+    "pie": "La planilla te dice cuánta plata hay. No cuánto ganaste.\n\nLa cuenta bien hecha tiene cuatro pasos:\n1. Todo a dólares. Cada caja, en cada moneda, al promedio de compra y venta. La que fijás a mano, como el euro a 1,23, se respeta.\n2. Sumá lo que te deben y restá lo que debés. Si el cliente se llevó los dólares y los pesos llegan mañana, eso es plata a cobrar.\n3. Eso es tu patrimonio neto.\n4. Lo comparás contra la foto de las 00:00, sin contar lo que pusieron o retiraron los socios. Esa es la ganancia.\n\nPara el mes, la misma cuenta contra la foto del 1° a las 00:00.\n\nLa calculadora de la web hace el mismo cálculo que la app. El link está en el perfil. En las placas, la calculadora con sus valores de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para el cierre.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel de TrackeAR Pro sobre cómo se calcula la ganancia del día. La planilla te dice cuánta plata hay. No cuánto ganaste. La cuenta bien hecha tiene 4 pasos.",
+      "Paso 1 · Todo a dólares. Cada caja, en cada moneda, al promedio de compra y venta. La que fijás a mano, como el euro a 1,23, se respeta. Datos de ejemplo.",
+      "Paso 2 · Sumá lo que te deben y restá lo que debés. Si el cliente se llevó los dólares y los pesos llegan mañana, eso es plata a cobrar.",
+      "Paso 3 · Patrimonio neto. Igual a cajas en dólares, más lo que te deben, menos lo que debés.",
+      "Paso 4 · Ganancia. Igual a patrimonio ahora, menos la foto de las 00:00 (tu patrimonio a medianoche), menos aportes, más retiros. Para el mes, la misma cuenta contra la foto del 1° a las 00:00.",
+      "Probala con tus números. Es el mismo cálculo que hace la app. Captura de la calculadora de la web: Patrimonio neto, US$ 142.783,87. Foto de las 00:00, tu patrimonio a medianoche: 141.500. Ganancia de hoy: +US$ 1.283,87. La calculadora está en la web. El link, en el perfil. Datos de ejemplo.",
+      "La cuenta bien hecha, en cuatro renglones: 1, Todo a dólares. 2, Sumá lo que te deben y restá lo que debés. 3, Eso es tu patrimonio neto. 4, Comparalo contra la foto de las 00:00, sin aportes ni retiros. Guardalo para el cierre. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-29_la-cuenta"
+  },
+  {
+    "id": "2026-10-29_h4",
+    "fecha_hora": "2026-10-29T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-29_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-29_la-cuenta"
+  },
+  {
+    "id": "2026-10-30_comisiones-de-referidos",
+    "fecha_hora": "2026-10-30T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-30_comisiones-de-referidos/p01.jpg",
+      "media/2026-10-30_comisiones-de-referidos/p02.jpg",
+      "media/2026-10-30_comisiones-de-referidos/p03.jpg",
+      "media/2026-10-30_comisiones-de-referidos/p04.jpg",
+      "media/2026-10-30_comisiones-de-referidos/p05.jpg",
+      "media/2026-10-30_comisiones-de-referidos/p06.jpg",
+      "media/2026-10-30_comisiones-de-referidos/p07.jpg"
+    ],
+    "pie": "El que te trae clientes pregunta cuánto le toca y la respuesta está repartida en tres planillas y un cuaderno.\n\nEn TrackeAR Pro la ficha de cada cliente dice quién lo trajo y cada operación deja anotada la comisión del referido. Cuando le pagás, liquidás un monto redondo y lo que falta queda como saldo a su favor. El resumen sale listo para copiarle.\n\nEn Resultados ves la actividad por referido, contra el período anterior.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casadecambio #financieras #pymesargentinas #trackearpro",
+    "alt": [
+      "Carrusel sobre comisiones de referidos en TrackeAR Pro. El que te trae clientes pregunta cuánto le toca. La respuesta está en tres planillas y un cuaderno. Las comisiones de referidos, ordenadas.",
+      "Ícono de una ficha. En la ficha de cada cliente queda quién lo trajo. Y cada operación de ese cliente deja anotada la comisión del referido.",
+      "Esteban Ruiz te trajo dos clientes. Su comisión, en una tabla: operación #212 de Martín Ríos, $ 48.300; operación #219 de Tomás Ibarra, $ 71.650; operación #231 de Martín Ríos, $ 66.470. Total: $ 186.420. Datos de ejemplo.",
+      "Le liquidás un monto redondo y el resto queda como saldo. Comisión $ 186.420, liquidado −$ 180.000. Saldo a su favor: $ 6.420. Datos de ejemplo.",
+      "Ícono de copiar. El resumen sale listo para copiarle. Lo copiás y se lo pasás.",
+      "Y ves cuánto mueve cada referido. En Resultados, la actividad por tipo, por cliente y por referido, contra el período anterior.",
+      "Referidos, en tres renglones: 1. Quién trajo a cada cliente, en su ficha. 2. La comisión de cada operación, anotada. 3. Liquidación redonda, con el saldo a la vista. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-30_comisiones-de-referidos"
+  },
+  {
+    "id": "2026-10-30_h3",
+    "fecha_hora": "2026-10-30T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-30_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-30_comisiones-de-referidos"
+  },
+  {
     "id": "2026-10-30_h2",
     "fecha_hora": "2026-10-30T10:00:00-03:00",
     "tipo": "historia",
@@ -801,6 +1477,100 @@
     "depende_de": "2026-10-31_video7"
   },
   {
+    "id": "2026-10-30_aprobacion-por-monto",
+    "fecha_hora": "2026-10-30T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-30_aprobacion-por-monto/p01.jpg",
+      "media/2026-10-30_aprobacion-por-monto/p02.jpg",
+      "media/2026-10-30_aprobacion-por-monto/p03.jpg",
+      "media/2026-10-30_aprobacion-por-monto/p04.jpg",
+      "media/2026-10-30_aprobacion-por-monto/p05.jpg",
+      "media/2026-10-30_aprobacion-por-monto/p06.jpg",
+      "media/2026-10-30_aprobacion-por-monto/p07.jpg"
+    ],
+    "pie": "Un cajero quiere anular una venta de US$ 8.375. En TrackeAR Pro, arriba del monto que elijas, anular o editar una operación necesita tu aprobación.\n\nSi una operación supera el límite operativo de ese cliente, también hay que autorizarla. Y lo que se sale de lo normal, como una cotización lejos de la referencia o un cliente nuevo con monto grande, aparece en “Requiere atención”, con los umbrales que elegís vos.\n\nCada uno opera con su rol y todo queda con su nombre. Confiás sin estar encima. Los montos de las placas son de ejemplo.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo al encargado.\n\n#casasdecambio #controldecaja #pymesargentinas #trackearpro",
+    "alt": [
+      "Placa negra de la serie Control sin estar encima de TrackeAR Pro con el título \"Un cajero quiere anular una venta de US$ 8.375.\" y debajo \"Arriba del monto que elegiste, sin tu aprobación no se anula.\" Datos de ejemplo.",
+      "\"Arriba del monto que elijas, anular o editar una operación necesita tu aprobación.\" Debajo: \"El monto lo elegís vos.\"",
+      "\"La operación queda esperando tu aprobación:\" Tarjeta esquemática con datos de ejemplo: anular la venta #247 de Martín Ríos por US$ 8.375,00; lo pide Kevin Salas, cajero; necesita la aprobación del dueño.",
+      "\"Si una operación pasa el límite de ese cliente, también hay que autorizarla.\" Debajo: \"Cada cliente puede tener su límite operativo.\"",
+      "\"Lo que se sale de lo normal aparece en “Requiere atención”.\" Tarjeta con tres avisos: una cotización lejos de la referencia, un monto alto para ese cliente y un cliente nuevo con monto grande. Debajo: \"Los umbrales los elegís vos.\"",
+      "En letras grandes, \"Confiás sin estar encima.\" Debajo: \"Cada uno opera con su rol y todo queda con su nombre.\"",
+      "Resumen en tres renglones: arriba del monto que elijas, anular o editar pide tu aprobación; lo que se sale de lo normal, en “Requiere atención”; cada uno con su rol, y todo con su nombre. Cierra con \"Mandáselo al encargado.\" y @trackearpro."
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-30_aprobacion-por-monto"
+  },
+  {
+    "id": "2026-10-30_h4",
+    "fecha_hora": "2026-10-30T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-30_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-30_aprobacion-por-monto"
+  },
+  {
+    "id": "2026-10-31_antes-y-despues-de-la-planilla",
+    "fecha_hora": "2026-10-31T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-31_antes-y-despues-de-la-planilla/p01.jpg",
+      "media/2026-10-31_antes-y-despues-de-la-planilla/p02.jpg",
+      "media/2026-10-31_antes-y-despues-de-la-planilla/p03.jpg",
+      "media/2026-10-31_antes-y-despues-de-la-planilla/p04.jpg",
+      "media/2026-10-31_antes-y-despues-de-la-planilla/p05.jpg",
+      "media/2026-10-31_antes-y-despues-de-la-planilla/p06.jpg",
+      "media/2026-10-31_antes-y-despues-de-la-planilla/p07.jpg"
+    ],
+    "pie": "Cerrás el local y todavía no sabés cuánto ganaste hoy. Con la planilla, eso es lo normal.\n\nCinco cosas cambian el día que dejás de adivinar: la ganancia se mide desde las 00:00 y en dólares, lo pendiente cuenta como a cobrar o a pagar, todos los socios miran el mismo patrimonio neto, un error se anula y queda registrado, y el cierre diario sale solo, listo para imprimir.\n\nEn cada placa, arriba la planilla y abajo TrackeAR Pro.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #financieras #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel de 7 placas con fondo negro que compara, en cinco placas, la planilla con TrackeAR Pro: la ganancia (a fin de mes contra desde las 00:00 en dólares), los pendientes (pérdidas contra a cobrar o a pagar), los socios (cada uno con su cuenta contra un patrimonio neto para todos), los errores (pisar la celda contra anular y dejar registro) y el cierre (depende de una persona contra cierre diario listo para imprimir). Cierra con un pedido: mandáselo a tu socio. Placa 1: Cerrás el local y todavía no sabés cuánto ganaste hoy. Con la planilla, eso es lo normal. Cinco cosas que cambian cuando dejás de adivinar.",
+      "1. La ganancia. Con la planilla: la ves a fin de mes, si llegás a armarla. Con TrackeAR Pro: ganancia desde las 00:00, en dólares, sin esperar a fin de mes.",
+      "2. Los pendientes. Con la planilla: aparecen como pérdidas. Con TrackeAR Pro: lo pendiente cuenta como a cobrar o a pagar.",
+      "3. Los socios. Con la planilla: cada socio llega con su propia cuenta. Con TrackeAR Pro: un patrimonio neto, el mismo para todos.",
+      "4. Los errores. Con la planilla: se corrigen pisando la celda. Con TrackeAR Pro: un error se anula y queda registrado.",
+      "5. El cierre. Con la planilla: depende de quien la arma. Con TrackeAR Pro: el cierre diario sale solo, listo para imprimir.",
+      "De adivinar a saber. Mandáselo a tu socio. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-31_antes-y-despues-de-la-planilla"
+  },
+  {
+    "id": "2026-10-31_h3",
+    "fecha_hora": "2026-10-31T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-31_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-31_antes-y-despues-de-la-planilla"
+  },
+  {
     "id": "2026-10-31_h2",
     "fecha_hora": "2026-10-31T10:00:00-03:00",
     "tipo": "historia",
@@ -850,5 +1620,54 @@
     "orden": 1,
     "texto": "",
     "depende_de": "2026-10-24_video6"
+  },
+  {
+    "id": "2026-10-31_sirve-para-mi-financiera",
+    "fecha_hora": "2026-10-31T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-31_sirve-para-mi-financiera/p01.jpg",
+      "media/2026-10-31_sirve-para-mi-financiera/p02.jpg",
+      "media/2026-10-31_sirve-para-mi-financiera/p03.jpg",
+      "media/2026-10-31_sirve-para-mi-financiera/p04.jpg",
+      "media/2026-10-31_sirve-para-mi-financiera/p05.jpg",
+      "media/2026-10-31_sirve-para-mi-financiera/p06.jpg",
+      "media/2026-10-31_sirve-para-mi-financiera/p07.jpg",
+      "media/2026-10-31_sirve-para-mi-financiera/p08.jpg"
+    ],
+    "pie": "Dos locales, tres cajeros y USDT. Antes de probar un sistema, un dueño quiere saber si le sirve a su operatoria.\n\nEn las placas, preguntas de dueño con la respuesta corta: qué operaciones carga, si varios cajeros pueden cargar a la vez, cómo maneja dos locales, con qué cotización trabaja, si se mira desde el celular y cuánto tarda en verse lo que carga un cajero.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
+    "alt": [
+      "Fondo negro. Texto entre comillas: \"Tengo dos locales, tres cajeros y opero USDT. ¿Me sirve?\" Debajo: Seis preguntas, con la respuesta corta.",
+      "Pregunta: ¿Registra lo que opero yo? Respuesta: Compra, venta, USDT, cables y cheques. También pasamanos, canje de billetes, recaudaciones, préstamos y referidos con su comisión.",
+      "Pregunta: ¿Pueden cargar varios cajeros a la vez? Respuesta: Sí. Cada carga es una fila propia y nadie escribe encima de otro. Si dos editan la misma operación, la base rechaza el segundo cambio en lugar de pisar el primero.",
+      "Pregunta: ¿Y si tengo dos locales? Respuesta: Cada plaza con sus cajas y su cierre, y el total de la casa en un solo número.",
+      "Pregunta: ¿Con qué cotización trabaja? Respuesta: La elegís por moneda: automática a mercado o fijada a mano. Blue, oficial, MEP, CCL y Binance P2P se actualizan cada hora.",
+      "Pregunta: ¿Lo miro desde el celular? Respuesta: Sí. Se agrega a la pantalla de inicio y abre a pantalla completa. En la primera pantalla, patrimonio, ganancia del día, cajas y lo que requiere atención.",
+      "Pregunta: ¿Cuánto tarda en verse lo que carga un cajero? Respuesta: Aparece en la lista de operaciones en uno o dos segundos, en el celular y en la computadora.",
+      "Si tu pregunta es otra, contanos qué operás. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-31_sirve-para-mi-financiera"
+  },
+  {
+    "id": "2026-10-31_h4",
+    "fecha_hora": "2026-10-31T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-31_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-10-31_sirve-para-mi-financiera"
   }
 ]
