@@ -193,11 +193,17 @@
     ],
     "pie": "Un movimiento de caja registrado no lo puede borrar nadie. Tampoco vos.\n\nEn la planilla, un saldo que “se corrigió” no deja registro de quién fue ni cuándo.\n\nEn TrackeAR Pro cada alta, cambio y baja queda con quién la hizo, cuándo y el valor anterior. Si hay un error, se anula y queda a la vista. Los meses cerrados no cambian.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #trackearpro",
     "alt": "Animación de TrackeAR Pro sobre el historial de caja de una casa de cambio o financiera: en la planilla alguien pisa una celda y el valor anterior se pierde; en la app, cada cambio queda con nombre, hora y valor anterior, un error se anula y queda a la vista, y un mes cerrado no se toca. Datos de ejemplo.",
-    "estado": "aprobado",
+    "estado": "publicado",
     "portada": "media/2026-10-18_reel/portada.jpg",
     "intentos": 0,
     "origen": "2026-10-07/reels/extra/2026-10-18_reel",
-    "resultado": {}
+    "resultado": {
+      "ig_id": "17909794896562876",
+      "permalink": "https://www.instagram.com/reel/DexmA8Dm0VO/",
+      "publicado_en": "2026-10-21T20:32:11-03:00",
+      "nota": "publicada por el publicador"
+    },
+    "contenedor": "17907633180665550"
   },
   {
     "id": "2026-10-21_h2",
@@ -208,14 +214,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18122949517855491",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4013160405635420466",
+      "publicado_en": "2026-10-21T20:40:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-10-18_reel"
+    "depende_de": "2026-10-18_reel",
+    "contenedor": "17907634659665550"
   },
   {
     "id": "2026-10-22_1540",
