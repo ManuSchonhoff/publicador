@@ -20,13 +20,17 @@ CANDADO = RAIZ / ".candado"
 # Argentina no tiene horario de verano desde 2009: siempre UTC-3.
 AR = timezone(timedelta(hours=-3), "ART")
 
-TIPOS = ("carrusel", "imagen", "reel")
+TIPOS = ("carrusel", "imagen", "reel", "historia")
 ESTADOS = ("borrador", "aprobado", "publicado", "error")
 CAMPOS = ("id", "fecha_hora", "tipo", "archivos", "pie", "alt", "estado", "resultado")
 
 # Si una pieza aprobada no salió a su hora (GitHub caído, aprobación tarde),
 # se publica igual solo si el atraso es menor que esto y sigue siendo el mismo día.
 MAX_ATRASO_MIN = int(os.environ.get("MAX_ATRASO_MIN", "180"))
+
+# Tope propio de publicaciones por API en 24 h corridas (las historias cuentan: salen por el mismo
+# media_publish). Meta hoy documenta 50 o 100 según la página; nos quedamos en 25, con margen.
+LIMITE_24H = int(os.environ.get("LIMITE_24H", "25"))
 
 DIAS = ("lun", "mar", "mié", "jue", "vie", "sáb", "dom")
 
@@ -96,11 +100,19 @@ def cargar_cola(ruta=COLA):
     return datos
 
 
+def orden_de(p):
+    """Posición dentro de la misma hora: el feed (sin 'orden') va primero; las historias, 1, 2, 3…"""
+    try:
+        return int(p.get("orden") or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
 def clave_orden(p):
     try:
-        return (leer_fecha(p.get("fecha_hora")), str(p.get("id")))
+        return (leer_fecha(p.get("fecha_hora")), orden_de(p), str(p.get("id")))
     except Exception:
-        return (datetime.max.replace(tzinfo=AR), str(p.get("id")))
+        return (datetime.max.replace(tzinfo=AR), orden_de(p), str(p.get("id")))
 
 
 def ordenar(piezas):
@@ -137,6 +149,22 @@ def pendientes_que_tocan(piezas, momento):
         except Exception:
             salida.append(p)  # la validación la va a marcar como error
     return sorted(salida, key=clave_orden)
+
+
+def publicadas_en_24h(piezas, momento):
+    """Cuántas piezas salieron por API en las 24 h anteriores a 'momento' (según cola.json)."""
+    n = 0
+    for p in piezas:
+        if p.get("estado") != "publicado":
+            continue
+        r = p.get("resultado") or {}
+        try:
+            cuando = leer_fecha(r.get("publicado_en") or p["fecha_hora"])
+        except Exception:
+            continue
+        if momento - timedelta(hours=24) < cuando <= momento:
+            n += 1
+    return n
 
 
 def vencida(p, momento):
@@ -221,6 +249,14 @@ class Candado:
                     continue
                 raise SystemExit("Otra corrida está usando la cola ahora mismo. Salgo sin hacer nada.")
         raise SystemExit("No pude tomar el candado de la cola.")
+
+    def refrescar(self):
+        """Durante una espera larga: que el candado no parezca viejo."""
+        if self.tomado:
+            try:
+                os.utime(self.ruta, None)
+            except OSError:
+                pass
 
     def __exit__(self, *exc):
         if self.tomado:

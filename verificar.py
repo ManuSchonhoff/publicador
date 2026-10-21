@@ -15,8 +15,8 @@ import struct
 import sys
 from pathlib import Path
 
-from comun import (AR, ESTADOS, RAIZ, TIPOS, CAMPOS, MAX_ATRASO_MIN, ahora, cargar_cola,
-                   clave_orden, falta, fmt, guardar_cola, hashtags, leer_fecha, menciones,
+from comun import (AR, ESTADOS, RAIZ, TIPOS, CAMPOS, LIMITE_24H, MAX_ATRASO_MIN, ahora, buscar,
+                   cargar_cola, clave_orden, falta, fmt, guardar_cola, hashtags, leer_fecha, menciones,
                    ordenar, pendientes_que_tocan, preparar_consola, vencida)
 
 MAX_PIE = 2200
@@ -27,13 +27,19 @@ MAX_JPG_MB = 8
 MAX_REEL_MB_IG = 300
 MAX_ARCHIVO_MB_GITHUB = 95       # GitHub rechaza archivos de 100 MB o más
 MAX_ARCHIVO_MB_WEB = 25          # la subida por la web de GitHub no acepta más
+MAX_HISTORIA_MB = 100            # video de historia: hasta 100 MB y de 3 a 60 s (referencia de IG User Media)
+MAX_HISTORIA_SEG = 60
+IMAGENES_HISTORIA = (".jpg", ".jpeg")
+VIDEOS_HISTORIA = (".mp4", ".mov")
 RATIOS = {"4:5": 4 / 5, "1:1": 1.0, "9:16": 9 / 16}
+DIAS_CORTOS = ("lun", "mar", "mié", "jue", "vie", "sáb", "dom")
 
 # Nombres que nunca van en lo publicable (la casa y el equipo). El repo es público: no se escriben acá,
 # se comparan por su huella (sha256 de la palabra o del par de palabras, en minúsculas y sin tildes).
 NOMBRES_PRIVADOS = {
     "26409c76a229a54a0ae9", "16814e8cd706b29de1ba", "cca457407f24b80c72d8",
     "dbde6e431edd7f4672f0", "d2caa82cdb5a0a33f42b", "8ec98ed17b2fba4b6065",
+    "04017fc8b5ab929063f7", "40e33c9cd651d7ed6a9a",
 }
 
 
@@ -50,12 +56,20 @@ def nombre_privado(texto):
     return None
 
 
-# Lo prohibido en lo publicable (error) y lo dudoso (aviso). Se busca en el pie y en el alt.
+# Lo prohibido en lo publicable (error) y lo dudoso (aviso). Se busca en el pie, en el alt
+# y en el texto de la imagen de las historias (campo "texto").
 PROHIBIDO = [
     (r"whats\s*app|wa\.me", "WhatsApp todavía no es un canal activo"),
     (r"cada\s+(4|cuatro)\s+horas", "dice 'cada 4 horas' (son tres copias por día)"),
+    (r"@\s*trackear\.pro\b", "la cuenta es @trackearpro, sin punto"),
+    (r"\b(cepo|arca|uif|cuevas?)\b", "no se habla de cepo, ARCA, UIF ni cuevas"),
+    (r"cambio\s+norte", "'Cambio Norte' es el nombre de la grabación: va tapado"),
+    (r"(?<!no )(?<!ni )\b(compramos|vendemos)\b(?:\s+\S+){0,3}?\s+(divisas|d[oó]lares|monedas?|euros|reales)\b",
+     "dice que compramos o vendemos divisas (somos un sistema de gestión)"),
 ]
 DUDOSO = [
+    (r"\bseptiembre\b", "¿fecha de la grabación? (septiembre iba tapado)"),
+    (r"(?<!no )(?<!ni )\b(compramos|vendemos)\b", "¿dice que compramos o vendemos? (no compramos ni vendemos divisas)"),
     (r"\ben\s+vivo\b|\bvivos?\b|\blive\b", "¿habla de vivos? (no hay vivos)"),
     (r"export\w*.{0,60}(sin\s+pag|no\s+pag|deja\w*\s+de\s+pag)|(sin\s+pag|no\s+pag).{0,60}export",
      "¿menciona exportar sin pagar? (no se dice)"),
@@ -86,6 +100,7 @@ def info_mp4(ruta):
     """Ancho, alto, duración y códec del video leyendo las cajas del MP4/MOV."""
     ruta = Path(ruta)
     moov = None
+    mdat_antes = False
     with open(ruta, "rb") as f:
         f.seek(0, 2)
         total = f.tell()
@@ -106,11 +121,13 @@ def info_mp4(ruta):
                 f.seek(pos + largo_cab)
                 moov = f.read(tam - largo_cab)
                 break
+            if tipo == b"mdat":
+                mdat_antes = True
             pos += tam
     if moov is None:
         raise ValueError("no encuentro la caja 'moov' (¿el archivo está completo?)")
 
-    info = {"ancho": None, "alto": None, "duracion": None, "codec": None}
+    info = {"ancho": None, "alto": None, "duracion": None, "codec": None, "moov_primero": not mdat_antes}
     for tipo, a, b in _cajas(moov, 0, len(moov)):
         if tipo == "mvhd":
             ver = moov[a]
@@ -189,13 +206,16 @@ def validar_imagen(rel, tipo, errores, avisos):
     if not 320 <= ancho <= 1440:
         errores.append(f"{rel}: mide {ancho} px de ancho (Instagram acepta de 320 a 1440)")
     nombre = _ratio_nombre(ancho, alto)
-    permitidos = ("9:16",) if tipo == "portada" else ("4:5", "1:1")
+    permitidos = ("9:16",) if tipo in ("portada", "historia") else ("4:5", "1:1")
     if nombre not in permitidos:
         errores.append(f"{rel}: {ancho}×{alto} no es {' ni '.join(permitidos)}")
+    elif tipo == "historia" and (ancho, alto) != (1080, 1920):
+        avisos.append(f"{rel}: mide {ancho}×{alto}; las historias se diseñan en 1080×1920")
     return nombre
 
 
-def validar_video(rel, errores, avisos):
+def validar_video(rel, errores, avisos, tipo="reel"):
+    historia = tipo == "historia"
     ruta = _ruta_repo(rel)
     if ruta is None:
         errores.append(f"{rel}: la ruta tiene que ser relativa y dentro del repo")
@@ -204,14 +224,16 @@ def validar_video(rel, errores, avisos):
         errores.append(f"{rel}: no existe")
         return
     if ruta.suffix.lower() not in (".mp4", ".mov"):
-        errores.append(f"{rel}: el reel tiene que ser .mp4 o .mov")
+        errores.append(f"{rel}: el {'video de la historia' if historia else 'reel'} tiene que ser .mp4 o .mov")
         return
     mb = ruta.stat().st_size / 1e6
     if mb >= MAX_ARCHIVO_MB_GITHUB:
         errores.append(f"{rel}: pesa {mb:.0f} MB y GitHub no acepta archivos de 100 MB o más; exportalo más liviano")
     elif mb > MAX_ARCHIVO_MB_WEB:
         avisos.append(f"{rel}: pesa {mb:.0f} MB; subilo con GitHub Desktop (la web de GitHub corta en 25 MB)")
-    if mb > MAX_REEL_MB_IG:
+    if historia and mb > MAX_HISTORIA_MB:
+        errores.append(f"{rel}: pesa {mb:.0f} MB (en historias Instagram acepta hasta {MAX_HISTORIA_MB} MB)")
+    elif mb > MAX_REEL_MB_IG:
         errores.append(f"{rel}: pesa {mb:.0f} MB (Instagram acepta hasta 300 MB)")
     try:
         info = info_mp4(ruta)
@@ -226,7 +248,15 @@ def validar_video(rel, errores, avisos):
     else:
         errores.append(f"{rel}: no encontré la pista de video")
     dur = info["duracion"]
-    if dur is not None:
+    if dur is not None and historia:
+        if dur < 3:
+            errores.append(f"{rel}: dura {dur:.1f} s (el mínimo es 3 s)")
+        elif dur > MAX_HISTORIA_SEG:
+            errores.append(f"{rel}: dura {dur:.0f} s (una historia por API dura hasta {MAX_HISTORIA_SEG} s)")
+        if not info.get("moov_primero", True):
+            avisos.append(f"{rel}: el índice del video (moov) está al final; Instagram lo pide al principio. "
+                          "Si falla, re-exportalo con 'inicio rápido' (ffmpeg: -movflags +faststart)")
+    elif dur is not None:
         if dur < 3:
             errores.append(f"{rel}: dura {dur:.1f} s (el mínimo es 3 s)")
         elif dur > 900:
@@ -249,6 +279,37 @@ def _fecha_impresa(pie, fh, errores, avisos):
             avisos.append(f"menciona {d}/{m} y sale el {dia:%d/%m}: ¿está bien?")
 
 
+def _validar_historia(p, archivos, errores, avisos):
+    """Una historia: 1 imagen JPEG 9:16 o 1 video vertical de 3 a 60 s. Sin pie, sin alt, sin stickers."""
+    if len(archivos) != 1:
+        errores.append(f"una historia lleva 1 archivo (imagen o video) y tiene {len(archivos)}")
+    for a in archivos[:1]:
+        ext = Path(str(a)).suffix.lower()
+        if ext in IMAGENES_HISTORIA:
+            validar_imagen(a, "historia", errores, avisos)
+        elif ext in VIDEOS_HISTORIA:
+            validar_video(a, errores, avisos, tipo="historia")
+        else:
+            errores.append(f"{a}: una historia es una imagen JPEG o un video .mp4/.mov "
+                           "(corré preparar.py, que pasa el PNG a JPEG)")
+    if p.get("portada"):
+        avisos.append("las historias no llevan portada: se ignora")
+    alt = p.get("alt")
+    if (isinstance(alt, list) and any(alt)) or (isinstance(alt, str) and alt.strip()):
+        avisos.append("Instagram no tiene texto alternativo en historias: el alt no se manda")
+    if p.get("sticker"):
+        errores.append(f"lleva sticker ({p['sticker']}) y la API no publica stickers: "
+                       "va a mano, o usá una variante __auto sin sticker")
+    if not (p.get("texto") or "").strip():
+        avisos.append("no tengo el texto de la imagen (campo 'texto'): miralo a ojo antes de aprobar "
+                      "(nombres reales, WhatsApp, fechas de grabación)")
+    try:
+        if int(p.get("orden") or 0) < 1:
+            avisos.append("la historia no tiene 'orden' (1, 2, 3…): si hay varias a la misma hora, salen por id")
+    except (TypeError, ValueError):
+        errores.append(f"'orden' tiene que ser un número y es '{p.get('orden')}'")
+
+
 def validar_pieza(p, momento=None, chequear_hora=True):
     """Devuelve (errores, avisos) de una pieza. No usa internet."""
     errores, avisos = [], []
@@ -259,7 +320,7 @@ def validar_pieza(p, momento=None, chequear_hora=True):
             errores.append(f"falta el campo '{campo}'")
     tipo = p.get("tipo")
     if tipo not in TIPOS:
-        errores.append(f"tipo '{tipo}' no vale (carrusel, imagen o reel)")
+        errores.append(f"tipo '{tipo}' no vale (carrusel, imagen, reel o historia)")
     if p.get("estado") not in ESTADOS:
         errores.append(f"estado '{p.get('estado')}' no vale ({', '.join(ESTADOS)})")
 
@@ -308,10 +369,15 @@ def validar_pieza(p, momento=None, chequear_hora=True):
             validar_imagen(p["portada"], "portada", errores, avisos)
         else:
             avisos.append("el reel no tiene portada: Instagram usa el primer cuadro")
+    elif tipo == "historia":
+        _validar_historia(p, archivos, errores, avisos)
 
     # pie
     pie = p.get("pie") or ""
-    if not pie.strip():
+    if tipo == "historia":
+        if pie.strip():
+            errores.append('una historia no lleva pie (la API no lo publica): dejá "pie": ""')
+    elif not pie.strip():
         errores.append("el pie está vacío")
     if len(pie) > MAX_PIE:
         errores.append(f"el pie tiene {len(pie)} caracteres (máximo {MAX_PIE})")
@@ -320,8 +386,13 @@ def validar_pieza(p, momento=None, chequear_hora=True):
         errores.append(f"el pie tiene {n_tags} hashtags (máximo {MAX_HASHTAGS})")
     if len(menciones(pie)) > MAX_MENCIONES:
         errores.append(f"el pie tiene más de {MAX_MENCIONES} menciones")
+    texto_img = (p.get("texto") or "") if tipo == "historia" else ""
     if fh:
         _fecha_impresa(pie, fh, errores, avisos)
+        if texto_img:
+            err_txt = []
+            _fecha_impresa(texto_img, fh, err_txt, avisos)
+            errores.extend(e.replace("el pie dice", "la imagen dice") for e in err_txt)
         alt_lista = p.get("alt") if isinstance(p.get("alt"), list) else [p.get("alt") or ""]
         alt_txt = " | ".join(a or "" for a in alt_lista)
         err_alt = []
@@ -344,7 +415,7 @@ def validar_pieza(p, momento=None, chequear_hora=True):
             errores.append(f"el texto alternativo {i} tiene {len(a)} caracteres (máximo {MAX_ALT})")
 
     # reglas de la marca
-    texto = pie + "\n" + "\n".join(a or "" for a in alts)
+    texto = pie + "\n" + "\n".join(a or "" for a in alts) + "\n" + texto_img
     if nombre_privado(texto):
         errores.append("prohibido: nombra a la casa o a alguien del equipo (lista privada)")
     for patron, motivo in PROHIBIDO:
@@ -371,14 +442,82 @@ def validar_cola(piezas, momento):
     if [str(p.get("id")) for p in piezas] != [str(p.get("id")) for p in sorted(piezas, key=clave_orden)]:
         errores.append("cola.json no está ordenada por hora (corré: python verificar.py --ordenar)")
     activas = sorted([p for p in piezas if p.get("estado") in ("borrador", "aprobado")], key=clave_orden)
-    for a, b in zip(activas, activas[1:]):
+    feed = [p for p in activas if p.get("tipo") != "historia"]
+    for a, b in zip(feed, feed[1:]):
         try:
             gap = (leer_fecha(b["fecha_hora"]) - leer_fecha(a["fecha_hora"])).total_seconds() / 60
             if gap < 120:
                 avisos.append(f"'{a['id']}' y '{b['id']}' salen con {int(gap)} min de diferencia")
         except Exception:
             pass
+
+    # historias que anuncian un posteo ("Nuevo en el perfil"): salen solo si salió el posteo
+    for p in activas:
+        dep = p.get("depende_de")
+        if not dep:
+            continue
+        d = buscar(piezas, dep)
+        if d is None:
+            errores.append(f"'{p['id']}' depende de '{dep}', que no está en la cola")
+            continue
+        try:
+            if leer_fecha(d["fecha_hora"]) > leer_fecha(p["fecha_hora"]):
+                errores.append(f"'{p['id']}' sale antes que '{dep}', el posteo que anuncia")
+        except Exception:
+            pass
+        if p.get("estado") == "aprobado" and d.get("estado") not in ("aprobado", "publicado"):
+            avisos.append(f"'{p['id']}' está aprobada pero '{dep}' está en {d.get('estado')}: "
+                          "la historia no sale hasta que salga el posteo")
+
+    # tope de publicaciones por API en 24 h corridas (feed + historias)
+    avisos.extend(pasadas_de_tope(piezas))
     return errores, avisos
+
+
+def pasadas_de_tope(piezas, limite=None):
+    """Días en que la cola (aprobadas, borradores y publicadas) pasa el tope de 24 h corridas."""
+    limite = limite or LIMITE_24H
+    horas = []
+    for p in piezas:
+        if p.get("estado") not in ("borrador", "aprobado", "publicado"):
+            continue
+        try:
+            r = p.get("resultado") or {}
+            cuando = r.get("publicado_en") if p.get("estado") == "publicado" and r.get("publicado_en") else p["fecha_hora"]
+            horas.append(leer_fecha(cuando))
+        except Exception:
+            continue
+    horas.sort()
+    peor_por_dia = {}
+    j = 0
+    for i, h in enumerate(horas):
+        while (h - horas[j]).total_seconds() >= 86400:
+            j += 1
+        n = i - j + 1
+        if n > peor_por_dia.get(h.date(), (0, None))[0]:
+            peor_por_dia[h.date()] = (n, h)
+    salida = []
+    for dia, (n, h) in sorted(peor_por_dia.items()):
+        if n > limite:
+            salida.append(f"el {DIAS_CORTOS[dia.weekday()]} {dia:%d/%m} se juntan {n} publicaciones en 24 h "
+                          f"(feed + historias) y el tope es {limite}: las que pasen el tope esperan y, si se "
+                          f"atrasan más de {MAX_ATRASO_MIN} min, no salen. Sacá o mové historias de ese día")
+    return salida
+
+
+def por_dia(piezas):
+    """{fecha: (feed, historias)} de las piezas activas o publicadas."""
+    cuenta = {}
+    for p in piezas:
+        if p.get("estado") not in ("borrador", "aprobado", "publicado"):
+            continue
+        try:
+            dia = leer_fecha(p["fecha_hora"]).date()
+        except Exception:
+            continue
+        f, h = cuenta.get(dia, (0, 0))
+        cuenta[dia] = (f, h + 1) if p.get("tipo") == "historia" else (f + 1, h)
+    return cuenta
 
 
 # ---------------------------------------------------------------- salida
@@ -461,6 +600,11 @@ def main():
             print(f"Si GitHub corriera ahora{simulado}, no publicaría nada. La próxima aprobada: {prox[0]['id']} ({fmt(prox[0]['fecha_hora'])}).")
         else:
             print("No hay nada aprobado: no se va a publicar nada.")
+
+    dias = {d: v for d, v in por_dia(piezas).items() if d >= momento.date()}
+    if dias:
+        print(f"\nPor día, feed + historias (tope de la API: {LIMITE_24H} en 24 h): " + " · ".join(
+            f"{DIAS_CORTOS[d.weekday()]} {d:%d/%m} {f}+{h}" for d, (f, h) in sorted(dias.items())))
 
     if args.resumen:
         return 0

@@ -1,7 +1,8 @@
 """Pasa piezas de "borrador" (o "error") a "aprobado". Solo lo aprobado se publica.
 
 Uso:
-  python aprobar.py 2026-10-14             la pieza de ese día (o la que tenga ese id)
+  python aprobar.py 2026-10-14             las piezas de ese día, feed e historias (o la que tenga ese id,
+                                           ej. 2026-10-21_h2 para una historia sola)
   python aprobar.py semana                 las de esta semana, de hoy al domingo
   python aprobar.py semana 2026-10-19      las de la semana de ese día (lunes a domingo)
   python aprobar.py todo                   todos los borradores con hora futura
@@ -17,7 +18,7 @@ import argparse
 import sys
 from datetime import timedelta
 
-from comun import (ahora, cargar_cola, clave_orden, fmt, guardar_cola, leer_fecha, ordenar,
+from comun import (ahora, buscar, cargar_cola, clave_orden, fmt, guardar_cola, leer_fecha, ordenar,
                    preparar_consola)
 
 
@@ -95,6 +96,12 @@ def main():
         print(f"  {etiqueta}: APROBADA. Sale {fmt(p['fecha_hora'])}.")
         for a in av:
             print(f"      aviso  {a}")
+        dep = p.get("depende_de")
+        if dep:
+            d = buscar(piezas, dep)
+            if d is None or d.get("estado") not in ("aprobado", "publicado"):
+                print(f"      aviso  anuncia '{dep}', que {'no está en la cola' if d is None else 'está en ' + str(d.get('estado'))}: "
+                      "esta historia sale solo cuando salga ese posteo")
 
     if cambios:
         ordenar(piezas)

@@ -31,6 +31,10 @@ jobs:
       TZ: America/Argentina/Buenos_Aires
       SOLO_PROBAR: ${{ github.event_name == 'workflow_dispatch' && inputs.solo_probar && '1' || '0' }}
     steps:
+      - name: Marcar hasta cuándo puede seguir esta corrida
+        # publicar.py --seguir no espera más allá de esto (deja 13 min para publicar y guardar la cola)
+        run: echo "JOB_LIMITE=$(( $(date +%s) + 345 * 60 ))" >> "$GITHUB_ENV"
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
@@ -70,7 +74,9 @@ jobs:
           if [ "$SOLO_PROBAR" = "1" ]; then
             python publicar.py --solo-probar
           else
-            python publicar.py
+            # --seguir 90: si después de publicar hay algo aprobado dentro de 90 min (historias de las 20:35,
+            # 20:40…), espera y lo publica en esta misma corrida.
+            python publicar.py --seguir 90
           fi
 
       - name: Guardar cola.json en el repo
