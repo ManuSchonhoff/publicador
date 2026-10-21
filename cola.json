@@ -105,38 +105,6 @@
     "origen": "2026-10-07/carga/2026-10-16"
   },
   {
-    "id": "2026-10-20",
-    "fecha_hora": "2026-10-20T08:30:00-03:00",
-    "tipo": "carrusel",
-    "archivos": [
-      "media/2026-10-20/p01.jpg",
-      "media/2026-10-20/p02.jpg",
-      "media/2026-10-20/p03.jpg",
-      "media/2026-10-20/p04.jpg",
-      "media/2026-10-20/p05.jpg",
-      "media/2026-10-20/p06.jpg",
-      "media/2026-10-20/p07.jpg"
-    ],
-    "pie": "El cliente se llevó los dólares y los pesos llegan mañana. Hoy tu planilla anota una pérdida que no existe.\n\nEn la caja no está ni una cosa ni la otra. Si mirás solo la caja, el día te da en rojo aunque la operación dejó plata.\n\nEsos pesos son plata a cobrar: entran en lo que te deben, y la caja de pesos se mueve recién cuando llegan.\n\nEn las placas, una venta de 1.000 dólares a 1.560 con la referencia en 1.550. Datos de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para la próxima reunión de socios.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
-    "alt": [
-      "Carrusel sobre por qué la planilla anota como pérdida una venta de dólares que el cliente paga al día siguiente, con un ejemplo.",
-      "Vendiste 1.000 dólares a 1.560. Los dólares los entregaste hoy y el cliente te paga 1.560.000 pesos mañana. Hoy salen: 1.000 USD. Mañana entran: 1.560.000 ARS. Datos de ejemplo.",
-      "En la caja no está ni una cosa ni la otra. Si mirás solo la caja, el día te da 1.000 dólares abajo. Lo que dice la planilla: −US$ 1.000. Datos de ejemplo.",
-      "Esos pesos son plata a cobrar. Lo pendiente de cada operación entra en lo que te deben. A la referencia de 1.550, los 1.560.000 pesos valen US$ 1.006,45. Datos de ejemplo.",
-      "En el patrimonio, la operación queda así: Caja: −US$ 1.000,00. Te deben: +US$ 1.006,45. Patrimonio, contra la referencia de 1.550: +US$ 6,45. La operación dejó plata. La planilla decía que perdiste mil. Datos de ejemplo.",
-      "En la app, lo que falta cobrar queda en Pendientes con su vencimiento. La caja de pesos se mueve recién cuando entra la plata. Captura de TrackeAR Pro, pantalla Pendientes: Venta de divisa (cobra ARS), Parcial, total $ 1.560.000,00, Vence el 21/10/2026, #325, Diego Aranda, +$ 1.560.000,00. Datos de ejemplo.",
-      "La cuenta bien hecha, en una línea: lo pendiente cuenta como a cobrar o a pagar. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Guardalo para la próxima reunión de socios."
-    ],
-    "estado": "error",
-    "resultado": {
-      "error": "Instagram respondió 400: The Instagram account is restricted. (código 25/2207050)",
-      "cuando": "2026-10-20T08:30:26-03:00"
-    },
-    "portada": null,
-    "intentos": 1,
-    "origen": "2026-10-07/carga/2026-10-20"
-  },
-  {
     "id": "2026-10-17_reel",
     "fecha_hora": "2026-10-21T13:13:00-03:00",
     "tipo": "reel",
@@ -158,6 +126,35 @@
     "contenedor": "17907577764665550"
   },
   {
+    "id": "2026-10-21_pendientes",
+    "fecha_hora": "2026-10-21T17:00:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-21_pendientes/p01.jpg",
+      "media/2026-10-21_pendientes/p02.jpg",
+      "media/2026-10-21_pendientes/p03.jpg",
+      "media/2026-10-21_pendientes/p04.jpg",
+      "media/2026-10-21_pendientes/p05.jpg",
+      "media/2026-10-21_pendientes/p06.jpg",
+      "media/2026-10-21_pendientes/p07.jpg"
+    ],
+    "pie": "El cliente se llevó los dólares y los pesos llegan mañana. Hoy tu planilla anota una pérdida que no existe.\n\nEn la caja no está ni una cosa ni la otra. Si mirás solo la caja, el día te da en rojo aunque la operación dejó plata.\n\nEsos pesos son plata a cobrar: entran en lo que te deben, y la caja de pesos se mueve recién cuando llegan.\n\nEn las placas, una venta de 1.000 dólares a 1.560 con la referencia en 1.550. Datos de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para la próxima reunión de socios.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel sobre por qué la planilla anota como pérdida una venta de dólares que el cliente paga al día siguiente, con un ejemplo.",
+      "Vendiste 1.000 dólares a 1.560. Los dólares los entregaste hoy y el cliente te paga 1.560.000 pesos mañana. Hoy salen: 1.000 USD. Mañana entran: 1.560.000 ARS. Datos de ejemplo.",
+      "En la caja no está ni una cosa ni la otra. Si mirás solo la caja, el día te da 1.000 dólares abajo. Lo que dice la planilla: −US$ 1.000. Datos de ejemplo.",
+      "Esos pesos son plata a cobrar. Lo pendiente de cada operación entra en lo que te deben. A la referencia de 1.550, los 1.560.000 pesos valen US$ 1.006,45. Datos de ejemplo.",
+      "En el patrimonio, la operación queda así: Caja: −US$ 1.000,00. Te deben: +US$ 1.006,45. Patrimonio, contra la referencia de 1.550: +US$ 6,45. La operación dejó plata. La planilla decía que perdiste mil. Datos de ejemplo.",
+      "En la app, lo que falta cobrar queda en Pendientes con su vencimiento. La caja de pesos se mueve recién cuando entra la plata. Captura de TrackeAR Pro, pantalla Pendientes: Venta de divisa (cobra ARS), Parcial, total $ 1.560.000,00, Vence el 21/10/2026, #325, Diego Aranda, +$ 1.560.000,00. Datos de ejemplo.",
+      "La cuenta bien hecha, en una línea: lo pendiente cuenta como a cobrar o a pagar. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Guardalo para la próxima reunión de socios."
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-21_pendientes"
+  },
+  {
     "id": "2026-10-18_reel",
     "fecha_hora": "2026-10-21T20:30:00-03:00",
     "tipo": "reel",
@@ -173,17 +170,17 @@
     "resultado": {}
   },
   {
-    "id": "2026-10-27",
-    "fecha_hora": "2026-10-27T20:30:00-03:00",
+    "id": "2026-10-22_1540",
+    "fecha_hora": "2026-10-22T08:30:00-03:00",
     "tipo": "carrusel",
     "archivos": [
-      "media/2026-10-27/p01.jpg",
-      "media/2026-10-27/p02.jpg",
-      "media/2026-10-27/p03.jpg",
-      "media/2026-10-27/p04.jpg",
-      "media/2026-10-27/p05.jpg",
-      "media/2026-10-27/p06.jpg",
-      "media/2026-10-27/p07.jpg"
+      "media/2026-10-22_1540/p01.jpg",
+      "media/2026-10-22_1540/p02.jpg",
+      "media/2026-10-22_1540/p03.jpg",
+      "media/2026-10-22_1540/p04.jpg",
+      "media/2026-10-22_1540/p05.jpg",
+      "media/2026-10-22_1540/p06.jpg",
+      "media/2026-10-22_1540/p07.jpg"
     ],
     "pie": "Comprar a 1.540 y vender a 1.560 no te dice cuánto ganaste hoy.\n\nEsos 20 pesos por dólar son ganancia solo si comprás y vendés el mismo monto en el mismo momento. En el mostrador eso no pasa: comprás 3.150, vendés 1.870, te quedan 1.280 dólares y la cotización sigue moviéndose.\n\nPor eso el margen promedio engaña. La ganancia del día sale de comparar tu patrimonio en dólares contra una foto fija de las 00:00, con lo que te deben y lo que debés adentro.\n\nEn las placas, la misma cuenta con números de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
     "alt": [
@@ -195,10 +192,201 @@
       "Y la cotización se mueve todo el día. Si cambia la referencia, cambia el valor en dólares de todos tus pesos, también el de los que no tocaste hoy. Por eso la ganancia se mide con el patrimonio entero. Ganancia = patrimonio ahora − foto de las 00:00 − aportes + retiros.",
       "La cuenta bien hecha, en una línea: la ganancia del día sale de comparar tu patrimonio contra la foto de las 00:00. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Comentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app."
     ],
-    "estado": "borrador",
+    "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/carga/2026-10-27"
+    "origen": "2026-10-07/feed-extra/2026-10-22_1540"
+  },
+  {
+    "id": "2026-10-22_video5",
+    "fecha_hora": "2026-10-22T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-22_video5/reel.mp4"
+    ],
+    "pie": "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, no cuánto había ganado.\n\nEsa cuenta, todo a dólares contra la foto de las 00:00, la hace TrackeAR Pro. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nLas pantallas tienen datos de ejemplo.\n\nSeguinos: los martes, una cuenta bien hecha.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": "Animación: a la noche llegan mensajes del equipo y nadie sabe cuánto ganó la financiera; la tarjeta de TrackeAR Pro muestra el patrimonio y la ganancia del día en dólares. Datos de ejemplo.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-22_video5/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-22_video5"
+  },
+  {
+    "id": "2026-10-22_lo-que-no-hace",
+    "fecha_hora": "2026-10-22T20:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-22_lo-que-no-hace/p01.jpg",
+      "media/2026-10-22_lo-que-no-hace/p02.jpg",
+      "media/2026-10-22_lo-que-no-hace/p03.jpg",
+      "media/2026-10-22_lo-que-no-hace/p04.jpg",
+      "media/2026-10-22_lo-que-no-hace/p05.jpg",
+      "media/2026-10-22_lo-que-no-hace/p06.jpg"
+    ],
+    "pie": "Antes de probar TrackeAR Pro, esto es lo que no hace.\n\nNo factura. Tampoco es un sistema contable ni tiene plan de cuentas.\nNo está en las tiendas de apps: se agrega a la pantalla de inicio desde el navegador y se usa como una app.\nNo se conecta a los bancos ni lee los extractos automáticamente.\nNo se conecta a Binance por API: la conciliación es con un archivo CSV.\nY no compra ni vende divisas: es un sistema de gestión.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": "Carrusel de TrackeAR Pro con lo que el sistema no hace antes de probarlo: no factura, no está en las tiendas de apps, no se conecta a los bancos ni a Binance por API, y no compra ni vende divisas.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-22_lo-que-no-hace"
+  },
+  {
+    "id": "2026-10-23_retiros",
+    "fecha_hora": "2026-10-23T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-10-23_retiros/p01.jpg",
+      "media/2026-10-23_retiros/p02.jpg",
+      "media/2026-10-23_retiros/p03.jpg",
+      "media/2026-10-23_retiros/p04.jpg",
+      "media/2026-10-23_retiros/p05.jpg",
+      "media/2026-10-23_retiros/p06.jpg",
+      "media/2026-10-23_retiros/p07.jpg"
+    ],
+    "pie": "Si la ganancia está inflada, los socios se llevan capital de trabajo. Se nota el día que falta plata para operar.\n\nCon el número de la ganancia se decide cuánto retira cada socio. Y la planilla lo infla con dos cosas que no son ganancia: lo que puso un socio y lo que cobraste y todavía tenés que entregar.\n\nLa ganancia del mes sale del patrimonio contra la foto del 1° a las 00:00, sin contar aportes ni retiros y con lo que debés adentro.\n\nEn las placas, un mes de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para la próxima reunión de socios.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
+    "alt": "Carrusel sobre cómo una ganancia inflada en la planilla hace que los socios retiren capital de trabajo, con un mes de ejemplo. Datos de ejemplo.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-10-23_retiros"
+  },
+  {
+    "id": "2026-10-23_video4",
+    "fecha_hora": "2026-10-23T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-23_video4/reel.mp4"
+    ],
+    "pie": "El cheque vencía el viernes y nadie lo tenía anotado.\n\nEn TrackeAR Pro el aviso del vencimiento te llega por email y el cheque no suma al disponible hasta acreditarse.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
+    "alt": "Animación: ocho problemas de todos los días en una casa de cambio o financiera, como no saber cuánto se ganó o cheques que vencen sin aviso, y cómo los resuelve TrackeAR Pro. Termina en la pantalla Hoy con la ganancia del día en dólares.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-23_video4/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-23_video4"
+  },
+  {
+    "id": "2026-10-24_video6",
+    "fecha_hora": "2026-10-24T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-24_video6/reel.mp4"
+    ],
+    "pie": "El resumen del día te llega solo, por email: patrimonio, ganancia del día en dólares y lo que hay que revisar.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #cierredecaja #trackearpro",
+    "alt": "Animación: a las 19:59 todavía hay que sumar las cajas; a las 20:00 llega por email el resumen del día de TrackeAR Pro con el patrimonio y la ganancia en dólares. Datos de ejemplo.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-24_video6/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-24_video6"
+  },
+  {
+    "id": "2026-10-25_app3",
+    "fecha_hora": "2026-10-25T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-25_app3/reel.mp4"
+    ],
+    "pie": "En el video, la ganancia de hoy da +US$ 767,56 contra la foto de las 00:00, sin contar lo que pusieron los socios.\n\nTrackeAR Pro la calcula sola, en dólares, sin esperar a fin de mes.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": "Video de la app TrackeAR Pro con datos de ejemplo: la pantalla Hoy con el patrimonio neto y la ganancia del día en dólares, la ganancia sin los aportes de los socios y una compra que carga el cajero.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-25_app3/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-25_app3"
+  },
+  {
+    "id": "2026-10-26_video1",
+    "fecha_hora": "2026-10-26T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-26_video1/reel.mp4"
+    ],
+    "pie": "El patrimonio subió US$ 6.842,48 desde las 00:00, pero un socio puso US$ 5.000. La ganancia del día es US$ 1.842,48.\n\nTrackeAR Pro hace esa cuenta solo, en dólares y todo el día.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio antes del próximo retiro.\n\n#casasdecambio #controldecaja #financieras #trackearpro",
+    "alt": "Animación sin voz: una planilla con cientos de filas en varias monedas y la pregunta \"¿Cuánto ganó hoy tu casa de cambio?\". Después, la cuenta de TrackeAR Pro: el patrimonio subió US$ 6.842,48 desde las 00:00, los socios aportaron US$ 5.000 y la ganancia de hoy es US$ 1.842,48. Cierra con \"Sabé cuánto ganás.\"",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-26_video1/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-26_video1"
+  },
+  {
+    "id": "2026-10-27_app1",
+    "fecha_hora": "2026-10-27T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-27_app1/reel.mp4"
+    ],
+    "pie": "Un cliente te vende 1.000 dólares a 1.545. Ponés el monto y los $1.545.000 se calculan solos.\n\nEjecutás todo o una parte, y la caja se mueve solo con lo que entró de verdad.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casadecambio #pymesargentinas #financieras #trackearpro",
+    "alt": "Grabación de pantalla de TrackeAR Pro con datos de ejemplo. Se carga una compra de 1.000 dólares y los pesos se calculan solos. Después se elige el cliente, se ejecuta con las cajas, se carga un pasamanos, se registra una entrega parcial y se edita una operación. Al final, la misma app en el celular.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-27_app1/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-27_app1"
+  },
+  {
+    "id": "2026-10-28_video2",
+    "fecha_hora": "2026-10-28T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-28_video2/reel.mp4"
+    ],
+    "pie": "Caja (2).xlsx, Caja definitiva.xlsx, Caja NUEVA.xlsx. ¿Cuál es la buena?\n\nEn TrackeAR Pro cargás la compra una sola vez y se mueven las cajas y la ficha del cliente.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nHoy cierra octubre. Mandáselo a tus socios antes de la reunión.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": "Animación: decenas de planillas de Excel con nombres como Caja definitiva y NO TOCAR; en TrackeAR Pro una compra se carga una vez y mueve las cajas y la ficha del cliente. Datos de ejemplo.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-28_video2/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-28_video2"
+  },
+  {
+    "id": "2026-10-29_app2",
+    "fecha_hora": "2026-10-29T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-29_app2/reel.mp4"
+    ],
+    "pie": "Contar la caja a media tarde no tendría que frenar el mostrador.\n\nContás por billete, el faltante queda registrado y la caja sigue operando. El cierre del día sale listo para imprimir.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #controldecaja #arqueodecaja #trackearpro",
+    "alt": "Video de la app TrackeAR Pro con datos de ejemplo: cajas por moneda, un arqueo de dólares con un faltante de US$ 20 que queda registrado, el cierre del día en PDF, cuentas corrientes, préstamos, cheques, referidos y los avisos de Requiere atención.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-29_app2/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-29_app2"
+  },
+  {
+    "id": "2026-10-30_video3",
+    "fecha_hora": "2026-10-30T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-30_video3/reel.mp4"
+    ],
+    "pie": "Sin historial, un error y un fraude se ven igual.\n\nEn TrackeAR Pro cada operación queda con nombre y hora, y el faltante de US$ 20 queda registrado.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #controldecaja #arqueodecaja #trackearpro",
+    "alt": "Animación: varias personas tocan la misma caja de dólares. En TrackeAR Pro cada operación queda con nombre y hora, el arqueo muestra un faltante de US$ 20 que queda registrado y el día se cierra con las cajas contadas. Datos de ejemplo.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-30_video3/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-30_video3"
+  },
+  {
+    "id": "2026-10-31_video7",
+    "fecha_hora": "2026-10-31T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-31_video7/reel.mp4"
+    ],
+    "pie": "Con un \"más o menos 2.000\" después hay que decidir cuánto retira cada socio.\n\nEn TrackeAR Pro la ganancia del día sale en dólares, contra la foto de las 00:00, y es el mismo número para todos los socios.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": "Animación: a la pregunta \"¿Cuánto ganaste hoy?\" aparecen respuestas como \"más o menos 2.000\" y \"habría que ver la planilla\"; TrackeAR Pro muestra la ganancia del día en dólares, US$ 1.842,48, sin los aportes de los socios. Datos de ejemplo.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-31_video7/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-31_video7"
   }
 ]
