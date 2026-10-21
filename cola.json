@@ -163,7 +163,7 @@
     ],
     "pie": "Un movimiento de caja registrado no lo puede borrar nadie. Tampoco vos.\n\nEn la planilla, un saldo que “se corrigió” no deja registro de quién fue ni cuándo.\n\nEn TrackeAR Pro cada alta, cambio y baja queda con quién la hizo, cuándo y el valor anterior. Si hay un error, se anula y queda a la vista. Los meses cerrados no cambian.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #trackearpro",
     "alt": "Animación de TrackeAR Pro sobre el historial de caja de una casa de cambio o financiera: en la planilla alguien pisa una celda y el valor anterior se pierde; en la app, cada cambio queda con nombre, hora y valor anterior, un error se anula y queda a la vista, y un mes cerrado no se toca. Datos de ejemplo.",
-    "estado": "aprobado",
+    "estado": "borrador",
     "resultado": null,
     "portada": "media/2026-10-18_reel/portada.jpg",
     "intentos": 0,
@@ -192,7 +192,7 @@
       "Y la cotización se mueve todo el día. Si cambia la referencia, cambia el valor en dólares de todos tus pesos, también el de los que no tocaste hoy. Por eso la ganancia se mide con el patrimonio entero. Ganancia = patrimonio ahora − foto de las 00:00 − aportes + retiros.",
       "La cuenta bien hecha, en una línea: la ganancia del día sale de comparar tu patrimonio contra la foto de las 00:00. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Comentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app."
     ],
-    "estado": "aprobado",
+    "estado": "borrador",
     "resultado": null,
     "portada": null,
     "intentos": 0,
