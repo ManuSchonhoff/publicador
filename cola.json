@@ -155,6 +155,24 @@
     "origen": "2026-10-07/feed-extra/2026-10-21_pendientes"
   },
   {
+    "id": "2026-10-21_h1",
+    "fecha_hora": "2026-10-21T17:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-21_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-21_pendientes"
+  },
+  {
     "id": "2026-10-18_reel",
     "fecha_hora": "2026-10-21T20:30:00-03:00",
     "tipo": "reel",
@@ -168,6 +186,24 @@
     "intentos": 0,
     "origen": "2026-10-07/reels/extra/2026-10-18_reel",
     "resultado": {}
+  },
+  {
+    "id": "2026-10-21_h2",
+    "fecha_hora": "2026-10-21T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-21_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-10-18_reel"
   },
   {
     "id": "2026-10-22_1540",
@@ -199,19 +235,73 @@
     "origen": "2026-10-07/feed-extra/2026-10-22_1540"
   },
   {
+    "id": "2026-10-22_h1",
+    "fecha_hora": "2026-10-22T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-22_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-22_1540"
+  },
+  {
+    "id": "2026-10-22_h4",
+    "fecha_hora": "2026-10-22T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-22_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/historias/png",
+    "orden": 4,
+    "texto": "Los 7 días corren desde que creás la cuenta.\nCreala el día que tengas un rato y tus saldos a mano.\nEl link está en el perfil.\nProbalo 7 días gratis: tocá @trackearpro, arriba.",
+    "fuente": "2026-10-07/disenos/historias/oferta_h4__auto.html"
+  },
+  {
     "id": "2026-10-22_video5",
     "fecha_hora": "2026-10-22T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-22_video5/reel.mp4"
     ],
-    "pie": "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, no cuánto había ganado.\n\nEsa cuenta, todo a dólares contra la foto de las 00:00, la hace TrackeAR Pro. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nLas pantallas tienen datos de ejemplo.\n\nSeguinos: los martes, una cuenta bien hecha.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "pie": "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, no cuánto había ganado.\n\nEsa cuenta, todo a dólares contra la foto de las 00:00, la hace TrackeAR Pro. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nLas pantallas tienen datos de ejemplo.\n\nSeguinos para ver la próxima cuenta bien hecha.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
     "alt": "Animación: a la noche llegan mensajes del equipo y nadie sabe cuánto ganó la financiera; la tarjeta de TrackeAR Pro muestra el patrimonio y la ganancia del día en dólares. Datos de ejemplo.",
     "estado": "aprobado",
     "resultado": null,
     "portada": "media/2026-10-22_video5/portada.jpg",
     "intentos": 0,
     "origen": "2026-10-07/reels/extra/2026-10-22_video5"
+  },
+  {
+    "id": "2026-10-22_h2",
+    "fecha_hora": "2026-10-22T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-22_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-10-22_video5"
   },
   {
     "id": "2026-10-22_lo-que-no-hace",
@@ -232,6 +322,24 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-10-22_lo-que-no-hace"
+  },
+  {
+    "id": "2026-10-22_h3",
+    "fecha_hora": "2026-10-22T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-22_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 3,
+    "texto": "",
+    "depende_de": "2026-10-22_lo-que-no-hace"
   },
   {
     "id": "2026-10-23_retiros",
@@ -255,6 +363,42 @@
     "origen": "2026-10-07/feed-extra/2026-10-23_retiros"
   },
   {
+    "id": "2026-10-23_h1",
+    "fecha_hora": "2026-10-23T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-23_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-23_retiros"
+  },
+  {
+    "id": "2026-10-23_h3",
+    "fecha_hora": "2026-10-23T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-23_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 3,
+    "texto": "Preguntas\n¿Qué pasa si se corta internet?\nEl cajero sigue cargando operaciones y clientes nuevos. Se suben solos cuando vuelve la conexión, en orden y sin duplicados. Sin internet no se puede anular, editar ni mover plata entre cajas.",
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_02.html"
+  },
+  {
     "id": "2026-10-23_video4",
     "fecha_hora": "2026-10-23T13:00:00-03:00",
     "tipo": "reel",
@@ -270,23 +414,44 @@
     "origen": "2026-10-07/reels/extra/2026-10-23_video4"
   },
   {
-    "id": "2026-10-24_video6",
-    "fecha_hora": "2026-10-24T13:00:00-03:00",
-    "tipo": "reel",
+    "id": "2026-10-23_h2",
+    "fecha_hora": "2026-10-23T13:10:00-03:00",
+    "tipo": "historia",
     "archivos": [
-      "media/2026-10-24_video6/reel.mp4"
+      "media/2026-10-23_h2/historia.jpg"
     ],
-    "pie": "El resumen del día te llega solo, por email: patrimonio, ganancia del día en dólares y lo que hay que revisar.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #cierredecaja #trackearpro",
-    "alt": "Animación: a las 19:59 todavía hay que sumar las cajas; a las 20:00 llega por email el resumen del día de TrackeAR Pro con el patrimonio y la ganancia en dólares. Datos de ejemplo.",
+    "pie": "",
+    "alt": "",
     "estado": "aprobado",
     "resultado": null,
-    "portada": "media/2026-10-24_video6/portada.jpg",
+    "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-24_video6"
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-10-23_video4"
+  },
+  {
+    "id": "2026-10-24_h2",
+    "fecha_hora": "2026-10-24T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-24_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/historias/png",
+    "orden": 2,
+    "texto": "+2.000\npruebas automáticas corren en cada cambio del sistema.\nNo hace falta creernos. Se puede comprobar.\nEl link está en el perfil.\nVer cómo: tocá @trackearpro, arriba.",
+    "fuente": "2026-10-07/disenos/historias/2026-10-19_h2_2000-pruebas__auto.html"
   },
   {
     "id": "2026-10-25_app3",
-    "fecha_hora": "2026-10-25T13:00:00-03:00",
+    "fecha_hora": "2026-10-24T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-25_app3/reel.mp4"
@@ -300,8 +465,44 @@
     "origen": "2026-10-07/reels/extra/2026-10-25_app3"
   },
   {
+    "id": "2026-10-24_h1",
+    "fecha_hora": "2026-10-24T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-24_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-25_app3"
+  },
+  {
+    "id": "2026-10-25_h2",
+    "fecha_hora": "2026-10-25T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-25_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 2,
+    "texto": "Seguridad\nCada alta, cambio y baja queda con quién la hizo, cuándo y el valor anterior. Nadie la puede editar ni borrar, tampoco el dueño.",
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_03.html"
+  },
+  {
     "id": "2026-10-26_video1",
-    "fecha_hora": "2026-10-26T13:00:00-03:00",
+    "fecha_hora": "2026-10-25T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-26_video1/reel.mp4"
@@ -315,8 +516,44 @@
     "origen": "2026-10-07/reels/extra/2026-10-26_video1"
   },
   {
+    "id": "2026-10-25_h1",
+    "fecha_hora": "2026-10-25T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-25_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-26_video1"
+  },
+  {
+    "id": "2026-10-26_h2",
+    "fecha_hora": "2026-10-26T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-26_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 2,
+    "texto": "Preguntas\n¿Tengo que cargar todo a mano?\nNo. Hay plantillas en Excel para clientes, saldos de cajas, cuentas corrientes y operaciones. Antes de importar ves cada fila, y las que tienen errores no entran.",
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_03.html"
+  },
+  {
     "id": "2026-10-27_app1",
-    "fecha_hora": "2026-10-27T13:00:00-03:00",
+    "fecha_hora": "2026-10-26T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-27_app1/reel.mp4"
@@ -330,13 +567,49 @@
     "origen": "2026-10-07/reels/extra/2026-10-27_app1"
   },
   {
+    "id": "2026-10-26_h1",
+    "fecha_hora": "2026-10-26T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-26_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-27_app1"
+  },
+  {
+    "id": "2026-10-27_h2",
+    "fecha_hora": "2026-10-27T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-27_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 2,
+    "texto": "Pesos, dólares, cripto, cheques y préstamos en un solo lugar. En el celular y en la computadora, con los mismos datos.",
+    "fuente": "2026-10-07/disenos/destacadas/que-es_03.html"
+  },
+  {
     "id": "2026-10-28_video2",
-    "fecha_hora": "2026-10-28T13:00:00-03:00",
+    "fecha_hora": "2026-10-27T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-28_video2/reel.mp4"
     ],
-    "pie": "Caja (2).xlsx, Caja definitiva.xlsx, Caja NUEVA.xlsx. ¿Cuál es la buena?\n\nEn TrackeAR Pro cargás la compra una sola vez y se mueven las cajas y la ficha del cliente.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nHoy cierra octubre. Mandáselo a tus socios antes de la reunión.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "pie": "Caja (2).xlsx, Caja definitiva.xlsx, Caja NUEVA.xlsx. ¿Cuál es la buena?\n\nEn TrackeAR Pro cargás la compra una sola vez y se mueven las cajas y la ficha del cliente.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tus socios antes de la reunión.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
     "alt": "Animación: decenas de planillas de Excel con nombres como Caja definitiva y NO TOCAR; en TrackeAR Pro una compra se carga una vez y mueve las cajas y la ficha del cliente. Datos de ejemplo.",
     "estado": "aprobado",
     "resultado": null,
@@ -345,8 +618,44 @@
     "origen": "2026-10-07/reels/extra/2026-10-28_video2"
   },
   {
+    "id": "2026-10-27_h1",
+    "fecha_hora": "2026-10-27T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-27_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-28_video2"
+  },
+  {
+    "id": "2026-10-28_h2",
+    "fecha_hora": "2026-10-28T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-28_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 2,
+    "texto": "Preguntas\n¿Puedo seguir con mi planilla?\nSí. Las operaciones se exportan en el mismo formato de planilla, que se vuelve a importar. Si querés, seguís con la planilla en paralelo.",
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_04.html"
+  },
+  {
     "id": "2026-10-29_app2",
-    "fecha_hora": "2026-10-29T13:00:00-03:00",
+    "fecha_hora": "2026-10-28T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-29_app2/reel.mp4"
@@ -360,8 +669,44 @@
     "origen": "2026-10-07/reels/extra/2026-10-29_app2"
   },
   {
+    "id": "2026-10-28_h1",
+    "fecha_hora": "2026-10-28T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-28_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-29_app2"
+  },
+  {
+    "id": "2026-10-29_h2",
+    "fecha_hora": "2026-10-29T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-29_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 2,
+    "texto": "Seguridad\nArriba del monto que elijas, anular o editar una operación necesita tu aprobación.",
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_05.html"
+  },
+  {
     "id": "2026-10-30_video3",
-    "fecha_hora": "2026-10-30T13:00:00-03:00",
+    "fecha_hora": "2026-10-29T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-30_video3/reel.mp4"
@@ -375,8 +720,44 @@
     "origen": "2026-10-07/reels/extra/2026-10-30_video3"
   },
   {
+    "id": "2026-10-29_h1",
+    "fecha_hora": "2026-10-29T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-29_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-30_video3"
+  },
+  {
+    "id": "2026-10-30_h2",
+    "fecha_hora": "2026-10-30T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-30_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 2,
+    "texto": "Preguntas\n¿Qué no hace?\nNo hace factura electrónica, no está en las tiendas de apps (se agrega a la pantalla de inicio desde el navegador), no se conecta con bancos ni lee extractos, y Binance se concilia con un archivo CSV.",
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_06.html"
+  },
+  {
     "id": "2026-10-31_video7",
-    "fecha_hora": "2026-10-31T13:00:00-03:00",
+    "fecha_hora": "2026-10-30T13:00:00-03:00",
     "tipo": "reel",
     "archivos": [
       "media/2026-10-31_video7/reel.mp4"
@@ -388,5 +769,74 @@
     "portada": "media/2026-10-31_video7/portada.jpg",
     "intentos": 0,
     "origen": "2026-10-07/reels/extra/2026-10-31_video7"
+  },
+  {
+    "id": "2026-10-30_h1",
+    "fecha_hora": "2026-10-30T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-30_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-31_video7"
+  },
+  {
+    "id": "2026-10-31_h2",
+    "fecha_hora": "2026-10-31T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-31_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 2,
+    "texto": "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, pero no cuánto había ganado en el día.",
+    "fuente": "2026-10-07/disenos/destacadas/que-es_04.html"
+  },
+  {
+    "id": "2026-10-24_video6",
+    "fecha_hora": "2026-10-31T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-24_video6/reel.mp4"
+    ],
+    "pie": "El resumen del día te llega solo, por email: patrimonio, ganancia del día en dólares y lo que hay que revisar.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #cierredecaja #trackearpro",
+    "alt": "Animación: a las 19:59 todavía hay que sumar las cajas; a las 20:00 llega por email el resumen del día de TrackeAR Pro con el patrimonio y la ganancia en dólares. Datos de ejemplo.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-24_video6/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-24_video6"
+  },
+  {
+    "id": "2026-10-31_h1",
+    "fecha_hora": "2026-10-31T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-31_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-24_video6"
   }
 ]
