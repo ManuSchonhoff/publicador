@@ -5,3 +5,5 @@
 2026-10-20 08:30 · 2026-10-20 · carrusel · ERROR · Instagram respondió 400: The Instagram account is restricted. (código 25/2207050)
 2026-10-21 12:40 · 2026-10-17_reel · reel · ERROR · Instagram respondió 400: The Instagram account is restricted. (código 25/2207050)
 2026-10-21 13:14 · 2026-10-17_reel · reel · PUBLICADA · https://www.instagram.com/reel/Dewz6Q1kx8f/ · publicada por el publicador
+2026-10-21 17:00 · 2026-10-21_pendientes · carrusel · PUBLICADA · https://www.instagram.com/p/DexN5dLlPBh/ · publicada por el publicador
+2026-10-21 17:10 · 2026-10-21_h1 · historia · PUBLICADA · https://www.instagram.com/stories/trackearpro/4013054698462656886 · publicada por el publicador

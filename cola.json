@@ -148,11 +148,17 @@
       "En la app, lo que falta cobrar queda en Pendientes con su vencimiento. La caja de pesos se mueve recién cuando entra la plata. Captura de TrackeAR Pro, pantalla Pendientes: Venta de divisa (cobra ARS), Parcial, total $ 1.560.000,00, Vence el 21/10/2026, #325, Diego Aranda, +$ 1.560.000,00. Datos de ejemplo.",
       "La cuenta bien hecha, en una línea: lo pendiente cuenta como a cobrar o a pagar. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Guardalo para la próxima reunión de socios."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18129699259851790",
+      "permalink": "https://www.instagram.com/p/DexN5dLlPBh/",
+      "publicado_en": "2026-10-21T17:00:56-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-21_pendientes"
+    "origen": "2026-10-07/feed-extra/2026-10-21_pendientes",
+    "contenedor": "17907612648665550"
   },
   {
     "id": "2026-10-21_h1",
@@ -163,14 +169,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18143790226717795",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4013054698462656886",
+      "publicado_en": "2026-10-21T17:10:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-21_pendientes"
+    "depende_de": "2026-10-21_pendientes",
+    "contenedor": "17907613605665550"
   },
   {
     "id": "2026-10-18_reel",
