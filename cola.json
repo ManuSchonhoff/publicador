@@ -252,11 +252,17 @@
       "Y la cotización se mueve todo el día. Si cambia la referencia, cambia el valor en dólares de todos tus pesos, también el de los que no tocaste hoy. Por eso la ganancia se mide con el patrimonio entero. Ganancia = patrimonio ahora − foto de las 00:00 − aportes + retiros.",
       "La cuenta bien hecha, en una línea: la ganancia del día sale de comparar tu patrimonio contra la foto de las 00:00. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. Comentá GANANCIA y te mostramos cómo se ve tu ganancia del día en la app."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18081273524342473",
+      "permalink": "https://www.instagram.com/p/Dey4WXXkUoG/",
+      "publicado_en": "2026-10-22T08:31:11-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-22_1540"
+    "origen": "2026-10-07/feed-extra/2026-10-22_1540",
+    "contenedor": "17907725511665550"
   },
   {
     "id": "2026-10-22_h1",
@@ -267,14 +273,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18140952403626582",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4013522783241883000",
+      "publicado_en": "2026-10-22T08:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-22_1540"
+    "depende_de": "2026-10-22_1540",
+    "contenedor": "17907726990665550"
   },
   {
     "id": "2026-10-22_h4",
@@ -285,14 +297,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18050750753810099",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4013563046018512313",
+      "publicado_en": "2026-10-22T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/historias/png",
     "orden": 4,
     "texto": "Los 7 días corren desde que creás la cuenta.\nCreala el día que tengas un rato y tus saldos a mano.\nEl link está en el perfil.\nProbalo 7 días gratis: tocá @trackearpro, arriba.",
-    "fuente": "2026-10-07/disenos/historias/oferta_h4__auto.html"
+    "fuente": "2026-10-07/disenos/historias/oferta_h4__auto.html",
+    "contenedor": "17907738522665550"
   },
   {
     "id": "2026-10-22_video5",
