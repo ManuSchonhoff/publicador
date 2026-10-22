@@ -371,11 +371,17 @@
     ],
     "pie": "El cheque vencía el viernes y nadie lo tenía anotado.\n\nEn TrackeAR Pro el aviso del vencimiento te llega por email y el cheque no suma al disponible hasta acreditarse.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
     "alt": "Animación: ocho problemas de todos los días en una casa de cambio o financiera, como no saber cuánto se ganó o cheques que vencen sin aviso, y cómo los resuelve TrackeAR Pro. Termina en la pantalla Hoy con la ganancia del día en dólares.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17988674757073129",
+      "permalink": "https://www.instagram.com/reel/De0KsadDcc_/",
+      "publicado_en": "2026-10-22T20:31:20-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-23_video4/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-23_video4"
+    "origen": "2026-10-07/reels/extra/2026-10-23_video4",
+    "contenedor": "17907829986665550"
   },
   {
     "id": "2026-10-23_h2",
@@ -386,14 +392,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18108521222354712",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4013885171619604509",
+      "publicado_en": "2026-10-22T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-10-23_video4"
+    "depende_de": "2026-10-23_video4",
+    "contenedor": "17907831222665550"
   },
   {
     "id": "2026-10-23_que-es",
