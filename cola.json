@@ -326,11 +326,17 @@
     ],
     "pie": "Antes de probar TrackeAR Pro, esto es lo que no hace.\n\nNo factura. Tampoco es un sistema contable ni tiene plan de cuentas.\nNo está en las tiendas de apps: se agrega a la pantalla de inicio desde el navegador y se usa como una app.\nNo se conecta a los bancos ni lee los extractos automáticamente.\nNo se conecta a Binance por API: la conciliación es con un archivo CSV.\nY no compra ni vende divisas: es un sistema de gestión.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
     "alt": "Carrusel de TrackeAR Pro con lo que el sistema no hace antes de probarlo: no factura, no está en las tiendas de apps, no se conecta a los bancos ni a Binance por API, y no compra ni vende divisas.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18101796668374366",
+      "permalink": "https://www.instagram.com/p/DezXORlFD_p/",
+      "publicado_en": "2026-10-22T13:00:54-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-22_lo-que-no-hace"
+    "origen": "2026-10-07/feed-extra/2026-10-22_lo-que-no-hace",
+    "contenedor": "17907773553665550"
   },
   {
     "id": "2026-10-22_h3",
@@ -341,14 +347,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17954869683038556",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4013658680562344569",
+      "publicado_en": "2026-10-22T13:10:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-22_lo-que-no-hace"
+    "depende_de": "2026-10-22_lo-que-no-hace",
+    "contenedor": "17907774645665550"
   },
   {
     "id": "2026-10-23_video4",
