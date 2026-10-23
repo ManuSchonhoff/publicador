@@ -505,11 +505,17 @@
     ],
     "pie": "Si la ganancia está inflada, los socios se llevan capital de trabajo. Se nota el día que falta plata para operar.\n\nCon el número de la ganancia se decide cuánto retira cada socio. Y la planilla lo infla con dos cosas que no son ganancia: lo que puso un socio y lo que cobraste y todavía tenés que entregar.\n\nLa ganancia del mes sale del patrimonio contra la foto del 1° a las 00:00, sin contar aportes ni retiros y con lo que debés adentro.\n\nEn las placas, un mes de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nGuardalo para la próxima reunión de socios.\n\n#casadecambio #pymesargentinas #cierredecaja #trackearpro",
     "alt": "Carrusel sobre cómo una ganancia inflada en la planilla hace que los socios retiren capital de trabajo, con un mes de ejemplo. Datos de ejemplo.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17866983951674215",
+      "permalink": "https://www.instagram.com/p/De18CO4mt-H/",
+      "publicado_en": "2026-10-23T13:01:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-23_retiros"
+    "origen": "2026-10-07/feed-extra/2026-10-23_retiros",
+    "contenedor": "17907970923665550"
   },
   {
     "id": "2026-10-23_h1",
@@ -520,14 +526,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18043624022832796",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4014383457485480908",
+      "publicado_en": "2026-10-23T13:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-23_retiros"
+    "depende_de": "2026-10-23_retiros",
+    "contenedor": "17907972774665550"
   },
   {
     "id": "2026-10-22_video5",
