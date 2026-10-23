@@ -550,11 +550,17 @@
     ],
     "pie": "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, no cuánto había ganado.\n\nEsa cuenta, todo a dólares contra la foto de las 00:00, la hace TrackeAR Pro. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nLas pantallas tienen datos de ejemplo.\n\nSeguinos para ver la próxima cuenta bien hecha.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
     "alt": "Animación: a la noche llegan mensajes del equipo y nadie sabe cuánto ganó la financiera; la tarjeta de TrackeAR Pro muestra el patrimonio y la ganancia del día en dólares. Datos de ejemplo.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17940543243384863",
+      "permalink": "https://www.instagram.com/reel/De2vfvzjC-c/",
+      "publicado_en": "2026-10-23T20:31:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-22_video5/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-22_video5"
+    "origen": "2026-10-07/reels/extra/2026-10-22_video5",
+    "contenedor": "17908030092665550"
   },
   {
     "id": "2026-10-22_h2",
@@ -565,14 +571,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18077021429754636",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4014609948692720127",
+      "publicado_en": "2026-10-23T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-10-22_video5"
+    "depende_de": "2026-10-22_video5",
+    "contenedor": "17908031190665550"
   },
   {
     "id": "2026-10-24_cheques-en-cartera",
