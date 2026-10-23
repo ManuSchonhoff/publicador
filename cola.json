@@ -430,11 +430,17 @@
       "TrackeAR Pro es solo el sistema. Por esta cuenta no se compran ni venden divisas ni se pasan cotizaciones.",
       "Probalo 7 días con tu operatoria. Te acompañamos en la puesta en marcha. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17964121455238458",
+      "permalink": "https://www.instagram.com/p/De1dIbolYLP/",
+      "publicado_en": "2026-10-23T08:31:01-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-23_que-es"
+    "origen": "2026-10-07/feed-extra/2026-10-23_que-es",
+    "contenedor": "17907924612665550"
   },
   {
     "id": "2026-10-23_h4",
@@ -445,14 +451,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18114759479026080",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4014247587049964240",
+      "publicado_en": "2026-10-23T08:40:34-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-23_que-es"
+    "depende_de": "2026-10-23_que-es",
+    "contenedor": "17907926718665550"
   },
   {
     "id": "2026-10-23_h3",
@@ -463,14 +475,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18439010407183730",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4014287822437843237",
+      "publicado_en": "2026-10-23T10:00:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 3,
     "texto": "Preguntas\n¿Qué pasa si se corta internet?\nEl cajero sigue cargando operaciones y clientes nuevos. Se suben solos cuando vuelve la conexión, en orden y sin duplicados. Sin internet no se puede anular, editar ni mover plata entre cajas.",
-    "fuente": "2026-10-07/disenos/destacadas/preguntas_02.html"
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_02.html",
+    "contenedor": "17907939294665550"
   },
   {
     "id": "2026-10-23_retiros",
