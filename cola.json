@@ -694,11 +694,17 @@
       "6 de 6. El cierre lo sabe hacer una sola persona. Si el que arma la planilla falta, no hay cierre.",
       "Antes de dar el número del día: 1. Cheques, afuera de la caja hasta que se acreditan. 2. Pendientes, como a cobrar o a pagar. 3. Aportes y retiros, afuera de la ganancia. 4. Todas las cajas, con la misma referencia. 5. Correcciones con nombre y hora, sin pisar la celda. 6. Un cierre que no dependa de una persona. Guardalo para el cierre. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17954259273266971",
+      "permalink": "https://www.instagram.com/p/De4g1fKlcTx/",
+      "publicado_en": "2026-10-24T13:01:08-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-24_errores-del-cierre"
+    "origen": "2026-10-07/feed-extra/2026-10-24_errores-del-cierre",
+    "contenedor": "17908187346665550"
   },
   {
     "id": "2026-10-24_h4",
@@ -709,14 +715,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17955206241036859",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4015108228761648975",
+      "publicado_en": "2026-10-24T13:10:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-24_errores-del-cierre"
+    "depende_de": "2026-10-24_errores-del-cierre",
+    "contenedor": "17908189197665550"
   },
   {
     "id": "2026-10-25_app3",
