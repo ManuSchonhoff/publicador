@@ -739,11 +739,17 @@
     ],
     "pie": "En el video, la ganancia de hoy da +US$ 767,56 contra la foto de las 00:00, sin contar lo que pusieron los socios.\n\nTrackeAR Pro la calcula sola, en dólares, sin esperar a fin de mes.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
     "alt": "Video de la app TrackeAR Pro con datos de ejemplo: la pantalla Hoy con el patrimonio neto y la ganancia del día en dólares, la ganancia sin los aportes de los socios y una compra que carga el cajero.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18119392744778279",
+      "permalink": "https://www.instagram.com/reel/De5USo9lP28/",
+      "publicado_en": "2026-10-24T20:31:21-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-25_app3/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-25_app3"
+    "origen": "2026-10-07/reels/extra/2026-10-25_app3",
+    "contenedor": "17908257219665550"
   },
   {
     "id": "2026-10-24_h1",
@@ -754,14 +760,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17987596194084230",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4015334722914087301",
+      "publicado_en": "2026-10-24T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-25_app3"
+    "depende_de": "2026-10-25_app3",
+    "contenedor": "17908258926665550"
   },
   {
     "id": "2026-10-25_seguridad",
