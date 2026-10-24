@@ -611,11 +611,17 @@
       "Dos tarjetas unidas por una flecha: cheque rechazado $ 2.184.700 y Tomás Ibarra te debe $ 2.184.700. Si te lo rechazan, se convierte solo en deuda del cliente y no lo tenés que pasar a mano a su cuenta. Datos de ejemplo.",
       "Cierre: La cuenta bien hecha, en una línea: el cheque suma al disponible recién cuando se acredita. Mandáselo al que maneja los cheques. @trackearpro."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18104037854630374",
+      "permalink": "https://www.instagram.com/p/De4B91dIJLO/",
+      "publicado_en": "2026-10-24T08:31:22-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-24_cheques-en-cartera"
+    "origen": "2026-10-07/feed-extra/2026-10-24_cheques-en-cartera",
+    "contenedor": "17908136109665550"
   },
   {
     "id": "2026-10-24_h3",
@@ -626,14 +632,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18435690970148265",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4014972337011809859",
+      "publicado_en": "2026-10-24T08:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-24_cheques-en-cartera"
+    "depende_de": "2026-10-24_cheques-en-cartera",
+    "contenedor": "17908137393665550"
   },
   {
     "id": "2026-10-24_h2",
@@ -644,14 +656,18 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The media with 17,908,151,058,665,550 cannot be found. (código 24/2207006)",
+      "cuando": "2026-10-24T10:00:25-03:00"
+    },
     "portada": null,
-    "intentos": 0,
+    "intentos": 1,
     "origen": "2026-10-07/disenos/historias/png",
     "orden": 2,
     "texto": "+2.000\npruebas automáticas corren en cada cambio del sistema.\nNo hace falta creernos. Se puede comprobar.\nEl link está en el perfil.\nVer cómo: tocá @trackearpro, arriba.",
-    "fuente": "2026-10-07/disenos/historias/2026-10-19_h2_2000-pruebas__auto.html"
+    "fuente": "2026-10-07/disenos/historias/2026-10-19_h2_2000-pruebas__auto.html",
+    "contenedor": "17908151058665550"
   },
   {
     "id": "2026-10-24_errores-del-cierre",
