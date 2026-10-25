@@ -887,11 +887,17 @@
       "Paso 3 · Traés tu planilla. Antes de importar ves cada fila. Las que tienen errores no entran. Vista previa de la plantilla de saldos de cajas: fila 2, Dólares efectivo, US$ 41.270,00, entra; fila 3, Pesos banco, $ 12.846.300, entra; fila 4, con error, no entra. Datos de ejemplo.",
       "Si preferís, te acompañamos en la puesta en marcha. Entendemos tu operatoria. Configuramos con vos. Capacitamos al equipo. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18152687113547485",
+      "permalink": "https://www.instagram.com/p/De7KVZSGNDl/",
+      "publicado_en": "2026-10-25T13:42:13-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-25_como-se-arranca-la-prueba"
+    "origen": "2026-10-07/feed-extra/2026-10-25_como-se-arranca-la-prueba",
+    "contenedor": "17908434882665550"
   },
   {
     "id": "2026-10-25_h3",
@@ -902,14 +908,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18636851728003269",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4015849052906765304",
+      "publicado_en": "2026-10-25T13:42:24-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-25_como-se-arranca-la-prueba"
+    "depende_de": "2026-10-25_como-se-arranca-la-prueba",
+    "contenedor": "17908434921665550"
   },
   {
     "id": "2026-10-31_video7",
