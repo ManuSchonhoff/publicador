@@ -932,11 +932,17 @@
     ],
     "pie": "Con un \"más o menos 2.000\" después hay que decidir cuánto retira cada socio.\n\nEn TrackeAR Pro la ganancia del día sale en dólares, contra la foto de las 00:00, y es el mismo número para todos los socios.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
     "alt": "Animación: a la pregunta \"¿Cuánto ganaste hoy?\" aparecen respuestas como \"más o menos 2.000\" y \"habría que ver la planilla\"; TrackeAR Pro muestra la ganancia del día en dólares, US$ 1.842,48, sin los aportes de los socios. Datos de ejemplo.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17886298584689303",
+      "permalink": "https://www.instagram.com/reel/De75FdzkZCB/",
+      "publicado_en": "2026-10-25T20:31:05-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-31_video7/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-31_video7"
+    "origen": "2026-10-07/reels/extra/2026-10-31_video7",
+    "contenedor": "17908501884665550"
   },
   {
     "id": "2026-10-30_h1",
@@ -947,14 +953,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18135585847735300",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4016059501505391255",
+      "publicado_en": "2026-10-25T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-31_video7"
+    "depende_de": "2026-10-31_video7",
+    "contenedor": "17908503411665550"
   },
   {
     "id": "2026-10-26_cajas-y-monedas",
