@@ -847,14 +847,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17955128268036273",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4015737432805053601",
+      "publicado_en": "2026-10-25T10:00:38-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 2,
     "texto": "Seguridad\nCada alta, cambio y baja queda con quién la hizo, cuándo y el valor anterior. Nadie la puede editar ni borrar, tampoco el dueño.",
-    "fuente": "2026-10-07/disenos/destacadas/seguridad_03.html"
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_03.html",
+    "contenedor": "17908385214665550"
   },
   {
     "id": "2026-10-25_como-se-arranca-la-prueba",
