@@ -802,11 +802,17 @@
       "7 de 7. Más de 2.000. Más de 2.000 pruebas automáticas corren en cada cambio del sistema. Entre ellas, las que verifican que otra financiera no pueda leer ni tocar nada tuyo.",
       "Lo que decimos de seguridad está armado en la base de datos y se prueba solo cada vez que cambia el sistema. Mandáselo a tu socio. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18093896861191753",
+      "permalink": "https://www.instagram.com/p/De6mvdSFF16/",
+      "publicado_en": "2026-10-25T08:31:13-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-25_seguridad"
+    "origen": "2026-10-07/feed-extra/2026-10-25_seguridad",
+    "contenedor": "17908371138665550"
   },
   {
     "id": "2026-10-25_h4",
@@ -817,14 +823,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18343082743259103",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4015697110024590349",
+      "publicado_en": "2026-10-25T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-25_seguridad"
+    "depende_de": "2026-10-25_seguridad",
+    "contenedor": "17908372821665550"
   },
   {
     "id": "2026-10-25_h2",
