@@ -1074,11 +1074,17 @@
       "Ícono de un candado. Los resultados, mes por mes. Cada mes cerrado queda guardado y no cambia después.",
       "Socios, en tres renglones: 1. Un solo patrimonio neto, a la misma referencia. 2. Aportes y retiros, aparte de la ganancia. 3. Cada mes cerrado, guardado como quedó. Mandáselo a tus socios antes de la reunión. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18038805704846220",
+      "permalink": "https://www.instagram.com/p/De9rYwLID9W/",
+      "publicado_en": "2026-10-26T13:09:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-26_socios-un-solo-numero"
+    "origen": "2026-10-07/feed-extra/2026-10-26_socios-un-solo-numero",
+    "contenedor": "17908695168665550"
   },
   {
     "id": "2026-10-26_h3",
@@ -1089,14 +1095,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18444823216135367",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4016557779671097668",
+      "publicado_en": "2026-10-26T13:10:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-26_socios-un-solo-numero"
+    "depende_de": "2026-10-26_socios-un-solo-numero",
+    "contenedor": "17908695480665550"
   },
   {
     "id": "2026-10-26_video1",
