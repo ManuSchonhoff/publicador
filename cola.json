@@ -993,11 +993,17 @@
       "Y cada caja con su mínimo. Tarjeta de la caja Efectivo en dólares con US$ 41.270,00 y el mínimo que elegiste, US$ 35.000,00. Si baja de ahí, te avisa. Cada transferencia entre cajas queda registrada con su motivo. Datos de ejemplo.",
       "La cuenta bien hecha, en una línea: patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. Todas las cajas a dólares, con la misma referencia para todos. Comentá GANANCIA y te mostramos la app. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18142450951714948",
+      "permalink": "https://www.instagram.com/p/De9LiBzG73L/",
+      "publicado_en": "2026-10-26T08:31:09-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-26_cajas-y-monedas"
+    "origen": "2026-10-07/feed-extra/2026-10-26_cajas-y-monedas",
+    "contenedor": "17908632804665550"
   },
   {
     "id": "2026-10-26_h4",
@@ -1008,14 +1014,18 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The media is not ready for publishing, please wait for a moment (código 9007/2207027)",
+      "cuando": "2026-10-26T08:40:24-03:00"
+    },
     "portada": null,
-    "intentos": 0,
+    "intentos": 1,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-26_cajas-y-monedas"
+    "depende_de": "2026-10-26_cajas-y-monedas",
+    "contenedor": "17908634769665550"
   },
   {
     "id": "2026-10-26_h2",
@@ -1026,14 +1036,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18218589202352535",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4016462153549324617",
+      "publicado_en": "2026-10-26T10:00:26-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 2,
     "texto": "Preguntas\n¿Tengo que cargar todo a mano?\nNo. Hay plantillas en Excel para clientes, saldos de cajas, cuentas corrientes y operaciones. Antes de importar ves cada fila, y las que tienen errores no entran.",
-    "fuente": "2026-10-07/disenos/destacadas/preguntas_03.html"
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_03.html",
+    "contenedor": "17908650186665550"
   },
   {
     "id": "2026-10-26_socios-un-solo-numero",
