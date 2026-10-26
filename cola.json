@@ -1119,11 +1119,17 @@
     ],
     "pie": "El patrimonio subió US$ 6.842,48 desde las 00:00, pero un socio puso US$ 5.000. La ganancia del día es US$ 1.842,48.\n\nTrackeAR Pro hace esa cuenta solo, en dólares y todo el día.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio antes del próximo retiro.\n\n#casasdecambio #controldecaja #financieras #trackearpro",
     "alt": "Animación sin voz: una planilla con cientos de filas en varias monedas y la pregunta \"¿Cuánto ganó hoy tu casa de cambio?\". Después, la cuenta de TrackeAR Pro: el patrimonio subió US$ 6.842,48 desde las 00:00, los socios aportaron US$ 5.000 y la ganancia de hoy es US$ 1.842,48. Cierra con \"Sabé cuánto ganás.\"",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18288498187295902",
+      "permalink": "https://www.instagram.com/reel/De-d6YcDnS-/",
+      "publicado_en": "2026-10-26T20:31:19-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-26_video1/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-26_video1"
+    "origen": "2026-10-07/reels/extra/2026-10-26_video1",
+    "contenedor": "17908762161665550"
   },
   {
     "id": "2026-10-25_h1",
@@ -1134,14 +1140,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18437745409177616",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4016784276029485327",
+      "publicado_en": "2026-10-26T20:40:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-26_video1"
+    "depende_de": "2026-10-26_video1",
+    "contenedor": "17908764033665550"
   },
   {
     "id": "2026-10-28_celular-perdido",
