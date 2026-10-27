@@ -1245,11 +1245,17 @@
     ],
     "pie": "Un cliente te vende 1.000 dólares a 1.545. Ponés el monto y los $1.545.000 se calculan solos.\n\nEjecutás todo o una parte, y la caja se mueve solo con lo que entró de verdad.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casadecambio #pymesargentinas #financieras #trackearpro",
     "alt": "Grabación de pantalla de TrackeAR Pro con datos de ejemplo. Se carga una compra de 1.000 dólares y los pesos se calculan solos. Después se elige el cliente, se ejecuta con las cajas, se carga un pasamanos, se registra una entrega parcial y se edita una operación. Al final, la misma app en el celular.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18046951895827582",
+      "permalink": "https://www.instagram.com/reel/DfAPLZFDajp/",
+      "publicado_en": "2026-10-27T13:01:24-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-27_app1/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-27_app1"
+    "origen": "2026-10-07/reels/extra/2026-10-27_app1",
+    "contenedor": "17908943631665550"
   },
   {
     "id": "2026-10-26_h1",
@@ -1260,14 +1266,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18064363853627118",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4017282557540976092",
+      "publicado_en": "2026-10-27T13:10:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-27_app1"
+    "depende_de": "2026-10-27_app1",
+    "contenedor": "17908945911665550"
   },
   {
     "id": "2026-10-29_la-cuenta",
