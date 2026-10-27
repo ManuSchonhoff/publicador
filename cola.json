@@ -1176,11 +1176,17 @@
       "\"Para que no dependa de que alguien se acuerde de salir: la sesión del mostrador se cierra sola después del tiempo que elijas.\"",
       "Resumen en tres renglones: cerrás sus sesiones desde el tuyo, revisás el registro de accesos y lo cargado sigue con nombre y hora. Cierra con \"Mandáselo a tu socio.\" y @trackearpro."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18103923116533634",
+      "permalink": "https://www.instagram.com/p/De_wUJSlq9h/",
+      "publicado_en": "2026-10-27T08:31:03-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-28_celular-perdido"
+    "origen": "2026-10-07/feed-extra/2026-10-28_celular-perdido",
+    "contenedor": "17908879824665550"
   },
   {
     "id": "2026-10-28_h4",
@@ -1191,14 +1197,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18142517092712627",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4017146659415193704",
+      "publicado_en": "2026-10-27T08:40:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-28_celular-perdido"
+    "depende_de": "2026-10-28_celular-perdido",
+    "contenedor": "17908881825665550"
   },
   {
     "id": "2026-10-27_h2",
@@ -1209,14 +1221,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17881408050547596",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4017186926402907750",
+      "publicado_en": "2026-10-27T10:00:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 2,
     "texto": "Pesos, dólares, cripto, cheques y préstamos en un solo lugar. En el celular y en la computadora, con los mismos datos.",
-    "fuente": "2026-10-07/disenos/destacadas/que-es_03.html"
+    "fuente": "2026-10-07/disenos/destacadas/que-es_03.html",
+    "contenedor": "17908906998665550"
   },
   {
     "id": "2026-10-27_app1",
