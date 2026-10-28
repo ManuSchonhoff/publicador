@@ -1363,11 +1363,17 @@
       "Ícono de una impresora. Texto: Al final del día, todas las cajas en una pantalla y una sola firma. El cierre diario sale con los arqueos y lo de cada operador, en PDF, listo para imprimir.",
       "Cierre: Arqueo, en tres renglones. 1 se cuenta por billete o por total, sin frenar la caja. 2 el faltante queda con firma y hora. 3 el cierre sale con los arqueos, listo para imprimir. Guardalo para el cierre. @trackearpro."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18632583556012925",
+      "permalink": "https://www.instagram.com/p/DfCVG9SkeWM/",
+      "publicado_en": "2026-10-28T08:31:03-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-27_arqueo-con-faltante"
+    "origen": "2026-10-07/feed-extra/2026-10-27_arqueo-con-faltante",
+    "contenedor": "17909119365665550"
   },
   {
     "id": "2026-10-27_h3",
@@ -1378,14 +1384,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18115985576125265",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4017871436907640765",
+      "publicado_en": "2026-10-28T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-27_arqueo-con-faltante"
+    "depende_de": "2026-10-27_arqueo-con-faltante",
+    "contenedor": "17909120931665550"
   },
   {
     "id": "2026-10-28_h2",
@@ -1396,14 +1408,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18343558723279020",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4017911702142148465",
+      "publicado_en": "2026-10-28T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 2,
     "texto": "Preguntas\n¿Puedo seguir con mi planilla?\nSí. Las operaciones se exportan en el mismo formato de planilla, que se vuelve a importar. Si querés, seguís con la planilla en paralelo.",
-    "fuente": "2026-10-07/disenos/destacadas/preguntas_04.html"
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_04.html",
+    "contenedor": "17909135040665550"
   },
   {
     "id": "2026-10-30_aprobacion-por-monto",
