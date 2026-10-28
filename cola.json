@@ -1446,11 +1446,17 @@
       "En letras grandes, \"Confiás sin estar encima.\" Debajo: \"Cada uno opera con su rol y todo queda con su nombre.\"",
       "Resumen en tres renglones: arriba del monto que elijas, anular o editar pide tu aprobación; lo que se sale de lo normal, en “Requiere atención”; cada uno con su rol, y todo con su nombre. Cierra con \"Mandáselo al encargado.\" y @trackearpro."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17956817193267163",
+      "permalink": "https://www.instagram.com/p/DfC51LzCbS6/",
+      "publicado_en": "2026-10-28T13:51:55-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-30_aprobacion-por-monto"
+    "origen": "2026-10-07/feed-extra/2026-10-30_aprobacion-por-monto",
+    "contenedor": "17909190018665550"
   },
   {
     "id": "2026-10-30_h4",
@@ -1461,14 +1467,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18424413481158824",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4018028263208768694",
+      "publicado_en": "2026-10-28T13:52:08-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-30_aprobacion-por-monto"
+    "depende_de": "2026-10-30_aprobacion-por-monto",
+    "contenedor": "17909190084665550"
   },
   {
     "id": "2026-10-28_video2",
