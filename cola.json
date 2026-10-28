@@ -1491,11 +1491,17 @@
     ],
     "pie": "Caja (2).xlsx, Caja definitiva.xlsx, Caja NUEVA.xlsx. ¿Cuál es la buena?\n\nEn TrackeAR Pro cargás la compra una sola vez y se mueven las cajas y la ficha del cliente.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tus socios antes de la reunión.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
     "alt": "Animación: decenas de planillas de Excel con nombres como Caja definitiva y NO TOCAR; en TrackeAR Pro una compra se carga una vez y mueve las cajas y la ficha del cliente. Datos de ejemplo.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18072324527596931",
+      "permalink": "https://www.instagram.com/reel/DfDndyrjLnX/",
+      "publicado_en": "2026-10-28T20:31:05-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-28_video2/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-28_video2"
+    "origen": "2026-10-07/reels/extra/2026-10-28_video2",
+    "contenedor": "17909242506665550"
   },
   {
     "id": "2026-10-27_h1",
@@ -1506,14 +1512,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17908662453583719",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4018233823968397347",
+      "publicado_en": "2026-10-28T20:40:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-28_video2"
+    "depende_de": "2026-10-28_video2",
+    "contenedor": "17909245785665550"
   },
   {
     "id": "2026-10-31_antes-y-despues-de-la-planilla",
