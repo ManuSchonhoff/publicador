@@ -1617,8 +1617,11 @@
     ],
     "pie": "Contar la caja a media tarde no tendría que frenar el mostrador.\n\nContás por billete, el faltante queda registrado y la caja sigue operando. El cierre del día sale listo para imprimir.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #controldecaja #arqueodecaja #trackearpro",
     "alt": "Video de la app TrackeAR Pro con datos de ejemplo: cajas por moneda, un arqueo de dólares con un faltante de US$ 20 que queda registrado, el cierre del día en PDF, cuentas corrientes, préstamos, cheques, referidos y los avisos de Requiere atención.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: pasaron 450 min de la hora prevista (el máximo es 180).",
+      "cuando": "2026-10-29T20:30:25-03:00"
+    },
     "portada": "media/2026-10-29_app2/portada.jpg",
     "intentos": 0,
     "origen": "2026-10-07/reels/extra/2026-10-29_app2"
@@ -1632,8 +1635,11 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: pasaron 440 min de la hora prevista (el máximo es 180).",
+      "cuando": "2026-10-29T20:30:25-03:00"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
@@ -1666,11 +1672,17 @@
       "Pregunta: ¿Cuánto tarda en verse lo que carga un cajero? Respuesta: Aparece en la lista de operaciones en uno o dos segundos, en el celular y en la computadora.",
       "Si tu pregunta es otra, contanos qué operás. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17972292345176509",
+      "permalink": "https://www.instagram.com/p/DfGMUhGn-1r/",
+      "publicado_en": "2026-10-29T20:31:11-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-31_sirve-para-mi-financiera"
+    "origen": "2026-10-07/feed-extra/2026-10-31_sirve-para-mi-financiera",
+    "contenedor": "17909498256665550"
   },
   {
     "id": "2026-10-31_h4",
@@ -1681,14 +1693,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18127158328858380",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4018958599883935731",
+      "publicado_en": "2026-10-29T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-31_sirve-para-mi-financiera"
+    "depende_de": "2026-10-31_sirve-para-mi-financiera",
+    "contenedor": "17909499579665550"
   },
   {
     "id": "2026-10-27_preguntas",
