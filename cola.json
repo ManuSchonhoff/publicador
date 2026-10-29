@@ -1550,11 +1550,17 @@
       "5. El cierre. Con la planilla: depende de quien la arma. Con TrackeAR Pro: el cierre diario sale solo, listo para imprimir.",
       "De adivinar a saber. Mandáselo a tu socio. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18100919921384184",
+      "permalink": "https://www.instagram.com/p/DfE55v1oGWU/",
+      "publicado_en": "2026-10-29T08:31:01-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-31_antes-y-despues-de-la-planilla"
+    "origen": "2026-10-07/feed-extra/2026-10-31_antes-y-despues-de-la-planilla",
+    "contenedor": "17909364606665550"
   },
   {
     "id": "2026-10-31_h3",
@@ -1565,14 +1571,18 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The media with 17,909,366,697,665,550 cannot be found. (código 24/2207006)",
+      "cuando": "2026-10-29T08:40:23-03:00"
+    },
     "portada": null,
-    "intentos": 0,
+    "intentos": 1,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-31_antes-y-despues-de-la-planilla"
+    "depende_de": "2026-10-31_antes-y-despues-de-la-planilla",
+    "contenedor": "17909366697665550"
   },
   {
     "id": "2026-10-29_h2",
