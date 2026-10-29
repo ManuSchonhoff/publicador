@@ -1593,14 +1593,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18096418451151745",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4018676225732398312",
+      "publicado_en": "2026-10-29T11:19:29-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 2,
     "texto": "Seguridad\nArriba del monto que elijas, anular o editar una operación necesita tu aprobación.",
-    "fuente": "2026-10-07/disenos/destacadas/seguridad_05.html"
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_05.html",
+    "contenedor": "17909410014665550"
   },
   {
     "id": "2026-10-29_app2",
