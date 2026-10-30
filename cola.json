@@ -1737,11 +1737,17 @@
       "¿Qué no hace? No hace factura electrónica, no está en las tiendas de apps (se agrega a la pantalla de inicio desde el navegador), no se conecta con bancos ni lee extractos, y Binance se concilia con un archivo CSV.",
       "¿Por esta cuenta se compran o venden dólares? No. TrackeAR Pro es un software de gestión para financieras y casas de cambio. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18077237471773205",
+      "permalink": "https://www.instagram.com/p/DfHet6xlc7X/",
+      "publicado_en": "2026-10-30T08:31:14-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-27_preguntas"
+    "origen": "2026-10-07/feed-extra/2026-10-27_preguntas",
+    "contenedor": "17909581038665550"
   },
   {
     "id": "2026-10-27_h4",
@@ -1752,14 +1758,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18131865055833411",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4019320986717780245",
+      "publicado_en": "2026-10-30T08:40:38-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-10-27_preguntas"
+    "depende_de": "2026-10-27_preguntas",
+    "contenedor": "17909582523665550"
   },
   {
     "id": "2026-10-30_h2",
@@ -1770,14 +1782,18 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The media with 17,909,596,548,665,550 cannot be found. (código 24/2207006)",
+      "cuando": "2026-10-30T10:00:25-03:00"
+    },
     "portada": null,
-    "intentos": 0,
+    "intentos": 1,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 2,
     "texto": "Preguntas\n¿Qué no hace?\nNo hace factura electrónica, no está en las tiendas de apps (se agrega a la pantalla de inicio desde el navegador), no se conecta con bancos ni lee extractos, y Binance se concilia con un archivo CSV.",
-    "fuente": "2026-10-07/disenos/destacadas/preguntas_06.html"
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_06.html",
+    "contenedor": "17909596548665550"
   },
   {
     "id": "2026-10-28_cuenta-corriente-cobros-parciales",
