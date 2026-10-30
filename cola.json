@@ -1865,11 +1865,17 @@
     ],
     "pie": "Sin historial, un error y un fraude se ven igual.\n\nEn TrackeAR Pro cada operación queda con nombre y hora, y el faltante de US$ 20 queda registrado.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #controldecaja #arqueodecaja #trackearpro",
     "alt": "Animación: varias personas tocan la misma caja de dólares. En TrackeAR Pro cada operación queda con nombre y hora, el arqueo muestra un faltante de US$ 20 que queda registrado y el día se cierra con las cajas contadas. Datos de ejemplo.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18117664733007401",
+      "permalink": "https://www.instagram.com/reel/DfIxD1rkW0c/",
+      "publicado_en": "2026-10-30T20:31:11-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-30_video3/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-30_video3"
+    "origen": "2026-10-07/reels/extra/2026-10-30_video3",
+    "contenedor": "17909694048665550"
   },
   {
     "id": "2026-10-29_h1",
@@ -1880,14 +1886,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18114967763124277",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4019683379037321526",
+      "publicado_en": "2026-10-30T20:40:27-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-30_video3"
+    "depende_de": "2026-10-30_video3",
+    "contenedor": "17909695290665550"
   },
   {
     "id": "2026-10-29_un-prestamo-no-es-perdida",
