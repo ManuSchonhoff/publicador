@@ -1820,11 +1820,17 @@
       "Ícono de una campana y el texto: Un aviso cuando un cliente debe de más. Cada cliente puede tener un límite de cuenta corriente. Si lo pasa, te avisa.",
       "Cierre: Cuentas corrientes, en tres renglones: 1 cada cobro y cada pago, con nombre y hora; 2 lo que falta entregar, a cuenta corriente o como diferencia; 3 un aviso cuando un cliente debe más de lo permitido. Mandáselo al que arma la planilla. @trackearpro."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18196176514392439",
+      "permalink": "https://www.instagram.com/p/DfH_TCMkULQ/",
+      "publicado_en": "2026-10-30T13:15:55-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-28_cuenta-corriente-cobros-parciales"
+    "origen": "2026-10-07/feed-extra/2026-10-28_cuenta-corriente-cobros-parciales",
+    "contenedor": "17909630511665550"
   },
   {
     "id": "2026-10-28_h3",
@@ -1835,14 +1841,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18119168795093509",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4019459692535315224",
+      "publicado_en": "2026-10-30T13:16:06-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-28_cuenta-corriente-cobros-parciales"
+    "depende_de": "2026-10-28_cuenta-corriente-cobros-parciales",
+    "contenedor": "17909630577665550"
   },
   {
     "id": "2026-10-30_video3",
