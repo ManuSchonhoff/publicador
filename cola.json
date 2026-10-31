@@ -1924,11 +1924,17 @@
       "Si lo refinanciás, entra solo el interés que ya corrió. El interés de las cuotas que todavía no corrieron no se suma al préstamo nuevo.",
       "La cuenta bien hecha, en una línea: un préstamo sale de la caja y entra en lo que te deben. Patrimonio neto = cajas en dólares + lo que te deben − lo que debés. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18117941501095298",
+      "permalink": "https://www.instagram.com/p/DfKDgG7FjVQ/",
+      "publicado_en": "2026-10-31T08:31:08-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-29_un-prestamo-no-es-perdida"
+    "origen": "2026-10-07/feed-extra/2026-10-29_un-prestamo-no-es-perdida",
+    "contenedor": "17909827782665550"
   },
   {
     "id": "2026-10-29_h3",
@@ -1939,14 +1945,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18044279270838168",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4020045765628309819",
+      "publicado_en": "2026-10-31T08:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-29_un-prestamo-no-es-perdida"
+    "depende_de": "2026-10-29_un-prestamo-no-es-perdida",
+    "contenedor": "17909829699665550"
   },
   {
     "id": "2026-10-31_h2",
@@ -1957,14 +1969,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18148470811568721",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4020086034000124545",
+      "publicado_en": "2026-10-31T10:00:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 2,
     "texto": "Lo hizo un dueño de financiera para la suya. La planilla le decía cuánta plata había, pero no cuánto había ganado en el día.",
-    "fuente": "2026-10-07/disenos/destacadas/que-es_04.html"
+    "fuente": "2026-10-07/disenos/destacadas/que-es_04.html",
+    "contenedor": "17909846508665550"
   },
   {
     "id": "2026-10-30_comisiones-de-referidos",
