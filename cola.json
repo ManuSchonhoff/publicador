@@ -2052,11 +2052,17 @@
     ],
     "pie": "El resumen del día te llega solo, por email: patrimonio, ganancia del día en dólares y lo que hay que revisar.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nMandáselo a tu socio.\n\n#casasdecambio #controldecaja #financieras #cierredecaja #trackearpro",
     "alt": "Animación: a las 19:59 todavía hay que sumar las cajas; a las 20:00 llega por email el resumen del día de TrackeAR Pro con el patrimonio y la ganancia en dólares. Datos de ejemplo.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18434437159147403",
+      "permalink": "https://www.instagram.com/reel/DfLV2i1Ct6C/",
+      "publicado_en": "2026-10-31T20:31:18-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-24_video6/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-24_video6"
+    "origen": "2026-10-07/reels/extra/2026-10-24_video6",
+    "contenedor": "17909984991665550"
   },
   {
     "id": "2026-10-31_h1",
@@ -2067,13 +2073,19 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18115513097111076",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4020408152647285169",
+      "publicado_en": "2026-10-31T20:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-24_video6"
+    "depende_de": "2026-10-24_video6",
+    "contenedor": "17909986746665550"
   }
 ]
