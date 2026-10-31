@@ -2007,11 +2007,17 @@
       "Y ves cuánto mueve cada referido. En Resultados, la actividad por tipo, por cliente y por referido, contra el período anterior.",
       "Referidos, en tres renglones: 1. Quién trajo a cada cliente, en su ficha. 2. La comisión de cada operación, anotada. 3. Liquidación redonda, con el saldo a la vista. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18378220414301155",
+      "permalink": "https://www.instagram.com/p/DfKjFxClFqP/",
+      "publicado_en": "2026-10-31T13:07:08-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-10-30_comisiones-de-referidos"
+    "origen": "2026-10-07/feed-extra/2026-10-30_comisiones-de-referidos",
+    "contenedor": "17909896002665550"
   },
   {
     "id": "2026-10-30_h3",
@@ -2022,14 +2028,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18336799663259642",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4020181660591238608",
+      "publicado_en": "2026-10-31T13:10:24-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-10-30_comisiones-de-referidos"
+    "depende_de": "2026-10-30_comisiones-de-referidos",
+    "contenedor": "17909896785665550"
   },
   {
     "id": "2026-10-24_video6",
