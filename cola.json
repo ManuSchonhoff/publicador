@@ -2058,11 +2058,17 @@
     ],
     "pie": "Contar la caja a media tarde no tendría que frenar el mostrador.\n\nContás por billete, el faltante queda registrado y la caja sigue operando. El cierre del día sale listo para imprimir.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #controldecaja #arqueodecaja #trackearpro",
     "alt": "Video de la app TrackeAR Pro con datos de ejemplo: cajas por moneda, un arqueo de dólares con un faltante de US$ 20 que queda registrado, el cierre del día en PDF, cuentas corrientes, préstamos, cheques, referidos y los avisos de Requiere atención.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18093330530205075",
+      "permalink": "https://www.instagram.com/reel/DfSQvlTjl0t/",
+      "publicado_en": "2026-11-03T13:01:23-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-10-29_app2/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-29_app2"
+    "origen": "2026-10-07/reels/extra/2026-10-29_app2",
+    "contenedor": "17910536469665550"
   },
   {
     "id": "2026-10-28_h1",
@@ -2073,14 +2079,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18133148941863493",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4022355989488242822",
+      "publicado_en": "2026-11-03T13:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-10-29_app2"
+    "depende_de": "2026-10-29_app2",
+    "contenedor": "17910538410665550"
   },
   {
     "id": "2026-11-03_plata-que-no-es-tuya",
