@@ -2112,6 +2112,24 @@
     "origen": "2026-10-07/feed-extra/2026-11-03_plata-que-no-es-tuya"
   },
   {
+    "id": "2026-11-03_h1",
+    "fecha_hora": "2026-11-03T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-03_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-03_plata-que-no-es-tuya"
+  },
+  {
     "id": "2026-11-04_saldo-de-arranque",
     "fecha_hora": "2026-11-04T08:30:00-03:00",
     "tipo": "carrusel",
@@ -2139,6 +2157,42 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-04_saldo-de-arranque"
+  },
+  {
+    "id": "2026-11-04_h1",
+    "fecha_hora": "2026-11-04T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-04_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-04_saldo-de-arranque"
+  },
+  {
+    "id": "2026-11-04_h3",
+    "fecha_hora": "2026-11-04T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-04_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/historias/png",
+    "orden": 3,
+    "texto": "Arqueo de las 15:20: el faltante queda registrado y la caja sigue operando.\nSistema\nUS$ 175.550,00\nContado\nUS$ 175.530,00\nDiferencia\nFaltante de caja\n−US$ 20,00\nDatos de ejemplo",
+    "fuente": "2026-10-07/disenos/historias/2026-11-18_h2_arqueo-diferencia.html"
   },
   {
     "id": "2026-11-04_el-mes-dia-por-dia",
@@ -2170,6 +2224,24 @@
     "origen": "2026-10-07/feed-extra/2026-11-04_el-mes-dia-por-dia"
   },
   {
+    "id": "2026-11-04_h2",
+    "fecha_hora": "2026-11-04T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-04_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-11-04_el-mes-dia-por-dia"
+  },
+  {
     "id": "2026-11-05_fila-con-signo-de-pregunta",
     "fecha_hora": "2026-11-05T08:30:00-03:00",
     "tipo": "carrusel",
@@ -2197,6 +2269,42 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-05_fila-con-signo-de-pregunta"
+  },
+  {
+    "id": "2026-11-05_h1",
+    "fecha_hora": "2026-11-05T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-05_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-05_fila-con-signo-de-pregunta"
+  },
+  {
+    "id": "2026-11-05_h3",
+    "fecha_hora": "2026-11-05T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-05_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 3,
+    "texto": "Seguridad\nTus datos, separados de cualquier otra financiera por la base de datos misma.",
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_02.html"
   },
   {
     "id": "2026-11-05_se-corto-internet",
@@ -2230,6 +2338,24 @@
     "origen": "2026-10-07/feed-extra/2026-11-05_se-corto-internet"
   },
   {
+    "id": "2026-11-05_h2",
+    "fecha_hora": "2026-11-05T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-05_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-11-05_se-corto-internet"
+  },
+  {
     "id": "2026-11-06_cliente-cargado-dos-veces",
     "fecha_hora": "2026-11-06T08:30:00-03:00",
     "tipo": "carrusel",
@@ -2261,6 +2387,42 @@
     "origen": "2026-10-07/feed-extra/2026-11-06_cliente-cargado-dos-veces"
   },
   {
+    "id": "2026-11-06_h1",
+    "fecha_hora": "2026-11-06T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-06_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-06_cliente-cargado-dos-veces"
+  },
+  {
+    "id": "2026-11-06_h3",
+    "fecha_hora": "2026-11-06T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-06_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 3,
+    "texto": "Preguntas\n¿Me ayudan a ponerla en marcha?\nSí. Entendemos tu operatoria, dejamos configuradas con vos las cajas, monedas, cotizaciones y roles, y capacitamos al equipo. Los primeros días estamos al lado.",
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_05.html"
+  },
+  {
     "id": "2026-11-06_llamas-al-local",
     "fecha_hora": "2026-11-06T20:30:00-03:00",
     "tipo": "carrusel",
@@ -2288,6 +2450,24 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-06_llamas-al-local"
+  },
+  {
+    "id": "2026-11-06_h2",
+    "fecha_hora": "2026-11-06T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-06_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-11-06_llamas-al-local"
   },
   {
     "id": "2026-11-07_cliente-nuevo-monto-grande",
@@ -2319,6 +2499,42 @@
     "origen": "2026-10-07/feed-extra/2026-11-07_cliente-nuevo-monto-grande"
   },
   {
+    "id": "2026-11-07_h1",
+    "fecha_hora": "2026-11-07T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-07_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-07_cliente-nuevo-monto-grande"
+  },
+  {
+    "id": "2026-11-07_h3",
+    "fecha_hora": "2026-11-07T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-07_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/historias/png",
+    "orden": 3,
+    "texto": "¿Lo querés ver con tus números?\nEscribinos por mensaje directo y te lo mostramos.",
+    "fuente": "2026-10-07/disenos/historias/pedido-demo.html"
+  },
+  {
     "id": "2026-11-07_frases-del-cierre",
     "fecha_hora": "2026-11-07T20:30:00-03:00",
     "tipo": "carrusel",
@@ -2344,6 +2560,24 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-07_frases-del-cierre"
+  },
+  {
+    "id": "2026-11-07_h2",
+    "fecha_hora": "2026-11-07T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-07_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-11-07_frases-del-cierre"
   },
   {
     "id": "2026-11-08_con-excel-ando-bien",
@@ -2375,6 +2609,42 @@
     "origen": "2026-10-07/feed-extra/2026-11-08_con-excel-ando-bien"
   },
   {
+    "id": "2026-11-08_h4",
+    "fecha_hora": "2026-11-08T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-08_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-11-08_con-excel-ando-bien"
+  },
+  {
+    "id": "2026-11-08_h3",
+    "fecha_hora": "2026-11-08T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-08_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 3,
+    "texto": "La planilla te dice cuánta plata hay.\nNo cuánto ganaste.",
+    "fuente": "2026-10-07/disenos/destacadas/la-cuenta_01.html"
+  },
+  {
     "id": "2026-11-08_nadie-vea-mis-numeros",
     "fecha_hora": "2026-11-08T20:30:00-03:00",
     "tipo": "carrusel",
@@ -2400,6 +2670,24 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-08_nadie-vea-mis-numeros"
+  },
+  {
+    "id": "2026-11-08_h2",
+    "fecha_hora": "2026-11-08T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-08_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-11-08_nadie-vea-mis-numeros"
   },
   {
     "id": "2026-11-09_cambiar-de-sistema-cuesta",
@@ -2429,6 +2717,42 @@
     "origen": "2026-10-07/feed-extra/2026-11-09_cambiar-de-sistema-cuesta"
   },
   {
+    "id": "2026-11-09_h1",
+    "fecha_hora": "2026-11-09T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-09_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-09_cambiar-de-sistema-cuesta"
+  },
+  {
+    "id": "2026-11-09_h3",
+    "fecha_hora": "2026-11-09T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-09_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/destacadas/png",
+    "orden": 3,
+    "texto": "Seguridad\nCopias de tu organización a las 21:40, 00:40 y 06:40, si hubo cambios. Las descargás en Excel o JSON.",
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_07.html"
+  },
+  {
     "id": "2026-11-09_todo-en-una-compu",
     "fecha_hora": "2026-11-09T20:30:00-03:00",
     "tipo": "carrusel",
@@ -2454,6 +2778,24 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-09_todo-en-una-compu"
+  },
+  {
+    "id": "2026-11-09_h4",
+    "fecha_hora": "2026-11-09T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-09_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-11-09_todo-en-una-compu"
   },
   {
     "id": "2026-11-10_extracto-del-banco",
@@ -2485,6 +2827,42 @@
     "origen": "2026-10-07/feed-extra/2026-11-10_extracto-del-banco"
   },
   {
+    "id": "2026-11-10_h1",
+    "fecha_hora": "2026-11-10T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-10_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-10_extracto-del-banco"
+  },
+  {
+    "id": "2026-11-10_h3",
+    "fecha_hora": "2026-11-10T10:00:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-10_h3/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/disenos/historias/png",
+    "orden": 3,
+    "texto": "La cuenta bien hecha · N° 1\nLa cuenta, para tenerla a mano.\nPatrimonio neto\n= cajas en dólares\n+ lo que te deben\n− lo que debés\nGanancia\n= patrimonio ahora\n− foto de las 00:00\n− aportes\n+ retiros\nMandanos\nGANANCIA por mensaje y te mostramos la app.",
+    "fuente": "2026-10-07/disenos/historias/2026-10-20_h2_la-cuenta-a-mano.html"
+  },
+  {
     "id": "2026-11-10_preguntas-del-mostrador",
     "fecha_hora": "2026-11-10T20:30:00-03:00",
     "tipo": "carrusel",
@@ -2514,5 +2892,23 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-10_preguntas-del-mostrador"
+  },
+  {
+    "id": "2026-11-10_h2",
+    "fecha_hora": "2026-11-10T20:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-10_h2/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 2,
+    "texto": "",
+    "depende_de": "2026-11-10_preguntas-del-mostrador"
   }
 ]
