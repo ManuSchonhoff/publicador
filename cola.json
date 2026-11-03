@@ -2254,40 +2254,38 @@
     "depende_de": "2026-11-04_el-mes-dia-por-dia"
   },
   {
-    "id": "2026-11-05_fila-con-signo-de-pregunta",
+    "id": "2026-11-05_xpost-lo-que-se-aprende",
     "fecha_hora": "2026-11-05T08:30:00-03:00",
     "tipo": "carrusel",
     "archivos": [
-      "media/2026-11-05_fila-con-signo-de-pregunta/p01.jpg",
-      "media/2026-11-05_fila-con-signo-de-pregunta/p02.jpg",
-      "media/2026-11-05_fila-con-signo-de-pregunta/p03.jpg",
-      "media/2026-11-05_fila-con-signo-de-pregunta/p04.jpg",
-      "media/2026-11-05_fila-con-signo-de-pregunta/p05.jpg",
-      "media/2026-11-05_fila-con-signo-de-pregunta/p06.jpg",
-      "media/2026-11-05_fila-con-signo-de-pregunta/p07.jpg"
+      "media/2026-11-05_xpost-lo-que-se-aprende/p01.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p02.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p03.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p04.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p05.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p06.jpg"
     ],
-    "pie": "Tu planilla suma el “?” como cero. La fila está, el monto no, y el cierre sale igual.\n\nEl “?” aparece cuando todavía no sabés algo: el monto final de una operación o los datos de un cheque.\n\nEn TrackeAR Pro la operación se carga con el monto que estimás y queda en Pendientes. Antes de ejecutarla, el monto se corrige y queda el antes y el después, con quién y cuándo. La caja se mueve recién al ejecutar.\n\nEl cheque sin número, banco o fecha se carga marcado “a completar” y te avisa hasta que lo completes.\n\nLos nombres y montos son de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "pie": "Lo que se aprende cerrando la caja de una financiera todos los días.\n\n¿Cuál te pasó? Contanos en los comentarios.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
     "alt": [
-      "Carrusel de TrackeAR Pro, serie Escena de mostrador, fondo claro. Título: Tu planilla suma el signo de pregunta como cero. Debajo: La fila está, el monto no. Y el cierre sale igual.",
-      "La suma saltea el signo de pregunta. Tabla de una planilla del día: Tomás Ibarra, 3.627.450 pesos; Martín Ríos, signo de pregunta; Paula Ferrari, 862.190 pesos; Kevin Salas, 1.284.375 pesos. Total: 5.774.015 pesos. El total sale como si la fila de Martín Ríos no existiera. Datos de ejemplo.",
-      "El signo de pregunta aparece cuando todavía no sabés algo. Lista: el monto final de una operación, que se sabe cuando se mueve la plata; el número, el banco o la fecha de pago de un cheque. Y la fila llega así al cierre.",
-      "En TrackeAR Pro se carga con el monto que estimás. Queda en Pendientes, a la vista. Se ejecuta cuando se mueve la plata, eligiendo de qué caja sale y a cuál entra. Hasta ahí, la caja no se mueve.",
-      "Cuando sabés el monto final, se corrige antes de ejecutar. Tarjeta del historial de la operación 212, de Martín Ríos: Recibimos pasó de 2.946.300 a 3.018.640 pesos; lo cambió Lucía Benítez a las 15:07. Queda el antes y el después, con quién y cuándo. Datos de ejemplo.",
-      "El cheque sin datos se carga igual, marcado a completar. Tarjeta: a completar, cheque de Esteban Ruiz, 1.873.450 pesos. Falta: número, banco y fecha de pago. Te avisa hasta que lo completes. Datos de ejemplo.",
-      "Antes del cierre, cada signo de pregunta en su lugar: 1, el monto que no sabés, pendiente con lo que estimás. 2, el monto final, corregido antes de ejecutar, con el antes y el después. 3, el cheque sin datos, a completar, con aviso hasta que se complete. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+      "Placa con formato de post de X de @trackearpro: Lo que se aprende cerrando la caja de una financiera todos los días, sin ningún orden:",
+      "Placa con formato de post de X de @trackearpro: Que la caja cierre no quiere decir que el día haya dado bien.",
+      "Placa con formato de post de X de @trackearpro: Lo pendiente no es pérdida. Es plata a cobrar, con su vencimiento.",
+      "Placa con formato de post de X de @trackearpro: Si un socio pone plata, no ganaste. Si la saca, no perdiste.",
+      "Placa con formato de post de X de @trackearpro: Un cheque en cartera no es plata disponible hasta que se acredita.",
+      "Placa con formato de post de X de @trackearpro: Y que la ganancia del día se saca en dólares, contra la foto de las 00:00. Para eso está TrackeAR Pro: probalo 7 días gratis. Con una foto de billetes, una libreta y una calculadora."
     ],
     "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-05_fila-con-signo-de-pregunta"
+    "origen": "2026-10-07/feed-extra/2026-11-05_xpost-lo-que-se-aprende"
   },
   {
-    "id": "2026-11-05_h1",
+    "id": "2026-11-05_h4",
     "fecha_hora": "2026-11-05T08:40:00-03:00",
     "tipo": "historia",
     "archivos": [
-      "media/2026-11-05_h1/historia.jpg"
+      "media/2026-11-05_h4/historia.jpg"
     ],
     "pie": "",
     "alt": "",
@@ -2296,9 +2294,9 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
-    "orden": 1,
+    "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-05_fila-con-signo-de-pregunta"
+    "depende_de": "2026-11-05_xpost-lo-que-se-aprende"
   },
   {
     "id": "2026-11-05_h3",
@@ -2482,40 +2480,38 @@
     "depende_de": "2026-11-06_llamas-al-local"
   },
   {
-    "id": "2026-11-07_cliente-nuevo-monto-grande",
+    "id": "2026-11-07_xpost-errores-de-la-planilla",
     "fecha_hora": "2026-11-07T08:30:00-03:00",
     "tipo": "carrusel",
     "archivos": [
-      "media/2026-11-07_cliente-nuevo-monto-grande/p01.jpg",
-      "media/2026-11-07_cliente-nuevo-monto-grande/p02.jpg",
-      "media/2026-11-07_cliente-nuevo-monto-grande/p03.jpg",
-      "media/2026-11-07_cliente-nuevo-monto-grande/p04.jpg",
-      "media/2026-11-07_cliente-nuevo-monto-grande/p05.jpg",
-      "media/2026-11-07_cliente-nuevo-monto-grande/p06.jpg",
-      "media/2026-11-07_cliente-nuevo-monto-grande/p07.jpg"
+      "media/2026-11-07_xpost-errores-de-la-planilla/p01.jpg",
+      "media/2026-11-07_xpost-errores-de-la-planilla/p02.jpg",
+      "media/2026-11-07_xpost-errores-de-la-planilla/p03.jpg",
+      "media/2026-11-07_xpost-errores-de-la-planilla/p04.jpg",
+      "media/2026-11-07_xpost-errores-de-la-planilla/p05.jpg",
+      "media/2026-11-07_xpost-errores-de-la-planilla/p06.jpg"
     ],
-    "pie": "Un cliente nuevo operó US$ 23.480 y nadie te avisó. En TrackeAR Pro lo ves en la primera pantalla, en “Requiere atención”.\n\nNo hace falta mirar las operaciones del día una por una. Ahí aparecen aparte las que se salen de lo normal: un cliente nuevo con monto grande, un monto alto para ese cliente o una cotización lejos de la referencia.\n\nLos umbrales los elegís vos: cuánto es lejos de la referencia y cuánto es un monto grande en tu mostrador.\n\nLos nombres y montos de las placas son de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
+    "pie": "Errores que se repiten en las planillas de cierre de financieras y casas de cambio. ¿Cuál te pasó?\n\nGuardalo para el próximo cierre.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
     "alt": [
-      "Carrusel de TrackeAR Pro, serie Control sin estar encima, fondo claro. Título: Un cliente nuevo operó US$ 23.480 y nadie te avisó. Debajo: En TrackeAR Pro, lo que se sale de lo normal aparece en la primera pantalla. Datos de ejemplo.",
-      "Mientras no estabas, se cargaron 47 operaciones. No hace falta mirarlas una por una. Las que se salen de lo normal aparecen aparte, en Requiere atención. Datos de ejemplo.",
-      "Un cliente nuevo con monto grande. Tarjeta de Requiere atención: operación 312, Tomás Ibarra, cliente nuevo, venta de 23.480 dólares. Datos de ejemplo.",
-      "Un monto alto para ese cliente. Tarjeta de Requiere atención: operación 327, Martín Ríos, venta de 14.635 dólares. Es alto para él. Para otro cliente, el mismo monto puede ser lo de siempre. Datos de ejemplo.",
-      "Una cotización lejos de la referencia. Tarjeta de Requiere atención: operación 331, Paula Ferrari, venta de 1.735 dólares a 1.497; referencia, 1.550. Datos de ejemplo.",
-      "Los umbrales los elegís vos. Cuánto es lejos de la referencia y cuánto es un monto grande en tu mostrador.",
-      "Lo que aparece en Requiere atención: un cliente nuevo con monto grande; un monto alto para ese cliente; una cotización lejos de la referencia. Los umbrales los elegís vos. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+      "Placa con formato de post de X de @trackearpro: Errores que se repiten en las planillas de cierre de financieras y casas de cambio:",
+      "Placa con formato de post de X de @trackearpro: Sumar los cheques en cartera a la caja.",
+      "Placa con formato de post de X de @trackearpro: Anotar lo pendiente como pérdida.",
+      "Placa con formato de post de X de @trackearpro: Contar como ganancia lo que puso un socio.",
+      "Placa con formato de post de X de @trackearpro: Pasar las monedas a dólares con una cotización distinta cada vez.",
+      "Placa con formato de post de X de @trackearpro: Que la planilla cierre no quiere decir que esté bien. TrackeAR Pro hace la cuenta sola: probalo 7 días gratis."
     ],
     "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-07_cliente-nuevo-monto-grande"
+    "origen": "2026-10-07/feed-extra/2026-11-07_xpost-errores-de-la-planilla"
   },
   {
-    "id": "2026-11-07_h1",
+    "id": "2026-11-07_h4",
     "fecha_hora": "2026-11-07T08:40:00-03:00",
     "tipo": "historia",
     "archivos": [
-      "media/2026-11-07_h1/historia.jpg"
+      "media/2026-11-07_h4/historia.jpg"
     ],
     "pie": "",
     "alt": "",
@@ -2524,9 +2520,9 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
-    "orden": 1,
+    "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-07_cliente-nuevo-monto-grande"
+    "depende_de": "2026-11-07_xpost-errores-de-la-planilla"
   },
   {
     "id": "2026-11-07_h3",
@@ -2702,38 +2698,38 @@
     "depende_de": "2026-11-08_nadie-vea-mis-numeros"
   },
   {
-    "id": "2026-11-09_cambiar-de-sistema-cuesta",
+    "id": "2026-11-09_xpost-sin-llamar-al-local",
     "fecha_hora": "2026-11-09T08:30:00-03:00",
     "tipo": "carrusel",
     "archivos": [
-      "media/2026-11-09_cambiar-de-sistema-cuesta/p01.jpg",
-      "media/2026-11-09_cambiar-de-sistema-cuesta/p02.jpg",
-      "media/2026-11-09_cambiar-de-sistema-cuesta/p03.jpg",
-      "media/2026-11-09_cambiar-de-sistema-cuesta/p04.jpg",
-      "media/2026-11-09_cambiar-de-sistema-cuesta/p05.jpg",
-      "media/2026-11-09_cambiar-de-sistema-cuesta/p06.jpg"
+      "media/2026-11-09_xpost-sin-llamar-al-local/p01.jpg",
+      "media/2026-11-09_xpost-sin-llamar-al-local/p02.jpg",
+      "media/2026-11-09_xpost-sin-llamar-al-local/p03.jpg",
+      "media/2026-11-09_xpost-sin-llamar-al-local/p04.jpg",
+      "media/2026-11-09_xpost-sin-llamar-al-local/p05.jpg",
+      "media/2026-11-09_xpost-sin-llamar-al-local/p06.jpg"
     ],
-    "pie": "“Pasar todo a un sistema nuevo me lleva semanas.” Cuesta, sí. Pero no todo lo hacés vos.\n\nVos pasás a las plantillas de Excel tus clientes, los saldos de cada caja, las cuentas corrientes y las operaciones, y contestás lo que te pregunta la app: qué operás, monedas, cajas, locales y equipo.\n\nLa app te muestra cada fila con lo que va a hacer antes de importar, y las que tienen errores no entran. Tiene recorridos guiados: uno general y uno por pantalla.\n\nSi nos escribís por email, te guiamos para configurar cajas, monedas, cotizaciones, roles y los saldos con los que arrancás, y te explicamos qué usa cada uno del equipo. Los primeros días de operación, las dudas te las respondemos en días hábiles.\n\nY si querés, tu planilla sigue en paralelo: las operaciones de la app se exportan en el formato de las plantillas, que se vuelve a importar.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "pie": "Lo que el dueño de una financiera o casa de cambio tendría que poder saber sin llamar al local.\n\nMandáselo a tu socio.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
     "alt": [
-      "Carrusel de TrackeAR Pro, serie Objeciones, con hechos, fondo claro. Título entre comillas: Pasar todo a un sistema nuevo me lleva semanas. Debajo: Cuesta, sí. Pero no todo lo hacés vos.",
-      "Tarjeta Vos. Lo que hacés vos. Pasás a las plantillas de Excel tus clientes, los saldos de cada caja, las cuentas corrientes y las operaciones. Y contestás lo que te pregunta la app: qué operás, monedas, cajas, locales y equipo.",
-      "Tarjeta La app. Lo que hace la app. Antes de importar, te muestra cada fila con lo que va a hacer. Las que tienen errores no entran. Y tiene recorridos guiados: uno general y uno por pantalla.",
-      "Tarjeta Nosotros. Lo que hacemos nosotros. Si nos escribís por email, te guiamos para configurar cajas, monedas, cotizaciones, roles y los saldos con los que arrancás, y te explicamos qué usa cada uno: cajeros, tesorería y socios. Los primeros días de operación, cualquier duda te la respondemos en días hábiles.",
-      "Y tu planilla, mientras tanto, sigue. Si querés, la usás en paralelo. Las operaciones de la app se exportan en el formato de las plantillas, que se vuelve a importar.",
-      "Tabla de cuatro filas, Cambiar de sistema, repartido: vos completás las plantillas y contestás las preguntas; la app te muestra cada fila antes de importar; nosotros te guiamos por email; tu planilla sigue en paralelo, si querés. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
+      "Placa con formato de post de X de @trackearpro: Lo que el dueño de una financiera o casa de cambio tendría que poder saber sin llamar al local:",
+      "Placa con formato de post de X de @trackearpro: Cuánto ganó hoy, en dólares.",
+      "Placa con formato de post de X de @trackearpro: Cuánta plata hay en cada caja, moneda por moneda.",
+      "Placa con formato de post de X de @trackearpro: Quién cargó cada operación y a qué hora.",
+      "Placa con formato de post de X de @trackearpro: Y qué hay que revisar antes de cerrar.",
+      "Placa con formato de post de X de @trackearpro: Con TrackeAR Pro, todos los días a las 20 te llega el resumen por email. Probalo 7 días gratis: el link está en el perfil."
     ],
     "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-09_cambiar-de-sistema-cuesta"
+    "origen": "2026-10-07/feed-extra/2026-11-09_xpost-sin-llamar-al-local"
   },
   {
-    "id": "2026-11-09_h1",
+    "id": "2026-11-09_h5",
     "fecha_hora": "2026-11-09T08:40:00-03:00",
     "tipo": "historia",
     "archivos": [
-      "media/2026-11-09_h1/historia.jpg"
+      "media/2026-11-09_h5/historia.jpg"
     ],
     "pie": "",
     "alt": "",
@@ -2742,9 +2738,9 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
-    "orden": 1,
+    "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-09_cambiar-de-sistema-cuesta"
+    "depende_de": "2026-11-09_xpost-sin-llamar-al-local"
   },
   {
     "id": "2026-11-09_h3",
@@ -2922,5 +2918,144 @@
     "orden": 2,
     "texto": "",
     "depende_de": "2026-11-10_preguntas-del-mostrador"
+  },
+  {
+    "id": "2026-11-05_fila-con-signo-de-pregunta",
+    "fecha_hora": "2026-11-11T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-11-05_fila-con-signo-de-pregunta/p01.jpg",
+      "media/2026-11-05_fila-con-signo-de-pregunta/p02.jpg",
+      "media/2026-11-05_fila-con-signo-de-pregunta/p03.jpg",
+      "media/2026-11-05_fila-con-signo-de-pregunta/p04.jpg",
+      "media/2026-11-05_fila-con-signo-de-pregunta/p05.jpg",
+      "media/2026-11-05_fila-con-signo-de-pregunta/p06.jpg",
+      "media/2026-11-05_fila-con-signo-de-pregunta/p07.jpg"
+    ],
+    "pie": "Tu planilla suma el “?” como cero. La fila está, el monto no, y el cierre sale igual.\n\nEl “?” aparece cuando todavía no sabés algo: el monto final de una operación o los datos de un cheque.\n\nEn TrackeAR Pro la operación se carga con el monto que estimás y queda en Pendientes. Antes de ejecutarla, el monto se corrige y queda el antes y el después, con quién y cuándo. La caja se mueve recién al ejecutar.\n\nEl cheque sin número, banco o fecha se carga marcado “a completar” y te avisa hasta que lo completes.\n\nLos nombres y montos son de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": [
+      "Carrusel de TrackeAR Pro, serie Escena de mostrador, fondo claro. Título: Tu planilla suma el signo de pregunta como cero. Debajo: La fila está, el monto no. Y el cierre sale igual.",
+      "La suma saltea el signo de pregunta. Tabla de una planilla del día: Tomás Ibarra, 3.627.450 pesos; Martín Ríos, signo de pregunta; Paula Ferrari, 862.190 pesos; Kevin Salas, 1.284.375 pesos. Total: 5.774.015 pesos. El total sale como si la fila de Martín Ríos no existiera. Datos de ejemplo.",
+      "El signo de pregunta aparece cuando todavía no sabés algo. Lista: el monto final de una operación, que se sabe cuando se mueve la plata; el número, el banco o la fecha de pago de un cheque. Y la fila llega así al cierre.",
+      "En TrackeAR Pro se carga con el monto que estimás. Queda en Pendientes, a la vista. Se ejecuta cuando se mueve la plata, eligiendo de qué caja sale y a cuál entra. Hasta ahí, la caja no se mueve.",
+      "Cuando sabés el monto final, se corrige antes de ejecutar. Tarjeta del historial de la operación 212, de Martín Ríos: Recibimos pasó de 2.946.300 a 3.018.640 pesos; lo cambió Lucía Benítez a las 15:07. Queda el antes y el después, con quién y cuándo. Datos de ejemplo.",
+      "El cheque sin datos se carga igual, marcado a completar. Tarjeta: a completar, cheque de Esteban Ruiz, 1.873.450 pesos. Falta: número, banco y fecha de pago. Te avisa hasta que lo completes. Datos de ejemplo.",
+      "Antes del cierre, cada signo de pregunta en su lugar: 1, el monto que no sabés, pendiente con lo que estimás. 2, el monto final, corregido antes de ejecutar, con el antes y el después. 3, el cheque sin datos, a completar, con aviso hasta que se complete. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-05_fila-con-signo-de-pregunta"
+  },
+  {
+    "id": "2026-11-05_h1",
+    "fecha_hora": "2026-11-11T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-05_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-05_fila-con-signo-de-pregunta"
+  },
+  {
+    "id": "2026-11-07_cliente-nuevo-monto-grande",
+    "fecha_hora": "2026-11-12T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-11-07_cliente-nuevo-monto-grande/p01.jpg",
+      "media/2026-11-07_cliente-nuevo-monto-grande/p02.jpg",
+      "media/2026-11-07_cliente-nuevo-monto-grande/p03.jpg",
+      "media/2026-11-07_cliente-nuevo-monto-grande/p04.jpg",
+      "media/2026-11-07_cliente-nuevo-monto-grande/p05.jpg",
+      "media/2026-11-07_cliente-nuevo-monto-grande/p06.jpg",
+      "media/2026-11-07_cliente-nuevo-monto-grande/p07.jpg"
+    ],
+    "pie": "Un cliente nuevo operó US$ 23.480 y nadie te avisó. En TrackeAR Pro lo ves en la primera pantalla, en “Requiere atención”.\n\nNo hace falta mirar las operaciones del día una por una. Ahí aparecen aparte las que se salen de lo normal: un cliente nuevo con monto grande, un monto alto para ese cliente o una cotización lejos de la referencia.\n\nLos umbrales los elegís vos: cuánto es lejos de la referencia y cuánto es un monto grande en tu mostrador.\n\nLos nombres y montos de las placas son de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\n¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
+    "alt": [
+      "Carrusel de TrackeAR Pro, serie Control sin estar encima, fondo claro. Título: Un cliente nuevo operó US$ 23.480 y nadie te avisó. Debajo: En TrackeAR Pro, lo que se sale de lo normal aparece en la primera pantalla. Datos de ejemplo.",
+      "Mientras no estabas, se cargaron 47 operaciones. No hace falta mirarlas una por una. Las que se salen de lo normal aparecen aparte, en Requiere atención. Datos de ejemplo.",
+      "Un cliente nuevo con monto grande. Tarjeta de Requiere atención: operación 312, Tomás Ibarra, cliente nuevo, venta de 23.480 dólares. Datos de ejemplo.",
+      "Un monto alto para ese cliente. Tarjeta de Requiere atención: operación 327, Martín Ríos, venta de 14.635 dólares. Es alto para él. Para otro cliente, el mismo monto puede ser lo de siempre. Datos de ejemplo.",
+      "Una cotización lejos de la referencia. Tarjeta de Requiere atención: operación 331, Paula Ferrari, venta de 1.735 dólares a 1.497; referencia, 1.550. Datos de ejemplo.",
+      "Los umbrales los elegís vos. Cuánto es lejos de la referencia y cuánto es un monto grande en tu mostrador.",
+      "Lo que aparece en Requiere atención: un cliente nuevo con monto grande; un monto alto para ese cliente; una cotización lejos de la referencia. Los umbrales los elegís vos. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-07_cliente-nuevo-monto-grande"
+  },
+  {
+    "id": "2026-11-07_h1",
+    "fecha_hora": "2026-11-12T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-07_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-07_cliente-nuevo-monto-grande"
+  },
+  {
+    "id": "2026-11-09_cambiar-de-sistema-cuesta",
+    "fecha_hora": "2026-11-13T08:30:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-11-09_cambiar-de-sistema-cuesta/p01.jpg",
+      "media/2026-11-09_cambiar-de-sistema-cuesta/p02.jpg",
+      "media/2026-11-09_cambiar-de-sistema-cuesta/p03.jpg",
+      "media/2026-11-09_cambiar-de-sistema-cuesta/p04.jpg",
+      "media/2026-11-09_cambiar-de-sistema-cuesta/p05.jpg",
+      "media/2026-11-09_cambiar-de-sistema-cuesta/p06.jpg"
+    ],
+    "pie": "“Pasar todo a un sistema nuevo me lleva semanas.” Cuesta, sí. Pero no todo lo hacés vos.\n\nVos pasás a las plantillas de Excel tus clientes, los saldos de cada caja, las cuentas corrientes y las operaciones, y contestás lo que te pregunta la app: qué operás, monedas, cajas, locales y equipo.\n\nLa app te muestra cada fila con lo que va a hacer antes de importar, y las que tienen errores no entran. Tiene recorridos guiados: uno general y uno por pantalla.\n\nSi nos escribís por email, te guiamos para configurar cajas, monedas, cotizaciones, roles y los saldos con los que arrancás, y te explicamos qué usa cada uno del equipo. Los primeros días de operación, las dudas te las respondemos en días hábiles.\n\nY si querés, tu planilla sigue en paralelo: las operaciones de la app se exportan en el formato de las plantillas, que se vuelve a importar.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": [
+      "Carrusel de TrackeAR Pro, serie Objeciones, con hechos, fondo claro. Título entre comillas: Pasar todo a un sistema nuevo me lleva semanas. Debajo: Cuesta, sí. Pero no todo lo hacés vos.",
+      "Tarjeta Vos. Lo que hacés vos. Pasás a las plantillas de Excel tus clientes, los saldos de cada caja, las cuentas corrientes y las operaciones. Y contestás lo que te pregunta la app: qué operás, monedas, cajas, locales y equipo.",
+      "Tarjeta La app. Lo que hace la app. Antes de importar, te muestra cada fila con lo que va a hacer. Las que tienen errores no entran. Y tiene recorridos guiados: uno general y uno por pantalla.",
+      "Tarjeta Nosotros. Lo que hacemos nosotros. Si nos escribís por email, te guiamos para configurar cajas, monedas, cotizaciones, roles y los saldos con los que arrancás, y te explicamos qué usa cada uno: cajeros, tesorería y socios. Los primeros días de operación, cualquier duda te la respondemos en días hábiles.",
+      "Y tu planilla, mientras tanto, sigue. Si querés, la usás en paralelo. Las operaciones de la app se exportan en el formato de las plantillas, que se vuelve a importar.",
+      "Tabla de cuatro filas, Cambiar de sistema, repartido: vos completás las plantillas y contestás las preguntas; la app te muestra cada fila antes de importar; nosotros te guiamos por email; tu planilla sigue en paralelo, si querés. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-09_cambiar-de-sistema-cuesta"
+  },
+  {
+    "id": "2026-11-09_h1",
+    "fecha_hora": "2026-11-13T08:40:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-09_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-09_cambiar-de-sistema-cuesta"
   }
 ]
