@@ -2117,11 +2117,15 @@
       "En la app, lo que falta entregar lo pasás a su cuenta corriente. Pantalla recreada de la app, Cerrar lo que falta: de la operación 263 falta 1.725 dólares; elegida la opción A cuenta corriente; queda en Deudas, Paula Ferrari, le debemos 1.725 dólares, y la operación se completa; botón Pasar a cuenta corriente. Queda en su estado de cuenta. Cuando vuelve, le pagás todo o una parte. Datos de ejemplo.",
       "La cuenta bien hecha, en una línea: la plata de un cliente resta desde el día que la deja. Fórmula: patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. Guardalo para el cierre. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The media is not ready for publishing, please wait for a moment (código 9007/2207027)",
+      "cuando": "2026-11-03T20:30:55-03:00"
+    },
     "portada": null,
-    "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-03_plata-que-no-es-tuya"
+    "intentos": 1,
+    "origen": "2026-10-07/feed-extra/2026-11-03_plata-que-no-es-tuya",
+    "contenedor": "17910581940665550"
   },
   {
     "id": "2026-11-03_h1",
@@ -2132,8 +2136,11 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: el posteo que anuncia ('2026-11-03_plata-que-no-es-tuya') está en error",
+      "cuando": "2026-11-03T20:40:20-03:00"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
