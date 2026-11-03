@@ -1609,45 +1609,6 @@
     "contenedor": "17909410014665550"
   },
   {
-    "id": "2026-10-29_app2",
-    "fecha_hora": "2026-10-29T13:00:00-03:00",
-    "tipo": "reel",
-    "archivos": [
-      "media/2026-10-29_app2/reel.mp4"
-    ],
-    "pie": "Contar la caja a media tarde no tendría que frenar el mostrador.\n\nContás por billete, el faltante queda registrado y la caja sigue operando. El cierre del día sale listo para imprimir.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #controldecaja #arqueodecaja #trackearpro",
-    "alt": "Video de la app TrackeAR Pro con datos de ejemplo: cajas por moneda, un arqueo de dólares con un faltante de US$ 20 que queda registrado, el cierre del día en PDF, cuentas corrientes, préstamos, cheques, referidos y los avisos de Requiere atención.",
-    "estado": "error",
-    "resultado": {
-      "error": "no se publicó: pasaron 450 min de la hora prevista (el máximo es 180).",
-      "cuando": "2026-10-29T20:30:25-03:00"
-    },
-    "portada": "media/2026-10-29_app2/portada.jpg",
-    "intentos": 0,
-    "origen": "2026-10-07/reels/extra/2026-10-29_app2"
-  },
-  {
-    "id": "2026-10-28_h1",
-    "fecha_hora": "2026-10-29T13:10:00-03:00",
-    "tipo": "historia",
-    "archivos": [
-      "media/2026-10-28_h1/historia.jpg"
-    ],
-    "pie": "",
-    "alt": "",
-    "estado": "error",
-    "resultado": {
-      "error": "no se publicó: pasaron 440 min de la hora prevista (el máximo es 180).",
-      "cuando": "2026-10-29T20:30:25-03:00"
-    },
-    "portada": null,
-    "intentos": 0,
-    "origen": "2026-10-07/historias-auto",
-    "orden": 1,
-    "texto": "",
-    "depende_de": "2026-10-29_app2"
-  },
-  {
     "id": "2026-10-31_sirve-para-mi-financiera",
     "fecha_hora": "2026-10-29T20:30:00-03:00",
     "tipo": "carrusel",
@@ -2087,5 +2048,38 @@
     "texto": "",
     "depende_de": "2026-10-24_video6",
     "contenedor": "17909986746665550"
+  },
+  {
+    "id": "2026-10-29_app2",
+    "fecha_hora": "2026-11-03T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-10-29_app2/reel.mp4"
+    ],
+    "pie": "Contar la caja a media tarde no tendría que frenar el mostrador.\n\nContás por billete, el faltante queda registrado y la caja sigue operando. El cierre del día sale listo para imprimir.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #controldecaja #arqueodecaja #trackearpro",
+    "alt": "Video de la app TrackeAR Pro con datos de ejemplo: cajas por moneda, un arqueo de dólares con un faltante de US$ 20 que queda registrado, el cierre del día en PDF, cuentas corrientes, préstamos, cheques, referidos y los avisos de Requiere atención.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-10-29_app2/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/reels/extra/2026-10-29_app2"
+  },
+  {
+    "id": "2026-10-28_h1",
+    "fecha_hora": "2026-11-03T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-10-28_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-10-29_app2"
   }
 ]
