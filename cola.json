@@ -2096,7 +2096,7 @@
   },
   {
     "id": "2026-11-03_plata-que-no-es-tuya",
-    "fecha_hora": "2026-11-03T20:30:00-03:00",
+    "fecha_hora": "2026-11-04T08:30:00-03:00",
     "tipo": "carrusel",
     "archivos": [
       "media/2026-11-03_plata-que-no-es-tuya/p01.jpg",
@@ -2117,83 +2117,29 @@
       "En la app, lo que falta entregar lo pasás a su cuenta corriente. Pantalla recreada de la app, Cerrar lo que falta: de la operación 263 falta 1.725 dólares; elegida la opción A cuenta corriente; queda en Deudas, Paula Ferrari, le debemos 1.725 dólares, y la operación se completa; botón Pasar a cuenta corriente. Queda en su estado de cuenta. Cuando vuelve, le pagás todo o una parte. Datos de ejemplo.",
       "La cuenta bien hecha, en una línea: la plata de un cliente resta desde el día que la deja. Fórmula: patrimonio neto igual a cajas en dólares más lo que te deben menos lo que debés. Guardalo para el cierre. @trackearpro"
     ],
-    "estado": "error",
-    "resultado": {
-      "error": "Instagram respondió 400: The media is not ready for publishing, please wait for a moment (código 9007/2207027)",
-      "cuando": "2026-11-03T20:30:55-03:00"
-    },
+    "estado": "aprobado",
+    "resultado": null,
     "portada": null,
-    "intentos": 1,
-    "origen": "2026-10-07/feed-extra/2026-11-03_plata-que-no-es-tuya",
-    "contenedor": "17910581940665550"
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-03_plata-que-no-es-tuya"
   },
   {
     "id": "2026-11-03_h1",
-    "fecha_hora": "2026-11-03T20:40:00-03:00",
+    "fecha_hora": "2026-11-04T08:40:00-03:00",
     "tipo": "historia",
     "archivos": [
       "media/2026-11-03_h1/historia.jpg"
     ],
     "pie": "",
     "alt": "",
-    "estado": "error",
-    "resultado": {
-      "error": "no se publicó: el posteo que anuncia ('2026-11-03_plata-que-no-es-tuya') está en error",
-      "cuando": "2026-11-03T20:40:20-03:00"
-    },
+    "estado": "aprobado",
+    "resultado": null,
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
     "depende_de": "2026-11-03_plata-que-no-es-tuya"
-  },
-  {
-    "id": "2026-11-04_saldo-de-arranque",
-    "fecha_hora": "2026-11-04T08:30:00-03:00",
-    "tipo": "carrusel",
-    "archivos": [
-      "media/2026-11-04_saldo-de-arranque/p01.jpg",
-      "media/2026-11-04_saldo-de-arranque/p02.jpg",
-      "media/2026-11-04_saldo-de-arranque/p03.jpg",
-      "media/2026-11-04_saldo-de-arranque/p04.jpg",
-      "media/2026-11-04_saldo-de-arranque/p05.jpg",
-      "media/2026-11-04_saldo-de-arranque/p06.jpg",
-      "media/2026-11-04_saldo-de-arranque/p07.jpg"
-    ],
-    "pie": "Planilla nueva: el primer día “ganaste” todo lo que tenías. Lo que ya tenías no lo ganaste hoy.\n\nSi la planilla arranca en cero, los saldos con los que arrancás entran como ganancia y el primer día te da el patrimonio entero. En las placas, US$ 184.702,15 contra una ganancia real de US$ 1.565,51.\n\nLa ganancia se mide contra un punto de partida. En TrackeAR Pro cargás los saldos con los que arrancás, a mano o con las plantillas de Excel. Tu patrimonio da bien desde el primer día, esos saldos no cuentan como ganancia y el primer mes se mide desde la primera foto de las 00:00.\n\nLos montos son de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
-    "alt": [
-      "Carrusel de TrackeAR Pro, serie La cuenta bien hecha N° 9, fondo claro. Título: Planilla nueva: el primer día “ganaste” todo lo que tenías. Debajo: Lo que ya tenías no lo ganaste hoy.",
-      "Esto es lo que ya tenías al arrancar. Tabla: pesos, 41.930.650 a 1.550, US$ 27.052,03; dólares, US$ 128.417,00; te deben, más US$ 36.882,16; debés, menos US$ 9.214,55; patrimonio al arrancar, US$ 183.136,64. Datos de ejemplo.",
-      "Si la planilla arranca en cero, todo eso entra como ganancia. A la noche, la planilla dice: ganaste US$ 184.702,15. Es todo lo que tenés, no lo que ganaste. Datos de ejemplo.",
-      "La ganancia se mide contra un punto de partida. Los saldos con los que arrancás son ese punto de partida. No son ganancia.",
-      "El primer día, bien hecho. Tabla: patrimonio al arrancar, US$ 183.136,64; patrimonio a la noche, US$ 184.702,15; ganancia del primer día, más US$ 1.565,51. Datos de ejemplo.",
-      "En TrackeAR Pro, cargás los saldos con los que arrancás. A mano o con las plantillas de Excel. Tu patrimonio da bien desde el primer día, y esos saldos no cuentan como ganancia. El primer mes se mide desde la primera foto de las 00:00.",
-      "Lo que ya tenías es el punto de partida. No es ganancia. Fórmula: ganancia igual a patrimonio ahora, menos la foto de las 00:00, menos aportes, más retiros. El primer día, los saldos con los que arrancás tampoco cuentan. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
-    ],
-    "estado": "aprobado",
-    "resultado": null,
-    "portada": null,
-    "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-04_saldo-de-arranque"
-  },
-  {
-    "id": "2026-11-04_h1",
-    "fecha_hora": "2026-11-04T08:40:00-03:00",
-    "tipo": "historia",
-    "archivos": [
-      "media/2026-11-04_h1/historia.jpg"
-    ],
-    "pie": "",
-    "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
-    "portada": null,
-    "intentos": 0,
-    "origen": "2026-10-07/historias-auto",
-    "orden": 1,
-    "texto": "",
-    "depende_de": "2026-11-04_saldo-de-arranque"
   },
   {
     "id": "2026-11-04_h3",
@@ -2214,8 +2160,53 @@
     "fuente": "2026-10-07/disenos/historias/2026-11-18_h2_arqueo-diferencia.html"
   },
   {
+    "id": "2026-11-05_xpost-lo-que-se-aprende",
+    "fecha_hora": "2026-11-04T11:00:00-03:00",
+    "tipo": "carrusel",
+    "archivos": [
+      "media/2026-11-05_xpost-lo-que-se-aprende/p01.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p02.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p03.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p04.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p05.jpg",
+      "media/2026-11-05_xpost-lo-que-se-aprende/p06.jpg"
+    ],
+    "pie": "Lo que se aprende cerrando la caja de una financiera todos los días.\n\n¿Cuál te pasó? Contanos en los comentarios.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
+    "alt": [
+      "Placa con formato de post de X de @trackearpro: Lo que se aprende cerrando la caja de una financiera todos los días, sin ningún orden:",
+      "Placa con formato de post de X de @trackearpro: Que la caja cierre no quiere decir que el día haya dado bien.",
+      "Placa con formato de post de X de @trackearpro: Lo pendiente no es pérdida. Es plata a cobrar, con su vencimiento.",
+      "Placa con formato de post de X de @trackearpro: Si un socio pone plata, no ganaste. Si la saca, no perdiste.",
+      "Placa con formato de post de X de @trackearpro: Un cheque en cartera no es plata disponible hasta que se acredita.",
+      "Placa con formato de post de X de @trackearpro: Y que la ganancia del día se saca en dólares, contra la foto de las 00:00. Para eso está TrackeAR Pro: probalo 7 días gratis. Con una foto de billetes, una libreta y una calculadora."
+    ],
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-05_xpost-lo-que-se-aprende"
+  },
+  {
+    "id": "2026-11-05_h4",
+    "fecha_hora": "2026-11-04T11:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-05_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-11-05_xpost-lo-que-se-aprende"
+  },
+  {
     "id": "2026-11-04_el-mes-dia-por-dia",
-    "fecha_hora": "2026-11-04T20:30:00-03:00",
+    "fecha_hora": "2026-11-04T15:30:00-03:00",
     "tipo": "carrusel",
     "archivos": [
       "media/2026-11-04_el-mes-dia-por-dia/p01.jpg",
@@ -2244,7 +2235,7 @@
   },
   {
     "id": "2026-11-04_h2",
-    "fecha_hora": "2026-11-04T20:40:00-03:00",
+    "fecha_hora": "2026-11-04T15:40:00-03:00",
     "tipo": "historia",
     "archivos": [
       "media/2026-11-04_h2/historia.jpg"
@@ -2261,38 +2252,40 @@
     "depende_de": "2026-11-04_el-mes-dia-por-dia"
   },
   {
-    "id": "2026-11-05_xpost-lo-que-se-aprende",
-    "fecha_hora": "2026-11-05T08:30:00-03:00",
+    "id": "2026-11-04_saldo-de-arranque",
+    "fecha_hora": "2026-11-04T20:30:00-03:00",
     "tipo": "carrusel",
     "archivos": [
-      "media/2026-11-05_xpost-lo-que-se-aprende/p01.jpg",
-      "media/2026-11-05_xpost-lo-que-se-aprende/p02.jpg",
-      "media/2026-11-05_xpost-lo-que-se-aprende/p03.jpg",
-      "media/2026-11-05_xpost-lo-que-se-aprende/p04.jpg",
-      "media/2026-11-05_xpost-lo-que-se-aprende/p05.jpg",
-      "media/2026-11-05_xpost-lo-que-se-aprende/p06.jpg"
+      "media/2026-11-04_saldo-de-arranque/p01.jpg",
+      "media/2026-11-04_saldo-de-arranque/p02.jpg",
+      "media/2026-11-04_saldo-de-arranque/p03.jpg",
+      "media/2026-11-04_saldo-de-arranque/p04.jpg",
+      "media/2026-11-04_saldo-de-arranque/p05.jpg",
+      "media/2026-11-04_saldo-de-arranque/p06.jpg",
+      "media/2026-11-04_saldo-de-arranque/p07.jpg"
     ],
-    "pie": "Lo que se aprende cerrando la caja de una financiera todos los días.\n\n¿Cuál te pasó? Contanos en los comentarios.\n\nSomos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
+    "pie": "Planilla nueva: el primer día “ganaste” todo lo que tenías. Lo que ya tenías no lo ganaste hoy.\n\nSi la planilla arranca en cero, los saldos con los que arrancás entran como ganancia y el primer día te da el patrimonio entero. En las placas, US$ 184.702,15 contra una ganancia real de US$ 1.565,51.\n\nLa ganancia se mide contra un punto de partida. En TrackeAR Pro cargás los saldos con los que arrancás, a mano o con las plantillas de Excel. Tu patrimonio da bien desde el primer día, esos saldos no cuentan como ganancia y el primer mes se mide desde la primera foto de las 00:00.\n\nLos montos son de ejemplo. Somos un sistema de gestión: no compramos ni vendemos divisas.\n\nProbalo 7 días gratis. El link está en el perfil.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
     "alt": [
-      "Placa con formato de post de X de @trackearpro: Lo que se aprende cerrando la caja de una financiera todos los días, sin ningún orden:",
-      "Placa con formato de post de X de @trackearpro: Que la caja cierre no quiere decir que el día haya dado bien.",
-      "Placa con formato de post de X de @trackearpro: Lo pendiente no es pérdida. Es plata a cobrar, con su vencimiento.",
-      "Placa con formato de post de X de @trackearpro: Si un socio pone plata, no ganaste. Si la saca, no perdiste.",
-      "Placa con formato de post de X de @trackearpro: Un cheque en cartera no es plata disponible hasta que se acredita.",
-      "Placa con formato de post de X de @trackearpro: Y que la ganancia del día se saca en dólares, contra la foto de las 00:00. Para eso está TrackeAR Pro: probalo 7 días gratis. Con una foto de billetes, una libreta y una calculadora."
+      "Carrusel de TrackeAR Pro, serie La cuenta bien hecha N° 9, fondo claro. Título: Planilla nueva: el primer día “ganaste” todo lo que tenías. Debajo: Lo que ya tenías no lo ganaste hoy.",
+      "Esto es lo que ya tenías al arrancar. Tabla: pesos, 41.930.650 a 1.550, US$ 27.052,03; dólares, US$ 128.417,00; te deben, más US$ 36.882,16; debés, menos US$ 9.214,55; patrimonio al arrancar, US$ 183.136,64. Datos de ejemplo.",
+      "Si la planilla arranca en cero, todo eso entra como ganancia. A la noche, la planilla dice: ganaste US$ 184.702,15. Es todo lo que tenés, no lo que ganaste. Datos de ejemplo.",
+      "La ganancia se mide contra un punto de partida. Los saldos con los que arrancás son ese punto de partida. No son ganancia.",
+      "El primer día, bien hecho. Tabla: patrimonio al arrancar, US$ 183.136,64; patrimonio a la noche, US$ 184.702,15; ganancia del primer día, más US$ 1.565,51. Datos de ejemplo.",
+      "En TrackeAR Pro, cargás los saldos con los que arrancás. A mano o con las plantillas de Excel. Tu patrimonio da bien desde el primer día, y esos saldos no cuentan como ganancia. El primer mes se mide desde la primera foto de las 00:00.",
+      "Lo que ya tenías es el punto de partida. No es ganancia. Fórmula: ganancia igual a patrimonio ahora, menos la foto de las 00:00, menos aportes, más retiros. El primer día, los saldos con los que arrancás tampoco cuentan. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
     "estado": "aprobado",
     "resultado": null,
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-05_xpost-lo-que-se-aprende"
+    "origen": "2026-10-07/feed-extra/2026-11-04_saldo-de-arranque"
   },
   {
-    "id": "2026-11-05_h4",
-    "fecha_hora": "2026-11-05T08:40:00-03:00",
+    "id": "2026-11-04_h1",
+    "fecha_hora": "2026-11-04T20:40:00-03:00",
     "tipo": "historia",
     "archivos": [
-      "media/2026-11-05_h4/historia.jpg"
+      "media/2026-11-04_h1/historia.jpg"
     ],
     "pie": "",
     "alt": "",
@@ -2301,9 +2294,9 @@
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
-    "orden": 4,
+    "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-05_xpost-lo-que-se-aprende"
+    "depende_de": "2026-11-04_saldo-de-arranque"
   },
   {
     "id": "2026-11-05_h3",

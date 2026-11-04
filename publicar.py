@@ -45,7 +45,9 @@ VERSION = os.environ.get("IG_API_VERSION", "v23.0").strip() or "v23.0"
 API = f"https://graph.instagram.com/{VERSION}"
 MAX_INTENTOS_POR_PIEZA = 3          # corridas que se reintenta antes de quedar en "error"
 ESPERA_REINTENTO = (5, 20, 60)      # segundos entre reintentos dentro de una misma llamada
-CODIGOS_TRANSITORIOS = {1, 2, 4, 17, 32, 341, 368, 613, -1, -2}
+CODIGOS_TRANSITORIOS = {1, 2, 4, 17, 32, 341, 368, 613, 9007, -1, -2}
+SUBCODIGOS_TRANSITORIOS = {2207006, 2207027}   # "media cannot be found" y "not ready": Instagram tarda en verla
+ESPERA_PUBLICAR = (20, 60, 120, 180)   # media_publish: un contenedor FINISHED a veces tarda en poder publicarse
 VIDEOS = (".mp4", ".mov")
 
 
@@ -65,12 +67,12 @@ class Instagram:
         self.token = token
         self.user = user_id
 
-    def llamar(self, metodo, ruta, datos=None, reintentar=True, antes_de_reintentar=None):
+    def llamar(self, metodo, ruta, datos=None, reintentar=True, antes_de_reintentar=None, esperas=ESPERA_REINTENTO):
         """GET/POST a graph.instagram.com con reintentos. Nunca muestra el token."""
         url = f"{API}/{ruta.lstrip('/')}"
         datos = dict(datos or {})
         datos["access_token"] = self.token
-        esperas = list(ESPERA_REINTENTO) if reintentar else []
+        esperas = list(esperas) if reintentar else []
         while True:
             try:
                 if metodo == "GET":
@@ -85,9 +87,10 @@ class Instagram:
                     return cuerpo
                 err = cuerpo.get("error", {}) if isinstance(cuerpo, dict) else {}
                 codigo = err.get("code")
-                msj = err.get("error_user_msg") or err.get("message") or resp.text[:300]
                 sub = err.get("error_subcode")
-                transitorio = resp.status_code >= 500 or codigo in CODIGOS_TRANSITORIOS or bool(err.get("is_transient"))
+                msj = err.get("error_user_msg") or err.get("message") or resp.text[:300]
+                transitorio = (resp.status_code >= 500 or codigo in CODIGOS_TRANSITORIOS or sub in SUBCODIGOS_TRANSITORIOS
+                               or bool(err.get("is_transient")))
                 fallo = ErrorAPI(f"Instagram respondió {resp.status_code}: {msj}"
                                  + (f" (código {codigo}" + (f"/{sub}" if sub else "") + ")" if codigo else ""),
                                  transitorio, codigo)
@@ -317,7 +320,7 @@ def publicar_pieza(ig, base, pieza, al_crear=None):
         return ig.contenedor_publicado(cont) or (None if tipo == "historia" else ig.ya_publicada(pieza))
 
     publicado = ig.llamar("POST", f"{ig.user}/media_publish", {"creation_id": cont},
-                          antes_de_reintentar=ya_salio)
+                          antes_de_reintentar=ya_salio, esperas=ESPERA_PUBLICAR)
     media_id = publicado.get("id")
     permalink = publicado.get("permalink")
     if not permalink and media_id:

@@ -74,9 +74,9 @@ jobs:
           if [ "$SOLO_PROBAR" = "1" ]; then
             python publicar.py --solo-probar
           else
-            # --seguir 90: si después de publicar hay algo aprobado dentro de 90 min (historias de las 20:35,
-            # 20:40…), espera y lo publica en esta misma corrida.
-            python publicar.py --seguir 90
+            # --seguir 180: si después de publicar hay algo aprobado dentro de 180 min (el cron corre cada 3 a 5 h,
+            # así que esperar acá evita atrasos), espera y lo publica en esta misma corrida.
+            python publicar.py --seguir 180
           fi
 
       - name: Guardar cola.json en el repo
