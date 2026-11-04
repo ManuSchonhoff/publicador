@@ -2316,10 +2316,13 @@
       "En TrackeAR Pro, cargás los saldos con los que arrancás. A mano o con las plantillas de Excel. Tu patrimonio da bien desde el primer día, y esos saldos no cuentan como ganancia. El primer mes se mide desde la primera foto de las 00:00.",
       "Lo que ya tenías es el punto de partida. No es ganancia. Fórmula: ganancia igual a patrimonio ahora, menos la foto de las 00:00, menos aportes, más retiros. El primer día, los saldos con los que arrancás tampoco cuentan. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "Instagram respondió 400: The media could not be fetched from this URI: https://raw.githubusercontent.com/ManuSchonhoff/publicador/349672973928a3392334a222c0a71b2f712f602a/media/2026-11-04_saldo-de-arranque/p04.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating (código 9004/2207052)",
+      "cuando": "2026-11-04T20:30:45-03:00"
+    },
     "portada": null,
-    "intentos": 0,
+    "intentos": 1,
     "origen": "2026-10-07/feed-extra/2026-11-04_saldo-de-arranque"
   },
   {
@@ -2331,8 +2334,11 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: el posteo que anuncia ('2026-11-04_saldo-de-arranque') está en error",
+      "cuando": "2026-11-04T20:40:20-03:00"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
