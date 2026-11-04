@@ -2257,11 +2257,17 @@
       "En Resultados ves de dónde sale la ganancia: comisiones, intereses, gastos, faltantes y sobrantes. Resultados por mes, y la actividad por tipo y por cliente contra el período anterior.",
       "El mes, día por día, en tres renglones: 1, un mes malo se arma de a un día. 2, la ganancia del día, contra la foto de las 00:00, la ves ese mismo día. 3, la del mes sale de la misma cuenta, contra la foto del 1° a las 00:00. Comentá GANANCIA y te mostramos la app. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18016768037960639",
+      "permalink": "https://www.instagram.com/p/DfVGvtIiSN0/",
+      "publicado_en": "2026-11-04T15:31:02-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-04_el-mes-dia-por-dia"
+    "origen": "2026-10-07/feed-extra/2026-11-04_el-mes-dia-por-dia",
+    "contenedor": "17910728496665550"
   },
   {
     "id": "2026-11-04_h2",
@@ -2272,14 +2278,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17924516298439250",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4023156261968785909",
+      "publicado_en": "2026-11-04T15:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-04_el-mes-dia-por-dia"
+    "depende_de": "2026-11-04_el-mes-dia-por-dia",
+    "contenedor": "17910729504665550"
   },
   {
     "id": "2026-11-04_saldo-de-arranque",
