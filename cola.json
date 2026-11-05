@@ -2517,11 +2517,17 @@
       "Lista, esto sí necesita internet: anular una operación, editarla, mover plata entre cajas. El modo sin conexión está en beta.",
       "Tres clientes atendidos y nada para volver a cargar. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18351028132285537",
+      "permalink": "https://www.instagram.com/p/DfXr0oHmclg/",
+      "publicado_en": "2026-11-05T15:33:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-05_se-corto-internet"
+    "origen": "2026-10-07/feed-extra/2026-11-05_se-corto-internet",
+    "contenedor": "17910902733665550"
   },
   {
     "id": "2026-11-05_h2",
@@ -2532,14 +2538,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18136421137780227",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4023881037667483543",
+      "publicado_en": "2026-11-05T15:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-05_se-corto-internet"
+    "depende_de": "2026-11-05_se-corto-internet",
+    "contenedor": "17910903837665550"
   },
   {
     "id": "2026-11-05_h8",
@@ -2550,14 +2562,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18109650329359947",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4023951507098511757",
+      "publicado_en": "2026-11-05T18:00:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 8,
     "texto": "",
-    "depende_de": "2026-11-05_viral-la-caja-subio"
+    "depende_de": "2026-11-05_viral-la-caja-subio",
+    "contenedor": "17910921810665550"
   },
   {
     "id": "2026-11-05_viral-cu-de-donde-sale",
@@ -2586,11 +2604,17 @@
       "¿Sabés qué te dejó más este mes? Sí, lo tengo No, lo saco a ojo Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18078415046445112",
+      "permalink": "https://www.instagram.com/p/DfYN4n7D0M2/",
+      "publicado_en": "2026-11-05T20:31:14-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-05_viral-cu-de-donde-sale"
+    "origen": "2026-10-07/feed-extra/2026-11-05_viral-cu-de-donde-sale",
+    "contenedor": "17910935436665550"
   },
   {
     "id": "2026-11-05_h7",
@@ -2601,14 +2625,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18413385661088437",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4024032031604849194",
+      "publicado_en": "2026-11-05T20:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-05_viral-cu-de-donde-sale"
+    "depende_de": "2026-11-05_viral-cu-de-donde-sale",
+    "contenedor": "17910936114665550"
   },
   {
     "id": "2026-11-06_viral-mo-depende-de-uno",
