@@ -2373,11 +2373,17 @@
       "¿Tu planilla te hubiera mostrado esto? US$ 0,00 Ganancia del día. Datos de ejemplo. Sí, la tengo clara No, y me pasa Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. Y si querés que la cuenta se haga sola, probá TrackeAR Pro. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17975965407149427",
+      "permalink": "https://www.instagram.com/p/DfW7eLlFX6c/",
+      "publicado_en": "2026-11-05T08:31:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-05_viral-la-caja-subio"
+    "origen": "2026-10-07/feed-extra/2026-11-05_viral-la-caja-subio",
+    "contenedor": "17910841995665550"
   },
   {
     "id": "2026-11-05_h5",
@@ -2388,14 +2394,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17970681150172957",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4023669639443998763",
+      "publicado_en": "2026-11-05T08:40:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-05_viral-la-caja-subio"
+    "depende_de": "2026-11-05_viral-la-caja-subio",
+    "contenedor": "17910843516665550"
   },
   {
     "id": "2026-11-05_h3",
@@ -2406,14 +2418,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17898306867414321",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4023709905366381647",
+      "publicado_en": "2026-11-05T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 3,
     "texto": "Seguridad\nTus datos, separados de cualquier otra financiera por la base de datos misma.",
-    "fuente": "2026-10-07/disenos/destacadas/seguridad_02.html"
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_02.html",
+    "contenedor": "17910853005665550"
   },
   {
     "id": "2026-11-05_xpost-mentiras-de-la-planilla",
@@ -2438,11 +2456,17 @@
       "Placa con formato de post de X de @trackearpro: “Ganamos.”",
       "Placa con formato de post de X de @trackearpro: ¿Cuál te creíste alguna vez? Contalo en los comentarios. Y probá TrackeAR Pro 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17916059028501097",
+      "permalink": "https://www.instagram.com/p/DfXMnUxlZ24/",
+      "publicado_en": "2026-11-05T11:00:51-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-05_xpost-mentiras-de-la-planilla"
+    "origen": "2026-10-07/feed-extra/2026-11-05_xpost-mentiras-de-la-planilla",
+    "contenedor": "17910863058665550"
   },
   {
     "id": "2026-11-05_h6",
@@ -2453,14 +2477,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18111240961935179",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4023745136957950017",
+      "publicado_en": "2026-11-05T11:10:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-05_xpost-mentiras-de-la-planilla"
+    "depende_de": "2026-11-05_xpost-mentiras-de-la-planilla",
+    "contenedor": "17910863772665550"
   },
   {
     "id": "2026-11-05_se-corto-internet",

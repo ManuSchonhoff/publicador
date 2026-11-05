@@ -92,3 +92,8 @@
 2026-11-04 15:40 · 2026-11-04_h2 · historia · PUBLICADA · https://www.instagram.com/stories/trackearpro/4023156261968785909 · publicada por el publicador
 2026-11-04 20:30 · 2026-11-04_saldo-de-arranque · carrusel · ERROR · Instagram respondió 400: The media could not be fetched from this URI: https://raw.githubusercontent.com/ManuSchonhoff/publicador/349672973928a3392334a222c0a71b2f712f602a/media/2026-11-04_saldo-de-arranque/p04.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating (código 9004/2207052)
 2026-11-04 20:40 · 2026-11-04_h1 · historia · ERROR · no se publicó: el posteo que anuncia ('2026-11-04_saldo-de-arranque') está en error
+2026-11-05 08:31 · 2026-11-05_viral-la-caja-subio · carrusel · PUBLICADA · https://www.instagram.com/p/DfW7eLlFX6c/ · publicada por el publicador
+2026-11-05 08:40 · 2026-11-05_h5 · historia · PUBLICADA · https://www.instagram.com/stories/trackearpro/4023669639443998763 · publicada por el publicador
+2026-11-05 10:00 · 2026-11-05_h3 · historia · PUBLICADA · https://www.instagram.com/stories/trackearpro/4023709905366381647 · publicada por el publicador
+2026-11-05 11:00 · 2026-11-05_xpost-mentiras-de-la-planilla · carrusel · PUBLICADA · https://www.instagram.com/p/DfXMnUxlZ24/ · publicada por el publicador
+2026-11-05 11:10 · 2026-11-05_h6 · historia · PUBLICADA · https://www.instagram.com/stories/trackearpro/4023745136957950017 · publicada por el publicador
