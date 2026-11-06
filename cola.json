@@ -2667,11 +2667,17 @@
       "¿Tu cierre sale si esa persona falta? Sí, sale igual No, se frena todo Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18000211176012072",
+      "permalink": "https://www.instagram.com/p/DfZgbQpINOJ/",
+      "publicado_en": "2026-11-06T08:32:28-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-06_viral-mo-depende-de-uno"
+    "origen": "2026-10-07/feed-extra/2026-11-06_viral-mo-depende-de-uno",
+    "contenedor": "17911011873665550"
   },
   {
     "id": "2026-11-06_h4",
@@ -2682,14 +2688,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18112769117628358",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4024394420125205282",
+      "publicado_en": "2026-11-06T08:40:26-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-06_viral-mo-depende-de-uno"
+    "depende_de": "2026-11-06_viral-mo-depende-de-uno",
+    "contenedor": "17911012776665550"
   },
   {
     "id": "2026-11-06_h3",
@@ -2700,14 +2712,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18096107612163927",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4024434685435190915",
+      "publicado_en": "2026-11-06T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 3,
     "texto": "Preguntas\n¿Me ayudan a ponerla en marcha?\nSí. Entendemos tu operatoria, dejamos configuradas con vos las cajas, monedas, cotizaciones y roles, y capacitamos al equipo. Los primeros días estamos al lado.",
-    "fuente": "2026-10-07/disenos/destacadas/preguntas_05.html"
+    "fuente": "2026-10-07/disenos/destacadas/preguntas_05.html",
+    "contenedor": "17911026165665550"
   },
   {
     "id": "2026-11-06_xpost-le-quedo-chica",
@@ -2734,11 +2752,17 @@
       "Placa con formato de post de X de @trackearpro: La ganancia la sabés a fin de mes. Si la sabés.",
       "Placa con formato de post de X de @trackearpro: ¿Cuántas tenés? Contestá con un número. Y probá TrackeAR Pro 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18185394142440737",
+      "permalink": "https://www.instagram.com/p/DfZxbdbIBKa/",
+      "publicado_en": "2026-11-06T11:01:02-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-06_xpost-le-quedo-chica"
+    "origen": "2026-10-07/feed-extra/2026-11-06_xpost-le-quedo-chica",
+    "contenedor": "17911036167665550"
   },
   {
     "id": "2026-11-06_h5",
@@ -2749,14 +2773,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18356804056217104",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4024469914350782105",
+      "publicado_en": "2026-11-06T11:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-06_xpost-le-quedo-chica"
+    "depende_de": "2026-11-06_xpost-le-quedo-chica",
+    "contenedor": "17911037895665550"
   },
   {
     "id": "2026-11-06_llamas-al-local",
