@@ -2811,11 +2811,17 @@
       "5. Si una cotización quedó vieja. Por moneda elegís la cotización: automática a mercado o fijada a mano. Si quedó vieja, la app te avisa.",
       "Sin llamar al local, en cinco renglones: cuánto ganaste hasta ahora; cuánto hay en cada moneda; lo que vence hoy; lo que carga cada cajero; si una cotización quedó vieja. En el navegador del celular, sin instalar nada. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18155906050584089",
+      "permalink": "https://www.instagram.com/p/DfaQVajEYqo/",
+      "publicado_en": "2026-11-06T15:31:24-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-06_llamas-al-local"
+    "origen": "2026-10-07/feed-extra/2026-11-06_llamas-al-local",
+    "contenedor": "17911083561665550"
   },
   {
     "id": "2026-11-06_h2",
@@ -2826,14 +2832,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18365052217220549",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4024605815370112600",
+      "publicado_en": "2026-11-06T15:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-06_llamas-al-local"
+    "depende_de": "2026-11-06_llamas-al-local",
+    "contenedor": "17911084773665550"
   },
   {
     "id": "2026-11-06_h6",
@@ -2844,14 +2856,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18450965230132292",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4024676278117009178",
+      "publicado_en": "2026-11-06T18:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-06_viral-mo-depende-de-uno"
+    "depende_de": "2026-11-06_viral-mo-depende-de-uno",
+    "contenedor": "17911100862665550"
   },
   {
     "id": "2026-11-06_cliente-cargado-dos-veces",
@@ -2878,11 +2896,17 @@
       "Si dos clientes se llaman igual, los buscás por CUIT. Escribís el CUIT y aparece el que buscás, no el otro.",
       "Clientes duplicados, en tres renglones: 1, TrackeAR Pro te sugiere los posibles duplicados. 2, se unen solo si vos lo decidís. 3, lo encontrás aunque lo escribas mal, o por CUIT. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18138604309655062",
+      "permalink": "https://www.instagram.com/p/Dfayqu7EUuz/",
+      "publicado_en": "2026-11-06T20:31:07-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-06_cliente-cargado-dos-veces"
+    "origen": "2026-10-07/feed-extra/2026-11-06_cliente-cargado-dos-veces",
+    "contenedor": "17911114260665550"
   },
   {
     "id": "2026-11-06_h1",
@@ -2893,14 +2917,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17938605936165515",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4024756808870620156",
+      "publicado_en": "2026-11-06T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-06_cliente-cargado-dos-veces"
+    "depende_de": "2026-11-06_cliente-cargado-dos-veces",
+    "contenedor": "17911115292665550"
   },
   {
     "id": "2026-11-07_viral-cu-cotizacion",
