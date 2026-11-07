@@ -3184,11 +3184,17 @@
       "¿Arquean cuando cambia el turno? Sí, siempre No, al cierre y listo Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu encargado. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18082355873741578",
+      "permalink": "https://www.instagram.com/p/DfdXeexkVyS/",
+      "publicado_en": "2026-11-07T20:31:15-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-07_viral-mo-cambio-de-turno"
+    "origen": "2026-10-07/feed-extra/2026-11-07_viral-mo-cambio-de-turno",
+    "contenedor": "17911303515665550"
   },
   {
     "id": "2026-11-07_h6",
@@ -3199,14 +3205,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18099646883393927",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025481584249492767",
+      "publicado_en": "2026-11-07T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-07_viral-mo-cambio-de-turno"
+    "depende_de": "2026-11-07_viral-mo-cambio-de-turno",
+    "contenedor": "17911304382665550"
   },
   {
     "id": "2026-11-08_viral-ch-entrega-parcial",
