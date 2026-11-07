@@ -2959,11 +2959,17 @@
       "¿En tu casa todos valúan la caja igual? Sí, una sola cotización No, cada uno la suya Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil Y mirá tu patrimonio en dólares, todo el día."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17995671177050533",
+      "permalink": "https://www.instagram.com/p/DfcFF3hlfrm/",
+      "publicado_en": "2026-11-07T08:31:22-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-07_viral-cu-cotizacion"
+    "origen": "2026-10-07/feed-extra/2026-11-07_viral-cu-cotizacion",
+    "contenedor": "17911194996665550"
   },
   {
     "id": "2026-11-07_h5",
@@ -2974,14 +2980,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18208592833374441",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025119193548797041",
+      "publicado_en": "2026-11-07T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-07_viral-cu-cotizacion"
+    "depende_de": "2026-11-07_viral-cu-cotizacion",
+    "contenedor": "17911195791665550"
   },
   {
     "id": "2026-11-07_h3",
@@ -2992,14 +3004,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18101914355453407",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025159457248163799",
+      "publicado_en": "2026-11-07T10:00:29-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/historias/png",
     "orden": 3,
     "texto": "¿Lo querés ver con tus números?\nEscribinos por mensaje directo y te lo mostramos.",
-    "fuente": "2026-10-07/disenos/historias/pedido-demo.html"
+    "fuente": "2026-10-07/disenos/historias/pedido-demo.html",
+    "contenedor": "17911208151665550"
   },
   {
     "id": "2026-11-07_xpost-errores-de-la-planilla",
@@ -3022,11 +3040,17 @@
       "Placa con formato de post de X de @trackearpro: Pasar las monedas a dólares con una cotización distinta cada vez.",
       "Placa con formato de post de X de @trackearpro: Que la planilla cierre no quiere decir que esté bien. TrackeAR Pro hace la cuenta sola: probalo 7 días gratis."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17956000788274335",
+      "permalink": "https://www.instagram.com/p/DfcWM1yFL-h/",
+      "publicado_en": "2026-11-07T11:00:49-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-07_xpost-errores-de-la-planilla"
+    "origen": "2026-10-07/feed-extra/2026-11-07_xpost-errores-de-la-planilla",
+    "contenedor": "17911220934665550"
   },
   {
     "id": "2026-11-07_h4",
@@ -3037,14 +3061,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17967610859982699",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025194691381441616",
+      "publicado_en": "2026-11-07T11:10:29-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-07_xpost-errores-de-la-planilla"
+    "depende_de": "2026-11-07_xpost-errores-de-la-planilla",
+    "contenedor": "17911221897665550"
   },
   {
     "id": "2026-11-07_frases-del-cierre",
