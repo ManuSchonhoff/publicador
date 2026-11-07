@@ -3097,11 +3097,17 @@
       "Burbuja: Saqué para un gasto. Después lo anoto. Respuesta: el gasto se carga como una operación más, con su categoría. Y en Resultados lo ves junto a comisiones, intereses, faltantes y sobrantes.",
       "Lo que se carga cuando pasa no queda para el cierre. Mandáselo a tu socio. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17942040612401492",
+      "permalink": "https://www.instagram.com/p/Dfc1IMFnTVX/",
+      "publicado_en": "2026-11-07T15:31:05-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-07_frases-del-cierre"
+    "origen": "2026-10-07/feed-extra/2026-11-07_frases-del-cierre",
+    "contenedor": "17911267893665550"
   },
   {
     "id": "2026-11-07_h2",
@@ -3112,14 +3118,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18096031388168682",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025330589222055668",
+      "publicado_en": "2026-11-07T15:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-07_frases-del-cierre"
+    "depende_de": "2026-11-07_frases-del-cierre",
+    "contenedor": "17911269027665550"
   },
   {
     "id": "2026-11-07_h7",
@@ -3130,14 +3142,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18194394400394525",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025401056614798417",
+      "publicado_en": "2026-11-07T18:00:29-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-07_viral-cu-cotizacion"
+    "depende_de": "2026-11-07_viral-cu-cotizacion",
+    "contenedor": "17911287573665550"
   },
   {
     "id": "2026-11-07_viral-mo-cambio-de-turno",
