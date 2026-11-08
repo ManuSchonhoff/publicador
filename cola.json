@@ -3470,11 +3470,17 @@
       "Ponelo al lado de lo que anotaste como ganancia de ayer. Si ayer un socio puso plata, restala; si sacó, sumala: la calculadora no cuenta aportes ni retiros. Si da lo mismo, seguí con la planilla. Si da distinto, ahí hay algo para mirar.",
       "Con Excel ando bien, la prueba en tres renglones: sacá de la planilla los números del cierre de ayer; hacé la cuenta en la calculadora de la web; si da distinto, ahí hay algo para mirar. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18118762655600057",
+      "permalink": "https://www.instagram.com/p/Dff9pCIlaU5/",
+      "publicado_en": "2026-11-08T20:43:12-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-08_con-excel-ando-bien"
+    "origen": "2026-10-07/feed-extra/2026-11-08_con-excel-ando-bien",
+    "contenedor": "17911539549665550"
   },
   {
     "id": "2026-11-08_h4",
@@ -3485,14 +3491,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18118320542082763",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026207804222459014",
+      "publicado_en": "2026-11-08T20:43:22-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-08_con-excel-ando-bien"
+    "depende_de": "2026-11-08_con-excel-ando-bien",
+    "contenedor": "17911539597665550"
   },
   {
     "id": "2026-11-09_viral-mo-otro-local",
