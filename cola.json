@@ -3247,11 +3247,17 @@
       "¿Te pasó de entregar de más o de menos? Sí, me pasó No, nunca Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17877802398650700",
+      "permalink": "https://www.instagram.com/p/Dfep3PCFkQ0/",
+      "publicado_en": "2026-11-08T08:31:08-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-08_viral-ch-entrega-parcial"
+    "origen": "2026-10-07/feed-extra/2026-11-08_viral-ch-entrega-parcial",
+    "contenedor": "17911402092665550"
   },
   {
     "id": "2026-11-08_h5",
@@ -3262,14 +3268,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17959003836021754",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025843971167535131",
+      "publicado_en": "2026-11-08T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-08_viral-ch-entrega-parcial"
+    "depende_de": "2026-11-08_viral-ch-entrega-parcial",
+    "contenedor": "17911404129665550"
   },
   {
     "id": "2026-11-08_h3",
@@ -3280,14 +3292,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18126580633934800",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025884233994475177",
+      "publicado_en": "2026-11-08T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 3,
     "texto": "La planilla te dice cuánta plata hay.\nNo cuánto ganaste.",
-    "fuente": "2026-10-07/disenos/destacadas/la-cuenta_01.html"
+    "fuente": "2026-10-07/disenos/destacadas/la-cuenta_01.html",
+    "contenedor": "17911416012665550"
   },
   {
     "id": "2026-11-08_xpost-tres-numeros",
@@ -3312,11 +3330,17 @@
       "Placa con formato de post de X de @trackearpro: ¿Los sabés hoy sin abrir la planilla? Sí o no, en los comentarios.",
       "Placa con formato de post de X de @trackearpro: En TrackeAR Pro, el patrimonio, la ganancia y lo que requiere atención están en la primera pantalla. Probalo 7 días gratis."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18116529386464838",
+      "permalink": "https://www.instagram.com/p/Dfe7Aa2lmtj/",
+      "publicado_en": "2026-11-08T11:00:56-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-08_xpost-tres-numeros"
+    "origen": "2026-10-07/feed-extra/2026-11-08_xpost-tres-numeros",
+    "contenedor": "17911427376665550"
   },
   {
     "id": "2026-11-08_h6",
@@ -3327,14 +3351,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18077122622583463",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4025919464318872753",
+      "publicado_en": "2026-11-08T11:10:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-08_xpost-tres-numeros"
+    "depende_de": "2026-11-08_xpost-tres-numeros",
+    "contenedor": "17911428771665550"
   },
   {
     "id": "2026-11-08_nadie-vea-mis-numeros",
