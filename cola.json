@@ -3387,11 +3387,17 @@
       "Otra financiera no ve nada tuyo. Cada una está separada de las demás por la base de datos misma. Y la documentación de tus clientes queda visible solo para tu equipo.",
       "Tus números, en cuatro renglones: cada uno ve y hace lo de su rol; el cajero edita solo si lo activa el propietario; segundo factor, si lo exigís; otra financiera no ve nada tuyo. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18180856645396252",
+      "permalink": "https://www.instagram.com/p/DffZ60-GCH6/",
+      "publicado_en": "2026-11-08T15:31:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-08_nadie-vea-mis-numeros"
+    "origen": "2026-10-07/feed-extra/2026-11-08_nadie-vea-mis-numeros",
+    "contenedor": "17911478433665550"
   },
   {
     "id": "2026-11-08_h2",
@@ -3402,14 +3408,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18424044289158856",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026055367947989947",
+      "publicado_en": "2026-11-08T15:40:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-08_nadie-vea-mis-numeros"
+    "depende_de": "2026-11-08_nadie-vea-mis-numeros",
+    "contenedor": "17911479375665550"
   },
   {
     "id": "2026-11-08_h7",
@@ -3420,14 +3432,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18109301135260417",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026125831137996053",
+      "publicado_en": "2026-11-08T18:00:27-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-08_viral-ch-entrega-parcial"
+    "depende_de": "2026-11-08_viral-ch-entrega-parcial",
+    "contenedor": "17911525893665550"
   },
   {
     "id": "2026-11-08_con-excel-ando-bien",
