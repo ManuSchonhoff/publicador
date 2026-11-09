@@ -3533,11 +3533,17 @@
       "¿Sabés el total de tu casa sin llamar a nadie? Sí, lo veo No, llamo a cada local Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18042201773842083",
+      "permalink": "https://www.instagram.com/p/DfhOqwhliGc/",
+      "publicado_en": "2026-11-09T08:31:08-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-09_viral-mo-otro-local"
+    "origen": "2026-10-07/feed-extra/2026-11-09_viral-mo-otro-local",
+    "contenedor": "17911618809665550"
   },
   {
     "id": "2026-11-09_h6",
@@ -3548,14 +3554,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17936142561148161",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026568747159092501",
+      "publicado_en": "2026-11-09T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-09_viral-mo-otro-local"
+    "depende_de": "2026-11-09_viral-mo-otro-local",
+    "contenedor": "17911620582665550"
   },
   {
     "id": "2026-11-09_h3",
@@ -3566,14 +3578,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17915512731283906",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026609011336013192",
+      "publicado_en": "2026-11-09T10:00:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/destacadas/png",
     "orden": 3,
     "texto": "Seguridad\nCopias de tu organización a las 21:40, 00:40 y 06:40, si hubo cambios. Las descargás en Excel o JSON.",
-    "fuente": "2026-10-07/disenos/destacadas/seguridad_07.html"
+    "fuente": "2026-10-07/disenos/destacadas/seguridad_07.html",
+    "contenedor": "17911631628665550"
   },
   {
     "id": "2026-11-09_xpost-reglas-de-caja",
@@ -3600,11 +3618,17 @@
       "Placa con formato de post de X de @trackearpro: Lo pendiente se anota el día que pasa. No cuando alguien se acuerda.",
       "Placa con formato de post de X de @trackearpro: ¿Cuál falta en tu casa? Contalo en los comentarios. En TrackeAR Pro ya vienen así: probalo 7 días gratis."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18650501017026335",
+      "permalink": "https://www.instagram.com/p/Dfhf0HskYKU/",
+      "publicado_en": "2026-11-09T11:01:03-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-09_xpost-reglas-de-caja"
+    "origen": "2026-10-07/feed-extra/2026-11-09_xpost-reglas-de-caja",
+    "contenedor": "17911641465665550"
   },
   {
     "id": "2026-11-09_h7",
@@ -3615,14 +3639,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17949003789085729",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026644242231320621",
+      "publicado_en": "2026-11-09T11:10:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-09_xpost-reglas-de-caja"
+    "depende_de": "2026-11-09_xpost-reglas-de-caja",
+    "contenedor": "17911643040665550"
   },
   {
     "id": "2026-11-09_todo-en-una-compu",
