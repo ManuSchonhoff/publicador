@@ -3675,11 +3675,17 @@
       "Tres copias por día, sin que nadie se acuerde. A las 21:40, a las 00:40 y a las 06:40 se guarda una copia de tu organización, si hubo cambios. La descargás en Excel o JSON.",
       "Si mañana no prende: uno, entrás desde otra compu o desde el celular; dos, lo que cargó el cajero aparece en segundos; tres, copias a las 21:40, 00:40 y 06:40, si hubo cambios. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18396134572162400",
+      "permalink": "https://www.instagram.com/p/DfiR5-6mCG_/",
+      "publicado_en": "2026-11-09T18:18:46-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-09_todo-en-una-compu"
+    "origen": "2026-10-07/feed-extra/2026-11-09_todo-en-una-compu",
+    "contenedor": "17911710924665550"
   },
   {
     "id": "2026-11-09_h4",
@@ -3690,14 +3696,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18360459985220420",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026859888706063614",
+      "publicado_en": "2026-11-09T18:18:58-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-09_todo-en-una-compu"
+    "depende_de": "2026-11-09_todo-en-una-compu",
+    "contenedor": "17911710954665550"
   },
   {
     "id": "2026-11-09_h9",
@@ -3708,14 +3720,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18018213503749305",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026859987658085984",
+      "publicado_en": "2026-11-09T18:19:05-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 9,
     "texto": "",
-    "depende_de": "2026-11-09_viral-mo-otro-local"
+    "depende_de": "2026-11-09_viral-mo-otro-local",
+    "contenedor": "17911711002665550"
   },
   {
     "id": "2026-11-09_viral-ch-mis-cajeros",
@@ -3744,11 +3762,17 @@
       "¿Tus cajeros se animarían a probarlo? Sí, sin problema Los tendría que convencer Contestá en los comentarios.",
       "Probalo 7 días gratis. Link en el perfil Y te explicamos qué usa cada uno del equipo."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17985282474066628",
+      "permalink": "https://www.instagram.com/p/DfihDxvDoVH/",
+      "publicado_en": "2026-11-09T20:31:11-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-09_viral-ch-mis-cajeros"
+    "origen": "2026-10-07/feed-extra/2026-11-09_viral-ch-mis-cajeros",
+    "contenedor": "17911728963665550"
   },
   {
     "id": "2026-11-09_h8",
@@ -3759,14 +3783,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18066671738535226",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4026931131215408975",
+      "publicado_en": "2026-11-09T20:40:46-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 8,
     "texto": "",
-    "depende_de": "2026-11-09_viral-ch-mis-cajeros"
+    "depende_de": "2026-11-09_viral-ch-mis-cajeros",
+    "contenedor": "17911729662665550"
   },
   {
     "id": "2026-11-10_viral-cu-foto",
