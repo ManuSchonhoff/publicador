@@ -3971,11 +3971,17 @@
       "¿Y qué le mando al cliente? En el detalle de la operación tenés un texto listo para copiarle.",
       "Las seis respuestas, en corto: un monto y la cotización, el otro lado sale solo; comisión retenida o como recargo; las de todos los días, a un toque; buscás por número o con filtros; Enter, Control más Enter y la tecla N; un texto listo para copiarle al cliente. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17964990393237550",
+      "permalink": "https://www.instagram.com/p/DfkmIMyFLmh/",
+      "publicado_en": "2026-11-10T15:53:56-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-10_preguntas-del-mostrador"
+    "origen": "2026-10-07/feed-extra/2026-11-10_preguntas-del-mostrador",
+    "contenedor": "17911907055665550"
   },
   {
     "id": "2026-11-10_h2",
@@ -3986,14 +3992,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18146757265588776",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4027511760378692125",
+      "publicado_en": "2026-11-10T15:54:06-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-10_preguntas-del-mostrador"
+    "depende_de": "2026-11-10_preguntas-del-mostrador",
+    "contenedor": "17911907136665550"
   },
   {
     "id": "2026-11-10_h6",
@@ -4004,14 +4016,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18143351932621029",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4027575380630329039",
+      "publicado_en": "2026-11-10T18:00:46-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-10_viral-cu-foto"
+    "depende_de": "2026-11-10_viral-cu-foto",
+    "contenedor": "17911919817665550"
   },
   {
     "id": "2026-11-10_extracto-del-banco",
@@ -4036,11 +4054,17 @@
       "¿Y las facturas? No hace factura electrónica. Las facturas a tus clientes las seguís emitiendo como hoy.",
       "El banco, en tres renglones: cada cuenta de banco, una caja con su saldo; el extracto lo importás en un archivo CSV; lo que coincide en importe y fecha se concilia con un toque. Guardalo para el cierre. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18138143389633765",
+      "permalink": "https://www.instagram.com/p/DflF1fKFiyI/",
+      "publicado_en": "2026-11-10T20:31:01-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-10_extracto-del-banco"
+    "origen": "2026-10-07/feed-extra/2026-11-10_extracto-del-banco",
+    "contenedor": "17911942224665550"
   },
   {
     "id": "2026-11-10_h1",
@@ -4051,14 +4075,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18648650119050093",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4027655911804118157",
+      "publicado_en": "2026-11-10T20:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-10_extracto-del-banco"
+    "depende_de": "2026-11-10_extracto-del-banco",
+    "contenedor": "17911943493665550"
   },
   {
     "id": "2026-11-11_viral-ch-rechazado",
