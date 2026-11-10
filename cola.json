@@ -3825,11 +3825,17 @@
       "¿Sabés con cuánto arrancaste hoy, en dólares? Sí, al centavo No, lo saco a fin de mes Contestá SÍ o NO en los comentarios. Para el mes, la foto es la del 1° a las 00:00.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil La foto la saca TrackeAR Pro, todos los días."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17960958279260198",
+      "permalink": "https://www.instagram.com/p/Dfj1j6HlvN2/",
+      "publicado_en": "2026-11-10T08:49:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-10_viral-cu-foto"
+    "origen": "2026-10-07/feed-extra/2026-11-10_viral-cu-foto",
+    "contenedor": "17911832667665550"
   },
   {
     "id": "2026-11-10_h4",
@@ -3840,14 +3846,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18115439693035007",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4027298164097026412",
+      "publicado_en": "2026-11-10T08:49:44-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-10_viral-cu-foto"
+    "depende_de": "2026-11-10_viral-cu-foto",
+    "contenedor": "17911832706665550"
   },
   {
     "id": "2026-11-10_h3",
@@ -3858,14 +3870,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18015961166973517",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4027333786245433402",
+      "publicado_en": "2026-11-10T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/disenos/historias/png",
     "orden": 3,
     "texto": "La cuenta bien hecha · N° 1\nLa cuenta, para tenerla a mano.\nPatrimonio neto\n= cajas en dólares\n+ lo que te deben\n− lo que debés\nGanancia\n= patrimonio ahora\n− foto de las 00:00\n− aportes\n+ retiros\nMandanos\nGANANCIA por mensaje y te mostramos la app.",
-    "fuente": "2026-10-07/disenos/historias/2026-10-20_h2_la-cuenta-a-mano.html"
+    "fuente": "2026-10-07/disenos/historias/2026-10-20_h2_la-cuenta-a-mano.html",
+    "contenedor": "17911843710665550"
   },
   {
     "id": "2026-11-10_xpost-socios-discutiendo",
@@ -3892,11 +3910,17 @@
       "Placa con formato de post de X de @trackearpro: Si el número está inflado, se llevan como ganancia lo que era capital de trabajo.",
       "Placa con formato de post de X de @trackearpro: Un patrimonio neto, el mismo para todos. Mandáselo a tu socio. Y probá TrackeAR Pro 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18131364694865107",
+      "permalink": "https://www.instagram.com/p/DfkEnMTlhwn/",
+      "publicado_en": "2026-11-10T11:01:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-10_xpost-socios-discutiendo"
+    "origen": "2026-10-07/feed-extra/2026-11-10_xpost-socios-discutiendo",
+    "contenedor": "17911854078665550"
   },
   {
     "id": "2026-11-10_h5",
@@ -3907,14 +3931,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17939872137127674",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4027369020244520229",
+      "publicado_en": "2026-11-10T11:10:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-10_xpost-socios-discutiendo"
+    "depende_de": "2026-11-10_xpost-socios-discutiendo",
+    "contenedor": "17911856079665550"
   },
   {
     "id": "2026-11-10_preguntas-del-mostrador",
