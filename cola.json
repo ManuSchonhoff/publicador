@@ -4411,11 +4411,17 @@
       "¿Tu ganancia de hoy ya descuenta los gastos? Sí, todos No, los miro aparte Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18118249250102544",
+      "permalink": "https://www.instagram.com/p/Dfo9DslEX4y/",
+      "publicado_en": "2026-11-12T08:31:18-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-12_viral-cu-gastos"
+    "origen": "2026-10-07/feed-extra/2026-11-12_viral-cu-gastos",
+    "contenedor": "17912247090665550"
   },
   {
     "id": "2026-11-12_h1",
@@ -4426,14 +4432,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18218552113360295",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4028743075065037932",
+      "publicado_en": "2026-11-12T08:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-12_viral-cu-gastos"
+    "depende_de": "2026-11-12_viral-cu-gastos",
+    "contenedor": "17912248674665550"
   },
   {
     "id": "2026-11-12_h4",
@@ -4444,14 +4456,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18121496893947096",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4028783338881738919",
+      "publicado_en": "2026-11-12T10:00:35-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-12_viral-cu-gastos"
+    "depende_de": "2026-11-12_viral-cu-gastos",
+    "contenedor": "17912262672665550"
   },
   {
     "id": "2026-11-12_xpost-cajero-nuevo",
@@ -4476,11 +4494,17 @@
       "Placa con formato de post de X de @trackearpro: A quién preguntarle cuando la caja no da.",
       "Placa con formato de post de X de @trackearpro: En TrackeAR Pro carga lo que recibe y lo que entrega, y la app calcula el resto. Probalo 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18121665797000405",
+      "permalink": "https://www.instagram.com/p/DfpOMWzjpQR/",
+      "publicado_en": "2026-11-12T11:01:01-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-12_xpost-cajero-nuevo"
+    "origen": "2026-10-07/feed-extra/2026-11-12_xpost-cajero-nuevo",
+    "contenedor": "17912273910665550"
   },
   {
     "id": "2026-11-12_h2",
@@ -4491,14 +4515,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18220550998346327",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4028818569047242729",
+      "publicado_en": "2026-11-12T11:10:26-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-12_xpost-cajero-nuevo"
+    "depende_de": "2026-11-12_xpost-cajero-nuevo",
+    "contenedor": "17912275353665550"
   },
   {
     "id": "2026-11-12_viral-ch-endoso",
