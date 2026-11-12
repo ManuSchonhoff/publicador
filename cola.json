@@ -4640,11 +4640,17 @@
       "El cheque sin datos se carga igual, marcado a completar. Tarjeta: a completar, cheque de Esteban Ruiz, 1.873.450 pesos. Falta: número, banco y fecha de pago. Te avisa hasta que lo completes. Datos de ejemplo.",
       "Antes del cierre, cada signo de pregunta en su lugar: 1, el monto que no sabés, pendiente con lo que estimás. 2, el monto final, corregido antes de ejecutar, con el antes y el después. 3, el cheque sin datos, a completar, con aviso hasta que se complete. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17883320535543700",
+      "permalink": "https://www.instagram.com/p/DfqPcznkVx_/",
+      "publicado_en": "2026-11-12T20:31:17-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-05_fila-con-signo-de-pregunta"
+    "origen": "2026-10-07/feed-extra/2026-11-05_fila-con-signo-de-pregunta",
+    "contenedor": "17912356164665550"
   },
   {
     "id": "2026-11-05_h1",
@@ -4655,14 +4661,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17923560525234229",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029105464742639272",
+      "publicado_en": "2026-11-12T20:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-05_fila-con-signo-de-pregunta"
+    "depende_de": "2026-11-05_fila-con-signo-de-pregunta",
+    "contenedor": "17912357601665550"
   },
   {
     "id": "2026-11-13_viral-mo-dedazo",
