@@ -4557,11 +4557,17 @@
       "¿Sabés tu cartera sin contar cheque por cheque? Sí, la veo No, los cuento Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18401826718206296",
+      "permalink": "https://www.instagram.com/p/DfptG08Gkr_/",
+      "publicado_en": "2026-11-12T15:31:07-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-12_viral-ch-endoso"
+    "origen": "2026-10-07/feed-extra/2026-11-12_viral-ch-endoso",
+    "contenedor": "17912318076665550"
   },
   {
     "id": "2026-11-12_h3",
@@ -4572,14 +4578,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18121525879977333",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4028954465512608955",
+      "publicado_en": "2026-11-12T15:40:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-12_viral-ch-endoso"
+    "depende_de": "2026-11-12_viral-ch-endoso",
+    "contenedor": "17912319447665550"
   },
   {
     "id": "2026-11-12_h5",
@@ -4590,14 +4602,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18136481872752267",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029024931950525808",
+      "publicado_en": "2026-11-12T18:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-12_viral-ch-endoso"
+    "depende_de": "2026-11-12_viral-ch-endoso",
+    "contenedor": "17912337060665550"
   },
   {
     "id": "2026-11-05_fila-con-signo-de-pregunta",
