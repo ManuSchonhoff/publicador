@@ -4703,11 +4703,17 @@
       "¿Quién revisa las cotizaciones que carga tu equipo? Yo, todos los días Nadie, confío Contestá en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18376493215244470",
+      "permalink": "https://www.instagram.com/p/Dfrh2WWkd9S/",
+      "publicado_en": "2026-11-13T08:31:15-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-13_viral-mo-dedazo"
+    "origen": "2026-10-07/feed-extra/2026-11-13_viral-mo-dedazo",
+    "contenedor": "17912455206665550"
   },
   {
     "id": "2026-11-13_h1",
@@ -4718,14 +4724,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18121126126974285",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029467850603334934",
+      "publicado_en": "2026-11-13T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-13_viral-mo-dedazo"
+    "depende_de": "2026-11-13_viral-mo-dedazo",
+    "contenedor": "17912456013665550"
   },
   {
     "id": "2026-11-13_h5",
@@ -4736,14 +4748,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18038441672853322",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029508115997231931",
+      "publicado_en": "2026-11-13T10:00:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-13_viral-mo-dedazo"
+    "depende_de": "2026-11-13_viral-mo-dedazo",
+    "contenedor": "17912468655665550"
   },
   {
     "id": "2026-11-13_xpost-lo-de-los-cheques",
@@ -4768,11 +4786,17 @@
       "Placa con formato de post de X de @trackearpro: Sumarlo a la caja y quedarte corto justo cuando un cliente viene a buscar lo suyo.",
       "Placa con formato de post de X de @trackearpro: ¿Te pasó? Contalo en los comentarios. En TrackeAR Pro cada cheque va de punta a punta: probalo 7 días gratis."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18380703745300534",
+      "permalink": "https://www.instagram.com/p/Dfry_RsEXjs/",
+      "publicado_en": "2026-11-13T11:01:00-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-13_xpost-lo-de-los-cheques"
+    "origen": "2026-10-07/feed-extra/2026-11-13_xpost-lo-de-los-cheques",
+    "contenedor": "17912481183665550"
   },
   {
     "id": "2026-11-13_h2",
@@ -4783,14 +4807,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18094463852495442",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029543345902710489",
+      "publicado_en": "2026-11-13T11:10:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-13_xpost-lo-de-los-cheques"
+    "depende_de": "2026-11-13_xpost-lo-de-los-cheques",
+    "contenedor": "17912482344665550"
   },
   {
     "id": "2026-11-13_viral-cu-rulo",
