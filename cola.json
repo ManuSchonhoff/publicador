@@ -4849,11 +4849,17 @@
       "¿Vos mirás el rulo entero o pata por pata? Entero, siempre Pata por pata Contestá en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil En TrackeAR Pro, el ciclo completo con su resultado."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18011096390783302",
+      "permalink": "https://www.instagram.com/p/DfsR6jdnTsJ/",
+      "publicado_en": "2026-11-13T15:31:15-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-13_viral-cu-rulo"
+    "origen": "2026-10-07/feed-extra/2026-11-13_viral-cu-rulo",
+    "contenedor": "17912532267665550"
   },
   {
     "id": "2026-11-13_h3",
@@ -4864,14 +4870,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18101718455532844",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029679240161902985",
+      "publicado_en": "2026-11-13T15:40:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-13_viral-cu-rulo"
+    "depende_de": "2026-11-13_viral-cu-rulo",
+    "contenedor": "17912535186665550"
   },
   {
     "id": "2026-11-13_h6",
@@ -4882,14 +4894,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18136274302690796",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029749706457178933",
+      "publicado_en": "2026-11-13T18:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-13_viral-mo-dedazo"
+    "depende_de": "2026-11-13_viral-mo-dedazo",
+    "contenedor": "17912553651665550"
   },
   {
     "id": "2026-11-13_viral-ch-te-debe-le-debes",
@@ -4918,11 +4936,17 @@
       "¿Sabés el saldo de tu mejor cliente sin buscar? Sí, lo tengo No, lo tengo que armar Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18112075694098191",
+      "permalink": "https://www.instagram.com/p/Dfs0PKpnTtV/",
+      "publicado_en": "2026-11-13T20:31:10-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-13_viral-ch-te-debe-le-debes"
+    "origen": "2026-10-07/feed-extra/2026-11-13_viral-ch-te-debe-le-debes",
+    "contenedor": "17912571528665550"
   },
   {
     "id": "2026-11-13_h4",
@@ -4933,14 +4957,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18132546469694289",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4029830237446337322",
+      "publicado_en": "2026-11-13T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-13_viral-ch-te-debe-le-debes"
+    "depende_de": "2026-11-13_viral-ch-te-debe-le-debes",
+    "contenedor": "17912572449665550"
   },
   {
     "id": "2026-11-14_viral-ch-mora",
