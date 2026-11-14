@@ -5230,11 +5230,17 @@
       "Los umbrales los elegís vos. Cuánto es lejos de la referencia y cuánto es un monto grande en tu mostrador.",
       "Lo que aparece en Requiere atención: un cliente nuevo con monto grande; un monto alto para ese cliente; una cotización lejos de la referencia. Los umbrales los elegís vos. ¿Lo querés ver con tus números? Escribinos por mensaje directo y te lo mostramos. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17978450076006300",
+      "permalink": "https://www.instagram.com/p/DfvZBE-FN2U/",
+      "publicado_en": "2026-11-14T20:31:00-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-07_cliente-nuevo-monto-grande"
+    "origen": "2026-10-07/feed-extra/2026-11-07_cliente-nuevo-monto-grande",
+    "contenedor": "17912789397665550"
   },
   {
     "id": "2026-11-07_h1",
@@ -5245,14 +5251,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18113840198612801",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030555016221981941",
+      "publicado_en": "2026-11-14T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-07_cliente-nuevo-monto-grande"
+    "depende_de": "2026-11-07_cliente-nuevo-monto-grande",
+    "contenedor": "17912790393665550"
   },
   {
     "id": "2026-11-15_viral-cu-mes-cerrado",
