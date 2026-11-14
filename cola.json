@@ -4999,11 +4999,17 @@
       "¿Sabés cuánta mora tenés a cobrar hoy? Sí, al centavo No, habría que sacarla Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18221610481357046",
+      "permalink": "https://www.instagram.com/p/DfuGobIlQy8/",
+      "publicado_en": "2026-11-14T08:31:09-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-14_viral-ch-mora"
+    "origen": "2026-10-07/feed-extra/2026-11-14_viral-ch-mora",
+    "contenedor": "17912678238665550"
   },
   {
     "id": "2026-11-14_h1",
@@ -5014,14 +5020,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18201875245377142",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030192624623538500",
+      "publicado_en": "2026-11-14T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-14_viral-ch-mora"
+    "depende_de": "2026-11-14_viral-ch-mora",
+    "contenedor": "17912679972665550"
   },
   {
     "id": "2026-11-14_h4",
@@ -5032,14 +5044,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18133464865705428",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030232891208627963",
+      "publicado_en": "2026-11-14T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-14_viral-ch-mora"
+    "depende_de": "2026-11-14_viral-ch-mora",
+    "contenedor": "17912696142665550"
   },
   {
     "id": "2026-11-14_xpost-antes-de-retirar",
@@ -5066,11 +5084,17 @@
       "Placa con formato de post de X de @trackearpro: ¿Mañana te alcanza para operar?",
       "Placa con formato de post de X de @trackearpro: Guardalo para el próximo retiro. Y si querés la cuenta hecha, probá TrackeAR Pro 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18115443737227034",
+      "permalink": "https://www.instagram.com/p/DfuXxnKlSK6/",
+      "publicado_en": "2026-11-14T11:00:50-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-14_xpost-antes-de-retirar"
+    "origen": "2026-10-07/feed-extra/2026-11-14_xpost-antes-de-retirar",
+    "contenedor": "17912706393665550"
   },
   {
     "id": "2026-11-14_h2",
@@ -5081,14 +5105,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18117269330145365",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030268122271674770",
+      "publicado_en": "2026-11-14T11:10:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-14_xpost-antes-de-retirar"
+    "depende_de": "2026-11-14_xpost-antes-de-retirar",
+    "contenedor": "17912707878665550"
   },
   {
     "id": "2026-11-14_viral-mo-viene-a-buscar",
