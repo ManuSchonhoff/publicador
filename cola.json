@@ -5147,11 +5147,17 @@
       "¿Sabés qué tenés que entregar mañana? Sí, lo tengo a mano No, lo busco en la planilla Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18095096315279042",
+      "permalink": "https://www.instagram.com/p/Dfu2tmEj46X/",
+      "publicado_en": "2026-11-14T15:31:17-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-14_viral-mo-viene-a-buscar"
+    "origen": "2026-10-07/feed-extra/2026-11-14_viral-mo-viene-a-buscar",
+    "contenedor": "17912747652665550"
   },
   {
     "id": "2026-11-14_h3",
@@ -5162,14 +5168,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17998330287020737",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030404020975655985",
+      "publicado_en": "2026-11-14T15:40:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-14_viral-mo-viene-a-buscar"
+    "depende_de": "2026-11-14_viral-mo-viene-a-buscar",
+    "contenedor": "17912748804665550"
   },
   {
     "id": "2026-11-14_h5",
@@ -5180,14 +5192,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18135959629762391",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030474488293446621",
+      "publicado_en": "2026-11-14T18:00:34-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-14_viral-mo-viene-a-buscar"
+    "depende_de": "2026-11-14_viral-mo-viene-a-buscar",
+    "contenedor": "17912770773665550"
   },
   {
     "id": "2026-11-07_cliente-nuevo-monto-grande",
