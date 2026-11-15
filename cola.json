@@ -5439,11 +5439,17 @@
       "Si mañana falta plata, ¿podés ver qué pasó? Sí, con nombre y hora No, empieza la discusión Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18112148651570474",
+      "permalink": "https://www.instagram.com/p/Dfxm5DRG0Wr/",
+      "publicado_en": "2026-11-15T17:10:45-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-15_viral-mo-nadie-sabe"
+    "origen": "2026-10-07/feed-extra/2026-11-15_viral-mo-nadie-sabe",
+    "contenedor": "17912963874665550"
   },
   {
     "id": "2026-11-15_h3",
@@ -5454,14 +5460,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18111301892215622",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031174303429660471",
+      "publicado_en": "2026-11-15T17:10:56-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-15_viral-mo-nadie-sabe"
+    "depende_de": "2026-11-15_viral-mo-nadie-sabe",
+    "contenedor": "17912963937665550"
   },
   {
     "id": "2026-11-15_h5",
@@ -5472,14 +5484,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17967199169992569",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031199258481472568",
+      "publicado_en": "2026-11-15T18:00:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-15_viral-mo-nadie-sabe"
+    "depende_de": "2026-11-15_viral-mo-nadie-sabe",
+    "contenedor": "17912969397665550"
   },
   {
     "id": "2026-11-09_cambiar-de-sistema-cuesta",
@@ -5502,11 +5520,17 @@
       "Y tu planilla, mientras tanto, sigue. Si querés, la usás en paralelo. Las operaciones de la app se exportan en el formato de las plantillas, que se vuelve a importar.",
       "Tabla de cuatro filas, Cambiar de sistema, repartido: vos completás las plantillas y contestás las preguntas; la app te muestra cada fila antes de importar; nosotros te guiamos por email; tu planilla sigue en paralelo, si querés. Probalo 7 días gratis. El link está en el perfil. @trackearpro"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18133706032756403",
+      "permalink": "https://www.instagram.com/p/Dfx9y6hG6Ua/",
+      "publicado_en": "2026-11-15T20:30:52-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-09_cambiar-de-sistema-cuesta"
+    "origen": "2026-10-07/feed-extra/2026-11-09_cambiar-de-sistema-cuesta",
+    "contenedor": "17912989572665550"
   },
   {
     "id": "2026-11-09_h1",
@@ -5517,14 +5541,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17914487301582782",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031279785838372738",
+      "publicado_en": "2026-11-15T20:40:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-09_cambiar-de-sistema-cuesta"
+    "depende_de": "2026-11-09_cambiar-de-sistema-cuesta",
+    "contenedor": "17912990913665550"
   },
   {
     "id": "2026-11-16_viral-ch-ya-probe",
