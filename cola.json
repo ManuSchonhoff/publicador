@@ -5376,11 +5376,17 @@
       "Placa con formato de post de X de @trackearpro: ¿Qué fue lo primero que se te rompió a vos?",
       "Placa con formato de post de X de @trackearpro: En TrackeAR Pro sumás un local sin sumar una planilla. Probalo 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18029586863936276",
+      "permalink": "https://www.instagram.com/p/DfxDR_zGmOv/",
+      "publicado_en": "2026-11-15T11:59:34-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-15_xpost-cuando-crece"
+    "origen": "2026-10-07/feed-extra/2026-11-15_xpost-cuando-crece",
+    "contenedor": "17912917929665550"
   },
   {
     "id": "2026-11-15_h2",
@@ -5391,14 +5397,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17983102937932826",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031017680610443268",
+      "publicado_en": "2026-11-15T11:59:45-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-15_xpost-cuando-crece"
+    "depende_de": "2026-11-15_xpost-cuando-crece",
+    "contenedor": "17912917965665550"
   },
   {
     "id": "2026-11-15_viral-mo-nadie-sabe",
