@@ -5293,11 +5293,17 @@
       "¿Podrías jurar que tu mes pasado sigue igual? Sí, lo juro No, ni idea Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18169781908484890",
+      "permalink": "https://www.instagram.com/p/Dfwrbanm0eX/",
+      "publicado_en": "2026-11-15T08:31:08-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-15_viral-cu-mes-cerrado"
+    "origen": "2026-10-07/feed-extra/2026-11-15_viral-cu-mes-cerrado",
+    "contenedor": "17912881821665550"
   },
   {
     "id": "2026-11-15_h1",
@@ -5308,14 +5314,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18026721731933382",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030917400480951202",
+      "publicado_en": "2026-11-15T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-15_viral-cu-mes-cerrado"
+    "depende_de": "2026-11-15_viral-cu-mes-cerrado",
+    "contenedor": "17912882850665550"
   },
   {
     "id": "2026-11-15_h4",
@@ -5326,14 +5338,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18201068431389972",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4030957666646608361",
+      "publicado_en": "2026-11-15T10:00:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-15_viral-cu-mes-cerrado"
+    "depende_de": "2026-11-15_viral-cu-mes-cerrado",
+    "contenedor": "17912895234665550"
   },
   {
     "id": "2026-11-15_xpost-cuando-crece",
