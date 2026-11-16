@@ -5644,6 +5644,39 @@
     "contenedor": "17913112233665550"
   },
   {
+    "id": "2026-11-16_reel-cheque-rebotado",
+    "fecha_hora": "2026-11-16T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-16_reel-cheque-rebotado/reel.mp4"
+    ],
+    "pie": "Le compraste un cheque de $ 15.236.800 y rebotó. En la planilla sumaba como pesos en caja: te quedaste corto para la siguiente operación y la deuda quedó anotada en un papelito (datos de ejemplo).\n\nEn la app lo anotás como rechazado y queda como deuda del cliente que te lo trajo. Tu disponible no baja: un cheque en cartera no cuenta como disponible hasta que se acredita. Son $ 15.236.800 que nunca tendrían que haber sumado a la caja.\n\n¿Tus cheques suman a la caja? En TrackeAR Pro los seguís en cartera, cobrados, endosados o rechazados.\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#cheques #casasdecambio #financieras #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Te rebotó un cheque: qué pasa en la app.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-16_reel-cheque-rebotado/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-16_reel-cheque-rebotado"
+  },
+  {
+    "id": "2026-11-16_h4",
+    "fecha_hora": "2026-11-16T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-16_h4/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 4,
+    "texto": "",
+    "depende_de": "2026-11-16_reel-cheque-rebotado"
+  },
+  {
     "id": "2026-11-16_h3",
     "fecha_hora": "2026-11-16T18:00:00-03:00",
     "tipo": "historia",
@@ -5660,5 +5693,401 @@
     "orden": 3,
     "texto": "",
     "depende_de": "2026-11-16_viral-ch-ya-probe"
+  },
+  {
+    "id": "2026-11-17_reel-caja-sin-contar",
+    "fecha_hora": "2026-11-17T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-17_reel-caja-sin-contar/reel.mp4"
+    ],
+    "pie": "Abrís la caja de dólares sin contar y a la tarde faltan US$ 200: sin un conteo de por medio, son tuyos (datos de ejemplo).\n\nAl cierre, el cajero hace el arqueo: cuenta billete por billete, la app lo compara con el sistema y lo firma. La diferencia queda en “Arqueos firmados”, con su nombre y la hora, y al abrir la caja ves el último arqueo y quién lo hizo. Lo firmado no se modifica y la caja sigue operando.\n\n¿Contás la caja cuando la abrís?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#arqueodecaja #controldecaja #casasdecambio #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Abriste la caja sin contar: faltan US$ 200.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-17_reel-caja-sin-contar/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-17_reel-caja-sin-contar"
+  },
+  {
+    "id": "2026-11-17_h1",
+    "fecha_hora": "2026-11-17T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-17_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-17_reel-caja-sin-contar"
+  },
+  {
+    "id": "2026-11-18_reel-septiembre-guardado",
+    "fecha_hora": "2026-11-18T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-18_reel-septiembre-guardado/reel.mp4"
+    ],
+    "pie": "Septiembre cerró en US$ 11.208,90 y en la reunión apareció 9.870: US$ 1.339 de diferencia en un mes que ya estaba cerrado (datos de ejemplo).\n\nContra el número tocado, octubre parecía +43 %. Contra el mes cerrado, dio +26 %: US$ 2.914,55 más que septiembre. El mes cerrado queda guardado en la app, y los dos meses se miden con la misma cuenta: patrimonio − patrimonio del 1° a las 00:00 − aportes + retiros.\n\n¿Te tocaron un mes cerrado?\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: La cuenta bien hecha: octubre contra el septiembre guardado.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-18_reel-septiembre-guardado/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-18_reel-septiembre-guardado"
+  },
+  {
+    "id": "2026-11-18_h1",
+    "fecha_hora": "2026-11-18T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-18_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-18_reel-septiembre-guardado"
+  },
+  {
+    "id": "2026-11-19_reel-fiado-de-mas",
+    "fecha_hora": "2026-11-19T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-19_reel-fiado-de-mas/reel.mp4"
+    ],
+    "pie": "Le fiaste dólares: $ 1.380.000 de más. Debe $ 4.380.000 y su límite era $ 3.000.000 (datos de ejemplo).\n\nEn la ficha de cada cliente ponés el límite de cuenta corriente: hasta cuánto te puede deber. Si lo pasa, aparece en “Requiere atención”, en la pantalla Hoy, con lo que debe y su límite. No frena la operación: te lo marca para que decidas vos.\n\n¿Le seguís fiando al que siempre paga?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casasdecambio #financieras #cuentacorriente #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Le fiaste $ 1.380.000 de más.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-19_reel-fiado-de-mas/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-19_reel-fiado-de-mas"
+  },
+  {
+    "id": "2026-11-19_h1",
+    "fecha_hora": "2026-11-19T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-19_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-19_reel-fiado-de-mas"
+  },
+  {
+    "id": "2026-11-20_reel-1506-en-vez-de-1560",
+    "fecha_hora": "2026-11-20T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-20_reel-1506-en-vez-de-1560/reel.mp4"
+    ],
+    "pie": "1.506 en vez de 1.560 en una venta de US$ 2.000: son $ 108.000 menos (datos de ejemplo). Y al cierre, la caja cuadra igual.\n\nAl cargar, “Lo que va a pasar” te muestra la venta contra la referencia antes de confirmar: en rojo si quedó abajo, en verde si está bien. Y si se confirma igual y se aleja más que el umbral que elegiste, aparece en “Requiere atención”, en Hoy.\n\n¿Te pasó? Si querés, contanos cuál fue el dígito más caro que viste en una caja.\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #controldecaja #financieras #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Un dígito dado vuelta: $ 108.000 menos.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-20_reel-1506-en-vez-de-1560/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-20_reel-1506-en-vez-de-1560"
+  },
+  {
+    "id": "2026-11-20_h1",
+    "fecha_hora": "2026-11-20T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-20_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-20_reel-1506-en-vez-de-1560"
+  },
+  {
+    "id": "2026-11-21_reel-alquiler-y-retiro",
+    "fecha_hora": "2026-11-21T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-21_reel-alquiler-y-retiro/reel.mp4"
+    ],
+    "pie": "El socio retiró US$ 3.000 el día que pagaste el alquiler, $ 1.850.000. La planilla dice −US$ 2.351,07. ¿Perdiste? (datos de ejemplo)\n\nNo. El alquiler sí baja la ganancia: US$ 1.193,55 a 1.550. El retiro no es pérdida: se suma de vuelta. La cuenta: patrimonio ahora − patrimonio a las 00:00 − aportes + retiros. Ganaste US$ 648,93: ni pérdida, ni plata de más para repartir.\n\nGasto: baja la ganancia. Retiro: no la toca.\n\n¿Acertaste?\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #cierredecaja #pymesargentinas #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: La cuenta bien hecha: el alquiler y el retiro de un socio.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-21_reel-alquiler-y-retiro/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-21_reel-alquiler-y-retiro"
+  },
+  {
+    "id": "2026-11-21_h1",
+    "fecha_hora": "2026-11-21T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-21_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-21_reel-alquiler-y-retiro"
+  },
+  {
+    "id": "2026-11-22_reel-cierre-desde-casa",
+    "fecha_hora": "2026-11-22T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-22_reel-cierre-desde-casa/reel.mp4"
+    ],
+    "pie": "Hoy cerró el encargado. ¿Cuadraron los dólares? En vez de un «cerré, todo bien», puso lo contado en cada caja y firmó: cada arqueo quedó con su nombre y la hora. Si dice que cuadra, lo firma él.\n\nDesde tu celular, en el Cierre diario ves caja por caja si cuadró, y en Auditoría, quién firmó y a qué hora (datos de ejemplo).\n\n¿Delegás el cierre?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#cierredecaja #casasdecambio #financieras #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Hoy cerró el encargado: el cierre, desde tu casa.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-22_reel-cierre-desde-casa/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-22_reel-cierre-desde-casa"
+  },
+  {
+    "id": "2026-11-22_h1",
+    "fecha_hora": "2026-11-22T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-22_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-22_reel-cierre-desde-casa"
+  },
+  {
+    "id": "2026-11-23_reel-me-olvide-400",
+    "fecha_hora": "2026-11-23T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-23_reel-me-olvide-400/reel.mp4"
+    ],
+    "pie": "Te vende US$ 3.000 a 1.550, le das $ 4.650.000 y te dice: «Me olvidé 400, ¿me llevo todo y vuelvo después?» (datos de ejemplo).\n\nEn la planilla queda en un comentario. En la app cargás lo que entró, US$ 2.600, y la compra queda Parcial. En Pendientes ves quién te debe, cuánto falta, de qué operación es, desde cuándo y quién la cargó. Si vence, aparece en Hoy, en «Requiere atención».\n\nSon US$ 400: $ 620.000 a 1.550 que no se pierden entre 300 filas.\n\n¿Te pasó con un cliente?\n\nLo hice para mi financiera. Ahora es para la tuya.\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: «Me olvidé 400»: la compra en partes, en Pendientes.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-23_reel-me-olvide-400/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-23_reel-me-olvide-400"
+  },
+  {
+    "id": "2026-11-23_h1",
+    "fecha_hora": "2026-11-23T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-23_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-23_reel-me-olvide-400"
+  },
+  {
+    "id": "2026-11-24_reel-cargo-20000",
+    "fecha_hora": "2026-11-24T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-24_reel-cargo-20000/reel.mp4"
+    ],
+    "pie": "Tu cajero cargó US$ 20.000 en vez de 2.000: son US$ 18.000 de más en una venta (datos de ejemplo).\n\nEl cajero no puede anularla. El tesorero pide anularla y escribe el motivo. Como pasa el monto que elegiste en Ajustes, necesita tu aprobación: la ves en “Requiere atención”, en Hoy, y la aprobás desde el celular. En Aprobaciones queda quién la pidió, quién la aprobó, cuándo y por qué, y la operación queda anulada con fecha y motivo.\n\n¿Tu cajero anula solo?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casasdecambio #controldecaja #pymesargentinas #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: US$ 20.000 en vez de 2.000: cómo se corrige.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-24_reel-cargo-20000/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-24_reel-cargo-20000"
+  },
+  {
+    "id": "2026-11-24_h1",
+    "fecha_hora": "2026-11-24T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-24_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-24_reel-cargo-20000"
+  },
+  {
+    "id": "2026-11-25_reel-mismos-pesos",
+    "fecha_hora": "2026-11-25T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-25_reel-mismos-pesos/reel.mp4"
+    ],
+    "pie": "Los mismos pesos valen US$ 2.147 menos: $ 54.912.300 en la caja son US$ 35.427,29 a 1.550. Si el dólar pasa de 1.550 a 1.650, son US$ 33.280,18: US$ 2.147,11 menos sin tocar un billete (datos de ejemplo).\n\nLa app pasa cada caja a dólares a la cotización de referencia y mide tu ganancia del día en dólares, contra la foto de las 00:00. Con pesos en la caja, un día que venía en +US$ 1.615,30 queda en −US$ 531,81. No es un pronóstico: es la cuenta, con números de ejemplo.\n\n¿Dejás pesos a la noche?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: La cuenta bien hecha: los mismos pesos, US$ 2.147 menos.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-25_reel-mismos-pesos/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-25_reel-mismos-pesos"
+  },
+  {
+    "id": "2026-11-25_h1",
+    "fecha_hora": "2026-11-25T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-25_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-25_reel-mismos-pesos"
+  },
+  {
+    "id": "2026-11-26_reel-tres-dias-afuera",
+    "fecha_hora": "2026-11-26T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-26_reel-tres-dias-afuera/reel.mp4"
+    ],
+    "pie": "Tres días afuera, llamando y mandando mensajes a la oficina para saber cuántos pesos libres hay. «Ahora te digo, estoy contando.»\n\nEn Hoy ves desde el celular el patrimonio, la ganancia del día y el disponible de cada moneda, en la primera pantalla y sin llamar a nadie: +US$ 1.842,48 de ganancia hoy (datos de ejemplo).\n\n¿Sos el de las llamadas?\n\nLo hice para mi financiera. Ahora es para la tuya.\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #controldecaja #pymesargentinas #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Tres días afuera: la caja y la ganancia, en tu celular.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-26_reel-tres-dias-afuera/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-26_reel-tres-dias-afuera"
+  },
+  {
+    "id": "2026-11-26_h1",
+    "fecha_hora": "2026-11-26T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-26_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-26_reel-tres-dias-afuera"
+  },
+  {
+    "id": "2026-11-27_reel-referidos",
+    "fecha_hora": "2026-11-27T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-27_reel-referidos/reel.mp4"
+    ],
+    "pie": "Te trajo 9 clientes y otro te trajo 3. El de 3 mueve más: US$ 48.000 en la semana, contra US$ 21.000 (datos de ejemplo).\n\nEn el cuaderno gana el que más clientes trae. En Resultados ves a cada referido por lo que operaron sus clientes, de mayor a menor volumen, con la comisión que le generaron y lo que movieron en el período anterior del mismo largo: acá, la semana anterior. El de 9: −30 %.\n\n¿Medís a tus referidos por clientes?\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Te trajo 9 clientes: el de 3 mueve más.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-27_reel-referidos/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-27_reel-referidos"
+  },
+  {
+    "id": "2026-11-27_h1",
+    "fecha_hora": "2026-11-27T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-27_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-27_reel-referidos"
+  },
+  {
+    "id": "2026-11-28_reel-dos-locales",
+    "fecha_hora": "2026-11-28T13:00:00-03:00",
+    "tipo": "reel",
+    "archivos": [
+      "media/2026-11-28_reel-dos-locales/reel.mp4"
+    ],
+    "pie": "Dos locales, dólares y pesos: en cada cierre sumás a mano. Y esa suma es solo de las cajas: le falta lo que te deben y lo que debés.\n\nCada local con sus cajas y su cierre, y en Hoy, el patrimonio de toda la casa en un solo número: cajas, lo que te deben y lo que debés, en dólares (datos de ejemplo).\n\n¿Sumás a mano cada cierre?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #controldecaja #pymesargentinas #trackearpro",
+    "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Dos locales, un solo número.",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": "media/2026-11-28_reel-dos-locales/portada.jpg",
+    "intentos": 0,
+    "origen": "2026-10-07/feed-extra/2026-11-28_reel-dos-locales"
+  },
+  {
+    "id": "2026-11-28_h1",
+    "fecha_hora": "2026-11-28T13:10:00-03:00",
+    "tipo": "historia",
+    "archivos": [
+      "media/2026-11-28_h1/historia.jpg"
+    ],
+    "pie": "",
+    "alt": "",
+    "estado": "aprobado",
+    "resultado": null,
+    "portada": null,
+    "intentos": 0,
+    "origen": "2026-10-07/historias-auto",
+    "orden": 1,
+    "texto": "",
+    "depende_de": "2026-11-28_reel-dos-locales"
   }
 ]
