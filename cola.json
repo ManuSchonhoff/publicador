@@ -5652,11 +5652,17 @@
     ],
     "pie": "Le compraste un cheque de $ 15.236.800 y rebotó. En la planilla sumaba como pesos en caja: te quedaste corto para la siguiente operación y la deuda quedó anotada en un papelito (datos de ejemplo).\n\nEn la app lo anotás como rechazado y queda como deuda del cliente que te lo trajo. Tu disponible no baja: un cheque en cartera no cuenta como disponible hasta que se acredita. Son $ 15.236.800 que nunca tendrían que haber sumado a la caja.\n\n¿Tus cheques suman a la caja? En TrackeAR Pro los seguís en cartera, cobrados, endosados o rechazados.\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#cheques #casasdecambio #financieras #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Te rebotó un cheque: qué pasa en la app.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17913996672588754",
+      "permalink": "https://www.instagram.com/reel/DfzvEpulRjh/",
+      "publicado_en": "2026-11-16T13:01:20-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-16_reel-cheque-rebotado/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-16_reel-cheque-rebotado"
+    "origen": "2026-10-07/feed-extra/2026-11-16_reel-cheque-rebotado",
+    "contenedor": "17913143601665550"
   },
   {
     "id": "2026-11-16_h4",
@@ -5667,14 +5673,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18060342419799427",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031778072735446818",
+      "publicado_en": "2026-11-16T13:10:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-16_reel-cheque-rebotado"
+    "depende_de": "2026-11-16_reel-cheque-rebotado",
+    "contenedor": "17913145803665550"
   },
   {
     "id": "2026-11-16_h3",
