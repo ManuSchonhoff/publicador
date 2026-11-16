@@ -5697,14 +5697,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18060376712809545",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031983604319110832",
+      "publicado_en": "2026-11-16T19:58:55-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-16_viral-ch-ya-probe"
+    "depende_de": "2026-11-16_viral-ch-ya-probe",
+    "contenedor": "17913206580665550"
   },
   {
     "id": "2026-11-17_viral-monto-alto-para-el",
