@@ -5583,11 +5583,17 @@
       "¿Por qué dejaste el otro sistema? Era muy complicado No era para mi rubro Contanos en los comentarios.",
       "Probalo 7 días gratis. Link en el perfil Sin tarjeta y con todas las funciones."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18346394350251965",
+      "permalink": "https://www.instagram.com/p/DfzdEstFYQO/",
+      "publicado_en": "2026-11-16T10:23:26-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-16_viral-ch-ya-probe"
+    "origen": "2026-10-07/feed-extra/2026-11-16_viral-ch-ya-probe",
+    "contenedor": "17913112146665550"
   },
   {
     "id": "2026-11-16_h1",
@@ -5598,14 +5604,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17904420075378750",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031694067100631409",
+      "publicado_en": "2026-11-16T10:23:36-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-16_viral-ch-ya-probe"
+    "depende_de": "2026-11-16_viral-ch-ya-probe",
+    "contenedor": "17913112206665550"
   },
   {
     "id": "2026-11-16_h2",
@@ -5616,14 +5628,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18029879909697060",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4031694152161113832",
+      "publicado_en": "2026-11-16T10:23:46-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-16_viral-ch-ya-probe"
+    "depende_de": "2026-11-16_viral-ch-ya-probe",
+    "contenedor": "17913112233665550"
   },
   {
     "id": "2026-11-16_h3",
