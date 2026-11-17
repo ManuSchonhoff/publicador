@@ -5739,11 +5739,17 @@
       "¿Te enterás cuando un cliente opera más de lo normal? Sí, en el momento No, a fin de mes Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil Y mirá lo que se sale de lo normal, el mismo día."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17916645372490820",
+      "permalink": "https://www.instagram.com/p/Df2HF7xIal4/",
+      "publicado_en": "2026-11-17T11:09:07-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-17_viral-monto-alto-para-el"
+    "origen": "2026-10-07/feed-extra/2026-11-17_viral-monto-alto-para-el",
+    "contenedor": "17913333537665550"
   },
   {
     "id": "2026-11-17_h2",
@@ -5754,14 +5760,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17874214671647027",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4032441838792199572",
+      "publicado_en": "2026-11-17T11:09:19-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-17_viral-monto-alto-para-el"
+    "depende_de": "2026-11-17_viral-monto-alto-para-el",
+    "contenedor": "17913333612665550"
   },
   {
     "id": "2026-11-17_h6",
@@ -5772,14 +5784,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18122566252971533",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4032441942810927664",
+      "publicado_en": "2026-11-17T11:09:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-17_viral-monto-alto-para-el"
+    "depende_de": "2026-11-17_viral-monto-alto-para-el",
+    "contenedor": "17913333651665550"
   },
   {
     "id": "2026-11-17_xpost-cosas-que-se-pierden",
@@ -5806,11 +5824,17 @@
       "Placa con formato de post de X de @trackearpro: La ganancia de verdad.",
       "Placa con formato de post de X de @trackearpro: ¿Cuál se te perdió a vos? Contalo en los comentarios. Y probá TrackeAR Pro 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18120810842093862",
+      "permalink": "https://www.instagram.com/p/Df2HOzQIZYG/",
+      "publicado_en": "2026-11-17T11:10:21-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-17_xpost-cosas-que-se-pierden"
+    "origen": "2026-10-07/feed-extra/2026-11-17_xpost-cosas-que-se-pierden",
+    "contenedor": "17913333951665550"
   },
   {
     "id": "2026-11-17_h3",
@@ -5821,14 +5845,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18120727358103230",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4032497830787219129",
+      "publicado_en": "2026-11-17T13:00:35-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-17_xpost-cosas-que-se-pierden"
+    "depende_de": "2026-11-17_xpost-cosas-que-se-pierden",
+    "contenedor": "17913349104665550"
   },
   {
     "id": "2026-11-17_reel-caja-sin-contar",
@@ -5839,11 +5869,17 @@
     ],
     "pie": "Abrís la caja de dólares sin contar y a la tarde faltan US$ 200: sin un conteo de por medio, son tuyos (datos de ejemplo).\n\nAl cierre, el cajero hace el arqueo: cuenta billete por billete, la app lo compara con el sistema y lo firma. La diferencia queda en “Arqueos firmados”, con su nombre y la hora, y al abrir la caja ves el último arqueo y quién lo hizo. Lo firmado no se modifica y la caja sigue operando.\n\n¿Contás la caja cuando la abrís?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#arqueodecaja #controldecaja #casasdecambio #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Abriste la caja sin contar: faltan US$ 200.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18037554296897342",
+      "permalink": "https://www.instagram.com/reel/Df2T4rAjJ79/",
+      "publicado_en": "2026-11-17T13:01:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-17_reel-caja-sin-contar/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-17_reel-caja-sin-contar"
+    "origen": "2026-10-07/feed-extra/2026-11-17_reel-caja-sin-contar",
+    "contenedor": "17913349215665550"
   },
   {
     "id": "2026-11-17_h1",
@@ -5854,14 +5890,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18643163434063811",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4032502850295352603",
+      "publicado_en": "2026-11-17T13:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-17_reel-caja-sin-contar"
+    "depende_de": "2026-11-17_reel-caja-sin-contar",
+    "contenedor": "17913350766665550"
   },
   {
     "id": "2026-11-17_viral-cotizacion-vieja",
@@ -5890,11 +5932,17 @@
       "¿Cuándo actualizaste la cotización del euro? Hoy Ni me acuerdo Contestá en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil Y que ninguna cotización se quede vieja."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18159252328571147",
+      "permalink": "https://www.instagram.com/p/Df2lFU2mstX/",
+      "publicado_en": "2026-11-17T15:31:09-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-17_viral-cotizacion-vieja"
+    "origen": "2026-10-07/feed-extra/2026-11-17_viral-cotizacion-vieja",
+    "contenedor": "17913368844665550"
   },
   {
     "id": "2026-11-17_h4",
@@ -5905,14 +5953,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18169522546488401",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4032578347666638675",
+      "publicado_en": "2026-11-17T15:40:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-17_viral-cotizacion-vieja"
+    "depende_de": "2026-11-17_viral-cotizacion-vieja",
+    "contenedor": "17913369999665550"
   },
   {
     "id": "2026-11-17_h7",
