@@ -5977,14 +5977,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18110974154277182",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4032691027601439102",
+      "publicado_en": "2026-11-17T19:24:25-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-17_viral-cotizacion-vieja"
+    "depende_de": "2026-11-17_viral-cotizacion-vieja",
+    "contenedor": "17913392724665550"
   },
   {
     "id": "2026-11-17_viral-canje-cara-chica",
@@ -6013,11 +6019,17 @@
       "¿Cobrás comisión por el canje de billetes? Sí, siempre Depende del cliente Contestá en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18141005092628966",
+      "permalink": "https://www.instagram.com/p/Df3HabajgGT/",
+      "publicado_en": "2026-11-17T20:31:09-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-17_viral-canje-cara-chica"
+    "origen": "2026-10-07/feed-extra/2026-11-17_viral-canje-cara-chica",
+    "contenedor": "17913400263665550"
   },
   {
     "id": "2026-11-17_h5",
@@ -6028,14 +6040,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17894124624684837",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4032729339917119317",
+      "publicado_en": "2026-11-17T20:40:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-17_viral-canje-cara-chica"
+    "depende_de": "2026-11-17_viral-canje-cara-chica",
+    "contenedor": "17913401742665550"
   },
   {
     "id": "2026-11-18_viral-lo-que-debes",
