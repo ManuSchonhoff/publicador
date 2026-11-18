@@ -6082,11 +6082,17 @@
       "¿Tu número resta lo que le debés a otras casas? Sí, siempre No, lo tengo aparte Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil Y mirá tu patrimonio neto, en dólares."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17957108598299051",
+      "permalink": "https://www.instagram.com/p/Df4fWXmnOt5/",
+      "publicado_en": "2026-11-18T09:19:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-18_viral-lo-que-debes"
+    "origen": "2026-10-07/feed-extra/2026-11-18_viral-lo-que-debes",
+    "contenedor": "17913480744665550"
   },
   {
     "id": "2026-11-18_h2",
@@ -6097,14 +6103,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18134634448830035",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033111466295727530",
+      "publicado_en": "2026-11-18T09:19:45-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-18_viral-lo-que-debes"
+    "depende_de": "2026-11-18_viral-lo-que-debes",
+    "contenedor": "17913480807665550"
   },
   {
     "id": "2026-11-18_h6",
@@ -6115,14 +6127,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17914336770570811",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033131995358562020",
+      "publicado_en": "2026-11-18T10:00:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-18_viral-lo-que-debes"
+    "depende_de": "2026-11-18_viral-lo-que-debes",
+    "contenedor": "17913488037665550"
   },
   {
     "id": "2026-11-18_xpost-lo-que-no-dice-el-saldo",
@@ -6149,11 +6167,17 @@
       "Placa con formato de post de X de @trackearpro: Cuánto ganaste hoy.",
       "Placa con formato de post de X de @trackearpro: En TrackeAR Pro el patrimonio neto suma tus cajas y lo que te deben, y resta lo que debés, en dólares. Probalo 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18269923267307687",
+      "permalink": "https://www.instagram.com/p/Df4q-e8nARI/",
+      "publicado_en": "2026-11-18T11:01:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-18_xpost-lo-que-no-dice-el-saldo"
+    "origen": "2026-10-07/feed-extra/2026-11-18_xpost-lo-que-no-dice-el-saldo",
+    "contenedor": "17913496719665550"
   },
   {
     "id": "2026-11-18_h3",
@@ -6164,14 +6188,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18121575626057292",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033167229156374692",
+      "publicado_en": "2026-11-18T11:10:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-18_xpost-lo-que-no-dice-el-saldo"
+    "depende_de": "2026-11-18_xpost-lo-que-no-dice-el-saldo",
+    "contenedor": "17913498741665550"
   },
   {
     "id": "2026-11-18_reel-septiembre-guardado",
@@ -6182,11 +6212,17 @@
     ],
     "pie": "Septiembre cerró en US$ 11.208,90 y en la reunión apareció 9.870: US$ 1.339 de diferencia en un mes que ya estaba cerrado (datos de ejemplo).\n\nContra el número tocado, octubre parecía +43 %. Contra el mes cerrado, dio +26 %: US$ 2.914,55 más que septiembre. El mes cerrado queda guardado en la app, y los dos meses se miden con la misma cuenta: patrimonio − patrimonio del 1° a las 00:00 − aportes + retiros.\n\n¿Te tocaron un mes cerrado?\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: La cuenta bien hecha: octubre contra el septiembre guardado.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18017056163985944",
+      "permalink": "https://www.instagram.com/reel/Df44qvpD7kN/",
+      "publicado_en": "2026-11-18T13:01:16-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-18_reel-septiembre-guardado/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-18_reel-septiembre-guardado"
+    "origen": "2026-10-07/feed-extra/2026-11-18_reel-septiembre-guardado",
+    "contenedor": "17913513693665550"
   },
   {
     "id": "2026-11-18_h1",
@@ -6197,14 +6233,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18035765435885313",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033227625808539839",
+      "publicado_en": "2026-11-18T13:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-18_reel-septiembre-guardado"
+    "depende_de": "2026-11-18_reel-septiembre-guardado",
+    "contenedor": "17913515751665550"
   },
   {
     "id": "2026-11-18_viral-hora-pico",
