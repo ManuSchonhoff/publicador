@@ -6275,11 +6275,17 @@
       "¿Cuánto tarda tu cajero en cargar una venta? Menos de un minuto Más de un minuto Contestá en los comentarios.",
       "Mandáselo a tu encargado. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18103269143422962",
+      "permalink": "https://www.instagram.com/p/Df5YmxeGqve/",
+      "publicado_en": "2026-11-18T17:39:51-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-18_viral-hora-pico"
+    "origen": "2026-10-07/feed-extra/2026-11-18_viral-hora-pico",
+    "contenedor": "17913547227665550"
   },
   {
     "id": "2026-11-18_h4",
@@ -6290,14 +6296,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18140491723629802",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033363280555310369",
+      "publicado_en": "2026-11-18T17:40:03-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-18_viral-hora-pico"
+    "depende_de": "2026-11-18_viral-hora-pico",
+    "contenedor": "17913547290665550"
   },
   {
     "id": "2026-11-18_h7",
@@ -6308,14 +6320,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17964537900248335",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033373585943433269",
+      "publicado_en": "2026-11-18T18:00:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-18_viral-hora-pico"
+    "depende_de": "2026-11-18_viral-hora-pico",
+    "contenedor": "17913549528665550"
   },
   {
     "id": "2026-11-18_viral-me-llevo-mis-datos",
@@ -6344,11 +6362,17 @@
       "¿Te frenó alguna vez no poder sacar tus datos? Sí, me pasó No, nunca Contestá SÍ o NO en los comentarios.",
       "Probalo 7 días gratis. Link en el perfil Sin tarjeta y con todas las funciones."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18226833121338377",
+      "permalink": "https://www.instagram.com/p/Df5sMwKmlaO/",
+      "publicado_en": "2026-11-18T20:31:02-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-18_viral-me-llevo-mis-datos"
+    "origen": "2026-10-07/feed-extra/2026-11-18_viral-me-llevo-mis-datos",
+    "contenedor": "17913562023665550"
   },
   {
     "id": "2026-11-18_h5",
@@ -6359,14 +6383,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17999217150020118",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033454114390849806",
+      "publicado_en": "2026-11-18T20:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-18_viral-me-llevo-mis-datos"
+    "depende_de": "2026-11-18_viral-me-llevo-mis-datos",
+    "contenedor": "17913562755665550"
   },
   {
     "id": "2026-11-19_viral-quien-entro",
