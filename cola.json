@@ -6425,11 +6425,17 @@
       "¿Sabés quién tiene acceso hoy a tus números? Sí, uno por uno No del todo Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil Y mirá quién entra, cuándo y desde dónde."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18202493236386507",
+      "permalink": "https://www.instagram.com/p/Df6-nbsmwfh/",
+      "publicado_en": "2026-11-19T08:31:14-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-19_viral-quien-entro"
+    "origen": "2026-10-07/feed-extra/2026-11-19_viral-quien-entro",
+    "contenedor": "17913638907665550"
   },
   {
     "id": "2026-11-19_h2",
@@ -6440,14 +6446,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18161198698520660",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033816503027850029",
+      "publicado_en": "2026-11-19T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-19_viral-quien-entro"
+    "depende_de": "2026-11-19_viral-quien-entro",
+    "contenedor": "17913639987665550"
   },
   {
     "id": "2026-11-19_h6",
@@ -6458,14 +6470,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18148602130583993",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033856769017731550",
+      "publicado_en": "2026-11-19T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-19_viral-quien-entro"
+    "depende_de": "2026-11-19_viral-quien-entro",
+    "contenedor": "17913649506665550"
   },
   {
     "id": "2026-11-19_xpost-lo-que-pide-un-auditor",
@@ -6492,11 +6510,17 @@
       "Placa con formato de post de X de @trackearpro: Una prueba de que nada se tocó después.",
       "Placa con formato de post de X de @trackearpro: En TrackeAR Pro exportás en PDF, Excel y JSON con una huella para verificar que nada cambió. Probalo 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18024560786724254",
+      "permalink": "https://www.instagram.com/p/Df7Pwf-lcI7/",
+      "publicado_en": "2026-11-19T11:01:01-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-19_xpost-lo-que-pide-un-auditor"
+    "origen": "2026-10-07/feed-extra/2026-11-19_xpost-lo-que-pide-un-auditor",
+    "contenedor": "17913656328665550"
   },
   {
     "id": "2026-11-19_h3",
@@ -6507,14 +6531,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17904803541608154",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4033892001397819219",
+      "publicado_en": "2026-11-19T11:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-19_xpost-lo-que-pide-un-auditor"
+    "depende_de": "2026-11-19_xpost-lo-que-pide-un-auditor",
+    "contenedor": "17913657381665550"
   },
   {
     "id": "2026-11-19_reel-fiado-de-mas",
