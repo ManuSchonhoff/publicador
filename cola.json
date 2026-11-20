@@ -6853,8 +6853,11 @@
       "Placa con formato de post de X de @trackearpro: Cuánto ganó desde las 00:00, en dólares.",
       "Placa con formato de post de X de @trackearpro: En TrackeAR Pro, el patrimonio, la ganancia del día y lo que requiere atención están en la primera pantalla. Probalo 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: pasaron 187 min de la hora prevista (el máximo es 180).",
+      "cuando": "2026-11-20T14:07:29-03:00"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-20_xpost-apenas-abris"
@@ -6868,8 +6871,11 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: el posteo que anuncia ('2026-11-20_xpost-apenas-abris') está en error",
+      "cuando": "2026-11-20T14:07:29-03:00"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
@@ -6886,11 +6892,17 @@
     ],
     "pie": "1.506 en vez de 1.560 en una venta de US$ 2.000: son $ 108.000 menos (datos de ejemplo). Y al cierre, la caja cuadra igual.\n\nAl cargar, “Lo que va a pasar” te muestra la venta contra la referencia antes de confirmar: en rojo si quedó abajo, en verde si está bien. Y si se confirma igual y se aleja más que el umbral que elegiste, aparece en “Requiere atención”, en Hoy.\n\n¿Te pasó? Si querés, contanos cuál fue el dígito más caro que viste en una caja.\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #controldecaja #financieras #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Un dígito dado vuelta: $ 108.000 menos.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18643915576057525",
+      "permalink": "https://www.instagram.com/reel/Df-J9stiWAL/",
+      "publicado_en": "2026-11-20T14:08:52-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-20_reel-1506-en-vez-de-1560/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-20_reel-1506-en-vez-de-1560"
+    "origen": "2026-10-07/feed-extra/2026-11-20_reel-1506-en-vez-de-1560",
+    "contenedor": "17913830421665550"
   },
   {
     "id": "2026-11-20_h1",
@@ -6901,14 +6913,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18221477179356541",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4034706633406050009",
+      "publicado_en": "2026-11-20T14:09:01-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-20_reel-1506-en-vez-de-1560"
+    "depende_de": "2026-11-20_reel-1506-en-vez-de-1560",
+    "contenedor": "17913830781665550"
   },
   {
     "id": "2026-11-20_viral-papeles-del-cliente",
@@ -6937,11 +6955,17 @@
       "¿Encontrarías hoy los papeles de tu mejor cliente? Sí, en un minuto Tendría que buscar Contestá en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18039833009916688",
+      "permalink": "https://www.instagram.com/p/Df-Te4TI_4C/",
+      "publicado_en": "2026-11-20T15:31:19-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-20_viral-papeles-del-cliente"
+    "origen": "2026-10-07/feed-extra/2026-11-20_viral-papeles-del-cliente",
+    "contenedor": "17913839841665550"
   },
   {
     "id": "2026-11-20_h4",
@@ -6952,14 +6976,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18643403590056892",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4034752676580497386",
+      "publicado_en": "2026-11-20T15:40:27-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-20_viral-papeles-del-cliente"
+    "depende_de": "2026-11-20_viral-papeles-del-cliente",
+    "contenedor": "17913840423665550"
   },
   {
     "id": "2026-11-20_h7",
@@ -6970,14 +7000,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17993194008075121",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4034823137163206982",
+      "publicado_en": "2026-11-20T18:00:33-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-20_viral-papeles-del-cliente"
+    "depende_de": "2026-11-20_viral-papeles-del-cliente",
+    "contenedor": "17913853176665550"
   },
   {
     "id": "2026-11-20_viral-sin-instalar",
