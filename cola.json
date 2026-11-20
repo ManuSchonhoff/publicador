@@ -7042,11 +7042,17 @@
       "¿Desde dónde mirás hoy tu negocio? Desde el celular Desde la compu del local Contestá en los comentarios.",
       "Probalo 7 días gratis. Link en el perfil Sin tarjeta y con todas las funciones."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18118933379061049",
+      "permalink": "https://www.instagram.com/p/Df-1zU-Gyj5/",
+      "publicado_en": "2026-11-20T20:31:10-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-20_viral-sin-instalar"
+    "origen": "2026-10-07/feed-extra/2026-11-20_viral-sin-instalar",
+    "contenedor": "17913869802665550"
   },
   {
     "id": "2026-11-20_h5",
@@ -7057,14 +7063,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17982826116130867",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4034903667849797369",
+      "publicado_en": "2026-11-20T20:40:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-20_viral-sin-instalar"
+    "depende_de": "2026-11-20_viral-sin-instalar",
+    "contenedor": "17913871623665550"
   },
   {
     "id": "2026-11-21_viral-misma-clave",
