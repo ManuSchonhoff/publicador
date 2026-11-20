@@ -6768,11 +6768,17 @@
       "¿Alguna vez una transferencia te infló el día? Sí, me pasó No, nunca Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18116987681598634",
+      "permalink": "https://www.instagram.com/p/Df9jaUNIMTa/",
+      "publicado_en": "2026-11-20T08:31:13-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-20_viral-entre-cajas"
+    "origen": "2026-10-07/feed-extra/2026-11-20_viral-entre-cajas",
+    "contenedor": "17913785481665550"
   },
   {
     "id": "2026-11-20_h2",
@@ -6783,14 +6789,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18098006615474051",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4034541280412328421",
+      "publicado_en": "2026-11-20T08:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-20_viral-entre-cajas"
+    "depende_de": "2026-11-20_viral-entre-cajas",
+    "contenedor": "17913786624665550"
   },
   {
     "id": "2026-11-20_h6",
@@ -6801,14 +6813,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18190237165411965",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4034581544925442136",
+      "publicado_en": "2026-11-20T10:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-20_viral-entre-cajas"
+    "depende_de": "2026-11-20_viral-entre-cajas",
+    "contenedor": "17913797382665550"
   },
   {
     "id": "2026-11-20_xpost-apenas-abris",
