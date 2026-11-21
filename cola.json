@@ -7105,11 +7105,17 @@
       "¿En tu casa cada uno tiene su usuario? Sí, cada uno No, compartimos Contestá SÍ o NO en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18128604706918100",
+      "permalink": "https://www.instagram.com/p/DgAMnOKGiRD/",
+      "publicado_en": "2026-11-21T09:09:45-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-21_viral-misma-clave"
+    "origen": "2026-10-07/feed-extra/2026-11-21_viral-misma-clave",
+    "contenedor": "17913964947665550"
   },
   {
     "id": "2026-11-21_h2",
@@ -7120,14 +7126,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18130829065894906",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4035280859922307350",
+      "publicado_en": "2026-11-21T09:09:57-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 2,
     "texto": "",
-    "depende_de": "2026-11-21_viral-misma-clave"
+    "depende_de": "2026-11-21_viral-misma-clave",
+    "contenedor": "17913964950665550"
   },
   {
     "id": "2026-11-21_h6",
@@ -7138,14 +7150,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17917978137493279",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4035306317333735583",
+      "publicado_en": "2026-11-21T10:00:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 6,
     "texto": "",
-    "depende_de": "2026-11-21_viral-misma-clave"
+    "depende_de": "2026-11-21_viral-misma-clave",
+    "contenedor": "17913970677665550"
   },
   {
     "id": "2026-11-21_xpost-mitos-de-los-sistemas",
@@ -7172,11 +7190,17 @@
       "Placa con formato de post de X de @trackearpro: “Mis cajeros no lo van a usar.”",
       "Placa con formato de post de X de @trackearpro: ¿Cuál pensabas vos? Contalo en los comentarios. Y probá TrackeAR Pro 7 días gratis: el link está en el perfil."
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18144485518620423",
+      "permalink": "https://www.instagram.com/p/DgAZWY9kQt3/",
+      "publicado_en": "2026-11-21T11:01:02-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-21_xpost-mitos-de-los-sistemas"
+    "origen": "2026-10-07/feed-extra/2026-11-21_xpost-mitos-de-los-sistemas",
+    "contenedor": "17913979890665550"
   },
   {
     "id": "2026-11-21_h3",
@@ -7187,14 +7211,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17926428132221752",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4035341554000413548",
+      "publicado_en": "2026-11-21T11:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 3,
     "texto": "",
-    "depende_de": "2026-11-21_xpost-mitos-de-los-sistemas"
+    "depende_de": "2026-11-21_xpost-mitos-de-los-sistemas",
+    "contenedor": "17913981828665550"
   },
   {
     "id": "2026-11-21_reel-alquiler-y-retiro",
@@ -7205,11 +7235,17 @@
     ],
     "pie": "El socio retiró US$ 3.000 el día que pagaste el alquiler, $ 1.850.000. La planilla dice −US$ 2.351,07. ¿Perdiste? (datos de ejemplo)\n\nNo. El alquiler sí baja la ganancia: US$ 1.193,55 a 1.550. El retiro no es pérdida: se suma de vuelta. La cuenta: patrimonio ahora − patrimonio a las 00:00 − aportes + retiros. Ganaste US$ 648,93: ni pérdida, ni plata de más para repartir.\n\nGasto: baja la ganancia. Retiro: no la toca.\n\n¿Acertaste?\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #cierredecaja #pymesargentinas #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: La cuenta bien hecha: el alquiler y el retiro de un socio.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18204933862390831",
+      "permalink": "https://www.instagram.com/reel/DgAnCbPnPwy/",
+      "publicado_en": "2026-11-21T13:01:15-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-21_reel-alquiler-y-retiro/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-21_reel-alquiler-y-retiro"
+    "origen": "2026-10-07/feed-extra/2026-11-21_reel-alquiler-y-retiro",
+    "contenedor": "17913997866665550"
   },
   {
     "id": "2026-11-21_h1",
@@ -7220,14 +7256,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18087337628708788",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4035401950837198610",
+      "publicado_en": "2026-11-21T13:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-21_reel-alquiler-y-retiro"
+    "depende_de": "2026-11-21_reel-alquiler-y-retiro",
+    "contenedor": "17913999882665550"
   },
   {
     "id": "2026-11-21_viral-pesos-en-cuatro-lados",
