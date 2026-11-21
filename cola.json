@@ -7298,11 +7298,17 @@
       "¿Sabés cuántos pesos tenés en total, ahora? Sí, al peso No, tengo que sumar Contestá SÍ o NO en los comentarios.",
       "Guardalo para el cierre. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17965505331240538",
+      "permalink": "https://www.instagram.com/p/DgA9aBqoN1F/",
+      "publicado_en": "2026-11-21T16:16:00-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-21_viral-pesos-en-cuatro-lados"
+    "origen": "2026-10-07/feed-extra/2026-11-21_viral-pesos-en-cuatro-lados",
+    "contenedor": "17914024917665550"
   },
   {
     "id": "2026-11-21_h4",
@@ -7313,14 +7319,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18422515693154303",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4035495530827132433",
+      "publicado_en": "2026-11-21T16:16:27-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 4,
     "texto": "",
-    "depende_de": "2026-11-21_viral-pesos-en-cuatro-lados"
+    "depende_de": "2026-11-21_viral-pesos-en-cuatro-lados",
+    "contenedor": "17914025058665550"
   },
   {
     "id": "2026-11-21_h7",
@@ -7331,14 +7343,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17960496771277724",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4035547912273409230",
+      "publicado_en": "2026-11-21T18:00:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 7,
     "texto": "",
-    "depende_de": "2026-11-21_viral-pesos-en-cuatro-lados"
+    "depende_de": "2026-11-21_viral-pesos-en-cuatro-lados",
+    "contenedor": "17914036068665550"
   },
   {
     "id": "2026-11-21_viral-dividendos",
@@ -7367,11 +7385,17 @@
       "¿Tenés anotado lo que se llevó cada socio? Sí, todo Más o menos Contestá en los comentarios.",
       "Mandáselo a tu socio. 7 días gratis · link en el perfil"
     ],
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18236433154336274",
+      "permalink": "https://www.instagram.com/p/DgBalfakZsS/",
+      "publicado_en": "2026-11-21T20:31:04-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-21_viral-dividendos"
+    "origen": "2026-10-07/feed-extra/2026-11-21_viral-dividendos",
+    "contenedor": "17914066086665550"
   },
   {
     "id": "2026-11-21_h5",
@@ -7382,14 +7406,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17893068321619664",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4035628444512454749",
+      "publicado_en": "2026-11-21T20:40:31-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 5,
     "texto": "",
-    "depende_de": "2026-11-21_viral-dividendos"
+    "depende_de": "2026-11-21_viral-dividendos",
+    "contenedor": "17914066905665550"
   },
   {
     "id": "2026-11-22_reel-cierre-desde-casa",
