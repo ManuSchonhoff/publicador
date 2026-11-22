@@ -7430,11 +7430,17 @@
     ],
     "pie": "Hoy cerró el encargado. ¿Cuadraron los dólares? En vez de un «cerré, todo bien», puso lo contado en cada caja y firmó: cada arqueo quedó con su nombre y la hora. Si dice que cuadra, lo firma él.\n\nDesde tu celular, en el Cierre diario ves caja por caja si cuadró, y en Auditoría, quién firmó y a qué hora (datos de ejemplo).\n\n¿Delegás el cierre?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#cierredecaja #casasdecambio #financieras #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Hoy cerró el encargado: el cierre, desde tu casa.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "17962097340268986",
+      "permalink": "https://www.instagram.com/reel/DgDL4BRHPwz/",
+      "publicado_en": "2026-11-22T13:01:17-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-22_reel-cierre-desde-casa/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-22_reel-cierre-desde-casa"
+    "origen": "2026-10-07/feed-extra/2026-11-22_reel-cierre-desde-casa",
+    "contenedor": "17914196703665550"
   },
   {
     "id": "2026-11-22_h1",
@@ -7445,14 +7451,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18116975804141313",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4036126724882451201",
+      "publicado_en": "2026-11-22T13:10:30-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-22_reel-cierre-desde-casa"
+    "depende_de": "2026-11-22_reel-cierre-desde-casa",
+    "contenedor": "17914198284665550"
   },
   {
     "id": "2026-11-23_reel-me-olvide-400",
