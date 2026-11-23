@@ -270,3 +270,5 @@
 2026-11-21 20:40 · 2026-11-21_h5 · historia · PUBLICADA · https://www.instagram.com/stories/trackearpro/4035628444512454749 · publicada por el publicador
 2026-11-22 13:01 · 2026-11-22_reel-cierre-desde-casa · reel · PUBLICADA · https://www.instagram.com/reel/DgDL4BRHPwz/ · publicada por el publicador
 2026-11-22 13:10 · 2026-11-22_h1 · historia · PUBLICADA · https://www.instagram.com/stories/trackearpro/4036126724882451201 · publicada por el publicador
+2026-11-23 16:52 · 2026-11-23_reel-me-olvide-400 · reel · ERROR · no se publicó: pasaron 232 min de la hora prevista (el máximo es 180).
+2026-11-23 16:52 · 2026-11-23_h1 · historia · ERROR · no se publicó: pasaron 222 min de la hora prevista (el máximo es 180).

@@ -7475,8 +7475,11 @@
     ],
     "pie": "Te vende US$ 3.000 a 1.550, le das $ 4.650.000 y te dice: «Me olvidé 400, ¿me llevo todo y vuelvo después?» (datos de ejemplo).\n\nEn la planilla queda en un comentario. En la app cargás lo que entró, US$ 2.600, y la compra queda Parcial. En Pendientes ves quién te debe, cuánto falta, de qué operación es, desde cuándo y quién la cargó. Si vence, aparece en Hoy, en «Requiere atención».\n\nSon US$ 400: $ 620.000 a 1.550 que no se pierden entre 300 filas.\n\n¿Te pasó con un cliente?\n\nLo hice para mi financiera. Ahora es para la tuya.\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casasdecambio #financieras #controldecaja #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: «Me olvidé 400»: la compra en partes, en Pendientes.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: pasaron 232 min de la hora prevista (el máximo es 180).",
+      "cuando": "2026-11-23T16:52:47-03:00"
+    },
     "portada": "media/2026-11-23_reel-me-olvide-400/portada.jpg",
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-23_reel-me-olvide-400"
@@ -7490,8 +7493,11 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: pasaron 222 min de la hora prevista (el máximo es 180).",
+      "cuando": "2026-11-23T16:52:47-03:00"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
