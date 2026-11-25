@@ -7559,11 +7559,17 @@
     ],
     "pie": "Los mismos pesos valen US$ 2.147 menos: $ 54.912.300 en la caja son US$ 35.427,29 a 1.550. Si el dólar pasa de 1.550 a 1.650, son US$ 33.280,18: US$ 2.147,11 menos sin tocar un billete (datos de ejemplo).\n\nLa app pasa cada caja a dólares a la cotización de referencia y mide tu ganancia del día en dólares, contra la foto de las 00:00. Con pesos en la caja, un día que venía en +US$ 1.615,30 queda en −US$ 531,81. No es un pronóstico: es la cuenta, con números de ejemplo.\n\n¿Dejás pesos a la noche?\n\nSomos un sistema de gestión para financieras y casas de cambio. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #financieras #cierredecaja #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: La cuenta bien hecha: los mismos pesos, US$ 2.147 menos.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18120808310008170",
+      "permalink": "https://www.instagram.com/reel/DgLHvNpB3wy/",
+      "publicado_en": "2026-11-25T14:59:09-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-25_reel-mismos-pesos/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-25_reel-mismos-pesos"
+    "origen": "2026-10-07/feed-extra/2026-11-25_reel-mismos-pesos",
+    "contenedor": "17914680954665550"
   },
   {
     "id": "2026-11-25_h1",
@@ -7574,14 +7580,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18117740540112137",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4038355826942517818",
+      "publicado_en": "2026-11-25T14:59:43-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-25_reel-mismos-pesos"
+    "depende_de": "2026-11-25_reel-mismos-pesos",
+    "contenedor": "17914681020665550"
   },
   {
     "id": "2026-11-26_reel-tres-dias-afuera",
