@@ -7604,8 +7604,11 @@
     ],
     "pie": "Tres días afuera, llamando y mandando mensajes a la oficina para saber cuántos pesos libres hay. «Ahora te digo, estoy contando.»\n\nEn Hoy ves desde el celular el patrimonio, la ganancia del día y el disponible de cada moneda, en la primera pantalla y sin llamar a nadie: +US$ 1.842,48 de ganancia hoy (datos de ejemplo).\n\n¿Sos el de las llamadas?\n\nLo hice para mi financiera. Ahora es para la tuya.\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casadecambio #controldecaja #pymesargentinas #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Tres días afuera: la caja y la ganancia, en tu celular.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: pasaron 210 min de la hora prevista (el máximo es 180).",
+      "cuando": "2026-11-26T16:30:03-03:00"
+    },
     "portada": "media/2026-11-26_reel-tres-dias-afuera/portada.jpg",
     "intentos": 0,
     "origen": "2026-10-07/feed-extra/2026-11-26_reel-tres-dias-afuera"
@@ -7619,8 +7622,11 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "error",
+    "resultado": {
+      "error": "no se publicó: pasaron 200 min de la hora prevista (el máximo es 180).",
+      "cuando": "2026-11-26T16:30:03-03:00"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
