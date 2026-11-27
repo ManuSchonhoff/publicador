@@ -7643,11 +7643,17 @@
     ],
     "pie": "Te trajo 9 clientes y otro te trajo 3. El de 3 mueve más: US$ 48.000 en la semana, contra US$ 21.000 (datos de ejemplo).\n\nEn el cuaderno gana el que más clientes trae. En Resultados ves a cada referido por lo que operaron sus clientes, de mayor a menor volumen, con la comisión que le generaron y lo que movieron en el período anterior del mismo largo: acá, la semana anterior. El de 9: −30 %.\n\n¿Medís a tus referidos por clientes?\n\nSomos un sistema de gestión. No compramos ni vendemos divisas.\n\nComentá GANANCIA y te mostramos cómo se ve en la app.\n\n#casasdecambio #financieras #pymesargentinas #trackearpro",
     "alt": "Reel de TrackeAR Pro, con voz en off y datos de ejemplo: Te trajo 9 clientes: el de 3 mueve más.",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18041673821848990",
+      "permalink": "https://www.instagram.com/reel/DgQD6MJs-VN/",
+      "publicado_en": "2026-11-27T13:02:09-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": "media/2026-11-27_reel-referidos/portada.jpg",
     "intentos": 0,
-    "origen": "2026-10-07/feed-extra/2026-11-27_reel-referidos"
+    "origen": "2026-10-07/feed-extra/2026-11-27_reel-referidos",
+    "contenedor": "17914968054665550"
   },
   {
     "id": "2026-11-27_h1",
@@ -7658,14 +7664,20 @@
     ],
     "pie": "",
     "alt": "",
-    "estado": "aprobado",
-    "resultado": null,
+    "estado": "publicado",
+    "resultado": {
+      "ig_id": "18196977733406552",
+      "permalink": "https://www.instagram.com/stories/trackearpro/4039750607506074979",
+      "publicado_en": "2026-11-27T13:10:32-03:00",
+      "nota": "publicada por el publicador"
+    },
     "portada": null,
     "intentos": 0,
     "origen": "2026-10-07/historias-auto",
     "orden": 1,
     "texto": "",
-    "depende_de": "2026-11-27_reel-referidos"
+    "depende_de": "2026-11-27_reel-referidos",
+    "contenedor": "17914969602665550"
   },
   {
     "id": "2026-11-28_reel-dos-locales",
